@@ -1,0 +1,77 @@
+Files used:
+  - 10_مؤشر_تغطية_الخدمات_الصحية_الشاملة.csv
+  - 09_مؤشرات_الإنفاق_والتمويل_الصحي.XLSX (sheet: Data)
+  - country_dictionary_v1.csv
+== country_dictionary_v1.csv ==
+Rows: 196 | Columns: ['ISO3', 'M49', 'Country', 'WB_Name', 'WHO_Name', 'GHED_Name', 'Nurses_Source_Name', 'Region', 'Income_Group', 'In_GHED', 'In_WHO_Doctors', 'In_WorldBank', 'In_Nurses_Source']
+Using ISO3 column = 'ISO3', Country column = 'Country'
+Dictionary ISO3 codes: 196
+
+== PART 1: UHC (file 10) ==
+Raw rows: 4680 | Raw columns: ['IndicatorCode', 'Indicator', 'ValueType', 'ParentLocationCode', 'ParentLocation', 'Location type', 'SpatialDimValueCode', 'Location', 'Period type', 'Period', 'IsLatestYear', 'Dim1 type', 'Dim1', 'Dim1ValueCode', 'Dim2 type', 'Dim2', 'Dim2ValueCode', 'Dim3 type', 'Dim3', 'Dim3ValueCode', 'DataSourceDimValueCode', 'DataSource', 'FactValueNumericPrefix', 'FactValueNumeric', 'FactValueUoM', 'FactValueNumericLowPrefix', 'FactValueNumericLow', 'FactValueNumericHighPrefix', 'FactValueNumericHigh', 'Value', 'FactValueTranslationID', 'FactComments', 'Language', 'DateModified']
+Columns used: code='SpatialDimValueCode' -> ISO3 | year='Period' -> Year | value='FactValueNumeric' -> UHC_Service_Coverage_Index
+Distinct values in 'Indicator': ['UHC Service Coverage Index (SDG 3.8.1)']
+Distinct values in 'IndicatorCode': ['UHC_INDEX_REPORTED']
+Raw distinct country codes: 195
+[UHC] rows with missing ISO3 or Year (excluded): 0
+[UHC] values outside 0-100: 0
+[UHC] ISO3 codes in data: 195 | mapped to dictionary: 195 | NOT in dictionary: 0
+[UHC] Duplicate ISO3+Year rows: 0
+[UHC] rows before: 4680 | after: 4680
+
+== PART 2: GHED (file 09) ==
+GHED raw columns: 4120 (only the required ones are read)
+Raw rows: 4612 | Raw distinct codes: 195
+Columns renamed: {'code': 'ISO3', 'year': 'Year', 'che_ppp_pc': 'Health_Exp_Per_Capita_PPP', 'che_gdp': 'Health_Exp_Pct_GDP', 'oops_che': 'OOP_Pct_Current_Health_Exp'}
+[GHED] rows with missing ISO3 or Year (excluded): 0
+[GHED] negative values in Health_Exp_Per_Capita_PPP: 0
+[GHED] negative values in Health_Exp_Pct_GDP: 0
+[GHED] OOP values outside 0-100: 0
+[GHED] Health_Exp_Pct_GDP > 100 (flag only, not modified): 0
+[GHED] ISO3 codes in data: 195 | mapped to dictionary: 195 | NOT in dictionary: 0
+[GHED] Duplicate ISO3+Year rows: 0
+[GHED] rows where all 3 indicators are NaN (kept, not filled): 2
+[GHED] rows before: 4612 | after: 4612
+
+--- Validation summary: healthcare_coverage_clean ---
+Rows: 4680 | Countries: 195 | Duplicates on ISO3+Year: 0
+UHC_Service_Coverage_Index: non-null=4680 | missing=0 | min year=2000 | max year=2023
+--- Validation summary: health_financing_clean ---
+Rows: 4612 | Countries: 195 | Duplicates on ISO3+Year: 0
+Health_Exp_Per_Capita_PPP: non-null=4609 | missing=3 | min year=2000 | max year=2024
+Health_Exp_Pct_GDP: non-null=4610 | missing=2 | min year=2000 | max year=2024
+OOP_Pct_Current_Health_Exp: non-null=4610 | missing=2 | min year=2000 | max year=2024
+
+Unmapped codes -> UHC: none
+Unmapped codes -> GHED: none
+
+Coverage Summary (Number_of_Countries_With_Data per Year; blank = no data):
+Indicator  Health_Exp_Pct_GDP  Health_Exp_Per_Capita_PPP  OOP_Pct_Current_Health_Exp  UHC_Service_Coverage_Index
+Year                                                                                                            
+2000                    186.0                      186.0                       186.0                       195.0
+2001                    186.0                      186.0                       186.0                       195.0
+2002                    187.0                      187.0                       187.0                       195.0
+2003                    189.0                      189.0                       189.0                       195.0
+2004                    189.0                      189.0                       189.0                       195.0
+2005                    189.0                      189.0                       189.0                       195.0
+2006                    189.0                      189.0                       189.0                       195.0
+2007                    189.0                      189.0                       189.0                       195.0
+2008                    189.0                      189.0                       189.0                       195.0
+2009                    189.0                      189.0                       189.0                       195.0
+2010                    190.0                      190.0                       190.0                       195.0
+2011                    191.0                      191.0                       191.0                       195.0
+2012                    191.0                      191.0                       191.0                       195.0
+2013                    193.0                      193.0                       193.0                       195.0
+2014                    193.0                      193.0                       193.0                       195.0
+2015                    193.0                      193.0                       193.0                       195.0
+2016                    193.0                      193.0                       193.0                       195.0
+2017                    194.0                      194.0                       194.0                       195.0
+2018                    195.0                      194.0                       195.0                       195.0
+2019                    195.0                      195.0                       195.0                       195.0
+2020                    195.0                      195.0                       195.0                       195.0
+2021                    195.0                      195.0                       195.0                       195.0
+2022                    194.0                      194.0                       194.0                       195.0
+2023                    194.0                      194.0                       194.0                       195.0
+2024                     22.0                       22.0                        22.0                         NaN
+
+Final: Duplicate ISO3 + Year = 0 in both outputs. Files saved.
