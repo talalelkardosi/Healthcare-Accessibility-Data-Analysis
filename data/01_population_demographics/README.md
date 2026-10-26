@@ -28,4 +28,3 @@ Prepare and validate the population and demographic indicators required for the 
 * Missing values remain missing; no zero-filling or interpolation.
 * Raw source files remain unchanged.
 * The dataset is reviewed before final project integration.
-<img width="1906" height="1078" alt="image" src="https://github.com/user-attachments/assets/30dc491e-55c1-4d94-b9e6-8577039eb1a3" />
