@@ -1,0 +1,31 @@
+Healthcare Accessibility & Capacity Analysis
+Data Cleaning Log
+=================
+
+1. Healthcare Workforce
+- Prepared doctors data using ISO3 and Year.
+- Joined population data using ISO3 and Year.
+- Calculated Doctors_Per_10k using total doctors and population.
+- Preserved missing values; no missing values were replaced with zero.
+- Combined doctors and nurses/midwives data using an outer join on ISO3 and Year.
+- Preserved country-year records even when one workforce measure was missing.
+- Excluded regional and world aggregates from the country-level nurses dataset.
+- Checked duplicate country-year keys, missing values, and negative rates.
+
+2. Healthcare Capacity
+- Prepared the hospital beds dataset.
+- Retained ISO3, Country_Source, Year, and Hospital_Beds_Per_10k.
+- Checked data types, missing values, duplicate ISO3-Year keys, and negative rates.
+- Preserved missing values without filling them.
+
+3. Data Quality Principles
+- Raw source files were not intentionally overwritten.
+- Country-year matching used ISO3 and Year where applicable.
+- Missing values were preserved rather than replaced with zero.
+- Validation checks were performed before saving the cleaned outputs.
+
+Output Files
+------------
+healthcare_workforce_clean.csv
+healthcare_capacity_clean.csv
+cleaning_log.txt
