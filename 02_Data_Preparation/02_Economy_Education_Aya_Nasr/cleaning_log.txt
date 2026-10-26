@@ -1,0 +1,48 @@
+DATA CLEANING LOG
+============================================================
+Dictionary rows: 196
+Unique dictionary ISO3 codes: 196
+
+Source file: 01_الناتج_المحلي_للفرد_بالقوة_الشرائية.xls
+Source rows: 265
+Year columns: 66
+Unmatched codes: 71
+Unmatched code list: ABW, AFE, AFW, ARB, ASM, BMU, CEB, CHI, CSS, CUW, CYM, EAP, EAR, EAS, ECA, ECS, EMU, EUU, FRO, GIB, GRL, GUM, HIC, HKG, HPC, IBD, IBT, IDA, IDB, IDX, IMN, INX, LAC, LCN, LDC, LIC, LMC, LMY, LTE, MAC, MAF, MEA, MIC, MNA, MNP, NAC, NCL, OED, OSS, PRE, PRI, PSS, PST, PYF, SAS, SSA, SSF, SST, SXM, TCA, TEA, TEC, TLA, TMN, TSA, TSS, UMC, VGB, VIR, WLD, XKX
+Invalid values in GDP_Per_Capita_PPP_2021: 0
+
+Source file: 02_معدل_معرفة_القراءة_والكتابة_للبالغين.xls
+Source rows: 265
+Year columns: 66
+Unmatched codes: 71
+Unmatched code list: ABW, AFE, AFW, ARB, ASM, BMU, CEB, CHI, CSS, CUW, CYM, EAP, EAR, EAS, ECA, ECS, EMU, EUU, FRO, GIB, GRL, GUM, HIC, HKG, HPC, IBD, IBT, IDA, IDB, IDX, IMN, INX, LAC, LCN, LDC, LIC, LMC, LMY, LTE, MAC, MAF, MEA, MIC, MNA, MNP, NAC, NCL, OED, OSS, PRE, PRI, PSS, PST, PYF, SAS, SSA, SSF, SST, SXM, TCA, TEA, TEC, TLA, TMN, TSA, TSS, UMC, VGB, VIR, WLD, XKX
+Invalid values in Adult_Literacy_Rate: 0
+
+Source file: 03_نسبة_الالتحاق_بالتعليم_الثانوي.xls
+Source rows: 265
+Year columns: 66
+Unmatched codes: 71
+Unmatched code list: ABW, AFE, AFW, ARB, ASM, BMU, CEB, CHI, CSS, CUW, CYM, EAP, EAR, EAS, ECA, ECS, EMU, EUU, FRO, GIB, GRL, GUM, HIC, HKG, HPC, IBD, IBT, IDA, IDB, IDX, IMN, INX, LAC, LCN, LDC, LIC, LMC, LMY, LTE, MAC, MAF, MEA, MIC, MNA, MNP, NAC, NCL, OED, OSS, PRE, PRI, PSS, PST, PYF, SAS, SSA, SSF, SST, SXM, TCA, TEA, TEC, TLA, TMN, TSA, TSS, UMC, VGB, VIR, WLD, XKX
+Invalid values in Secondary_Enrollment_Gross_Pct: 0
+
+Total unique unmatched codes excluded from final dataset: 71
+Review file: unmatched_codes_review.csv
+Merging Secondary_Enrollment_Gross_Pct: rows before=12804, rows after=12804
+Merging Adult_Literacy_Rate: rows before=12804, rows after=12804
+
+FINAL DATASET SUMMARY
+Final rows: 8634
+Final unique countries: 194
+Year range: 1970 - 2025
+Rows before removing all-missing records: 12804
+Rows removed because all indicators were missing: 4170
+Final duplicate ISO3 + Year keys: 0
+
+INDICATOR COVERAGE
+GDP_Per_Capita_PPP_2021: available=6630, missing=2004, missing_pct=23.21%, coverage_pct=76.79%
+Secondary_Enrollment_Gross_Pct: available=6023, missing=2611, missing_pct=30.24%, coverage_pct=69.76%
+Adult_Literacy_Rate: available=1102, missing=7532, missing_pct=87.24%, coverage_pct=12.76%
+
+Missing values were not imputed.
+No interpolation, forward fill, or backward fill was applied.
+Gross secondary enrollment values above 100% were retained.
+Source codes absent from the country dictionary were excluded from the final dataset and recorded for review.
