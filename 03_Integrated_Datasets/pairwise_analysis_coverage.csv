@@ -1,0 +1,13 @@
+﻿Comparison,Indicator_A,Indicator_B,Shared_Observations,Unique_Countries,First_Year,Last_Year,Coverage_Pct_Of_Integrated_Rows,Status
+UHC vs GDP per Capita PPP,UHC_Service_Coverage_Index,GDP_Per_Capita_PPP_2021,4450,186,2000,2023,34.62,CHECKED
+UHC vs Secondary Enrollment,UHC_Service_Coverage_Index,Secondary_Enrollment_Gross_Pct,3304,190,2000,2023,25.7,CHECKED
+UHC vs Adult Literacy,UHC_Service_Coverage_Index,Adult_Literacy_Rate,882,151,2000,2023,6.86,CHECKED
+UHC vs Doctors per 10k,UHC_Service_Coverage_Index,Doctors_Per_10k,2956,192,2000,2023,22.99,CHECKED
+UHC vs Nurses and Midwives per 10k,UHC_Service_Coverage_Index,Nurses_Midwives_Per_10k,2839,194,2000,2023,22.08,CHECKED
+UHC vs Hospital Beds per 10k,UHC_Service_Coverage_Index,Hospital_Beds_Per_10k,2958,193,2000,2023,23.01,CHECKED
+UHC vs Health Expenditure per Capita PPP,UHC_Service_Coverage_Index,Health_Exp_Per_Capita_PPP,4576,194,2000,2023,35.6,CHECKED
+UHC vs Health Expenditure % GDP,UHC_Service_Coverage_Index,Health_Exp_Pct_GDP,4577,194,2000,2023,35.6,CHECKED
+UHC vs Out-of-Pocket Expenditure,UHC_Service_Coverage_Index,OOP_Pct_Current_Health_Exp,4577,194,2000,2023,35.6,CHECKED
+Financial Hardship vs UHC,Financial_Hardship_Total_Pct,UHC_Service_Coverage_Index,981,159,2000,2023,7.63,CHECKED
+Financial Hardship vs Out-of-Pocket Expenditure,Financial_Hardship_Total_Pct,OOP_Pct_Current_Health_Exp,973,158,2000,2023,7.57,CHECKED
+Financial Hardship vs GDP per Capita PPP,Financial_Hardship_Total_Pct,GDP_Per_Capita_PPP_2021,1066,161,1990,2024,8.29,CHECKED

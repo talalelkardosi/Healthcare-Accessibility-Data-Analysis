@@ -1,0 +1,12 @@
+﻿Check,Result,Status
+Expected integrated rows,12855,PASS
+Integrated columns,27,PASS
+Unique ISO3 codes,196,PASS
+Minimum year,1960,PASS
+Maximum year,2025,PASS
+Duplicate ISO3 + Year keys,0,PASS
+Missing integration key values,0,PASS
+Source keys preserved,0,PASS
+Indicator value mismatches,0,PASS
+Indicator non-null count differences,0,PASS
+Financial equity records excluded from integration,9,DOCUMENTED REVIEW

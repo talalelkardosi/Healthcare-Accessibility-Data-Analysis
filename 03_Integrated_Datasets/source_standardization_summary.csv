@@ -1,0 +1,8 @@
+﻿Dataset,Original_Rows,Rows_Excluded_Not_In_Dictionary,Rows_After_Standardization,Unique_ISO3,Min_Year,Max_Year,Duplicate_ISO3_Year,Missing_Key_Values,Country_Column,Year_Column
+demographics_clean.csv,12804,0,12804,194,1960,2025,0,0,Country,Year
+socioeconomic_education_clean.csv,8634,0,8634,194,1970,2025,0,0,Country,Year
+healthcare_workforce_clean.csv,4624,0,4624,194,1971,2024,0,0,Country,Year
+healthcare_capacity_clean.csv,2958,0,2958,193,2000,2023,0,0,Country,Year
+healthcare_coverage_clean.csv,4680,0,4680,195,2000,2023,0,0,Country,Year
+health_financing_clean.csv,4612,0,4612,195,2000,2024,0,0,Country,Year
+financial_access_equity_clean.csv,1088,9,1079,165,1985,2024,0,0,Country,Year
