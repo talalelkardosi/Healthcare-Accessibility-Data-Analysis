@@ -1,0 +1,58 @@
+Section,Item,N_Obs,N_Countries,Mean,Median,Std,Min,Q1,Q3,Max,IQR,Skewness,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,1960,2023,Change,Pct_Change,Rank,ISO3,Country,Year,Value
+Descriptive_2023,Population,194.0,194.0,41363695.417525776,9155029.5,149819366.78714997,9816.0,2128680.5,31188362.5,1438069596.0,29059682.0,8.332783909540082,,,,,,,,,,,,,
+Descriptive_2023,Age_0_14_Pct,194.0,194.0,26.656049394131994,25.133727554971003,10.381112384425435,10.970817085997,17.390539684666827,36.62320422577725,49.1664451688289,19.232664541110424,0.3414041024603857,,,,,,,,,,,,,
+Descriptive_2023,Age_65_Plus_Pct,194.0,194.0,9.759903234564096,6.985192039526424,7.087510056391087,1.57209502793142,3.688160852664905,15.510817824344075,36.3572189493409,11.82265697167917,0.8802241736799757,,,,,,,,,,,,,
+Descriptive_2023,Urban_Population_Pct,194.0,194.0,60.49420857711658,62.46279154672795,22.476353862876874,14.6783761234077,42.12899773299282,78.67082101026365,100.0,36.54182327727083,-0.1872906402116646,,,,,,,,,,,,,
+Descriptive_2023,UHC_Service_Coverage_Index,195.0,195.0,68.35897435897436,72.0,15.385572267360889,26.0,57.5,81.0,92.0,23.5,-0.7147494306771232,,,,,,,,,,,,,
+Correlation_with_UHC_2023,Urbanization (%),193.0,193.0,,,,,,,,,,0.5986321787062141,3.7675105907477704e-20,0.6277565592869618,1.5151159741868981e-22,,,,,,,,,
+Correlation_with_UHC_2023,Elderly share 65+ (%),193.0,193.0,,,,,,,,,,0.6726501486104617,8.89676240831011e-27,0.7486858082767914,6.088478771104414e-36,,,,,,,,,
+Correlation_with_UHC_2023,Children share 0-14 (%),193.0,193.0,,,,,,,,,,-0.8588219869133846,2.193408393053304e-57,-0.8304312934896461,2.0744931675285097e-50,,,,,,,,,
+Correlation_with_UHC_2023,log10(Population),193.0,193.0,,,,,,,,,,-0.08443114869741447,0.24304032604016648,-0.032691180243855394,0.6517511475477042,,,,,,,,,
+Global_Trend_1960_vs_2023,N_Countries,,,,,,,,,,,,,,,,193.0,194.0,1.0,0.5,,,,,
+Global_Trend_1960_vs_2023,Total_Population,,,,,,,,,,,,,,,,3003406460.0,8024556911.0,5021150451.0,167.2,,,,,
+Global_Trend_1960_vs_2023,Age_0_14_Weighted,,,,,,,,,,,,,,,,37.36387524899704,25.10421050679273,-12.259664742204311,-32.8,,,,,
+Global_Trend_1960_vs_2023,Age_65_Plus_Weighted,,,,,,,,,,,,,,,,4.981610789211585,9.93927242038207,4.957661631170485,99.5,,,,,
+Global_Trend_1960_vs_2023,Urban_Weighted,,,,,,,,,,,,,,,,34.113458411631534,57.18821752961517,23.07475911798364,67.6,,,,,
+Global_Trend_1960_vs_2023,Age_0_14_Mean,,,,,,,,,,,,,,,,38.90424197295981,26.656049394131994,-12.248192578827815,-31.5,,,,,
+Global_Trend_1960_vs_2023,Age_65_Plus_Mean,,,,,,,,,,,,,,,,4.907407270632555,9.759903234564096,4.852495963931541,98.9,,,,,
+Global_Trend_1960_vs_2023,Urban_Mean,,,,,,,,,,,,,,,,34.15170209454902,60.49420857711658,26.342506482567558,77.1,,,,,
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,1.0,IND,India,2025.0,1463865525.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,2.0,CHN,China,2025.0,1406585000.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,3.0,USA,United States,2025.0,341784857.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,4.0,IDN,Indonesia,2025.0,285721236.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,5.0,PAK,Pakistan,2025.0,255219554.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,6.0,NGA,Nigeria,2025.0,237527782.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,7.0,BRA,Brazil,2025.0,212812405.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,8.0,BGD,Bangladesh,2025.0,175686899.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,9.0,RUS,Russian Federation,2025.0,143513328.0
+Cross_Country_Highest,Population,,,,,,,,,,,,,,,,,,,,10.0,ETH,Ethiopia,2025.0,135472051.0
+Cross_Country_Highest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,1.0,CAF,Central African Republic,2025.0,48.682635860092
+Cross_Country_Highest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,2.0,SOM,Somalia,2025.0,46.5538794486154
+Cross_Country_Highest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,3.0,NER,Niger,2025.0,46.2263651499287
+Cross_Country_Highest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,4.0,TCD,Chad,2025.0,45.961619628537
+Cross_Country_Highest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,5.0,COD,"Congo, The Democratic Republic of the",2025.0,45.9497905359213
+Cross_Country_Lowest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,1.0,KOR,"Korea, Republic of",2025.0,10.2044670479846
+Cross_Country_Lowest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,2.0,JPN,Japan,2025.0,11.2383980634698
+Cross_Country_Lowest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,3.0,AND,Andorra,2025.0,11.6181871912864
+Cross_Country_Lowest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,4.0,ITA,Italy,2025.0,11.6571656432714
+Cross_Country_Lowest,Age_0_14_Pct,,,,,,,,,,,,,,,,,,,,5.0,SGP,Singapore,2025.0,11.6891623727803
+Cross_Country_Highest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,1.0,MCO,Monaco,2025.0,36.0110586578337
+Cross_Country_Highest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,2.0,JPN,Japan,2025.0,29.9940966737423
+Cross_Country_Highest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,3.0,ITA,Italy,2025.0,25.0981380733118
+Cross_Country_Highest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,4.0,PRT,Portugal,2025.0,24.9426193763087
+Cross_Country_Highest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,5.0,GRC,Greece,2025.0,24.3998585549859
+Cross_Country_Lowest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,1.0,QAT,Qatar,2025.0,1.70081503237359
+Cross_Country_Lowest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,2.0,ARE,United Arab Emirates,2025.0,1.79231447206064
+Cross_Country_Lowest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,3.0,ZMB,Zambia,2025.0,2.00005028777659
+Cross_Country_Lowest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,4.0,TCD,Chad,2025.0,2.11894758567596
+Cross_Country_Lowest,Age_65_Plus_Pct,,,,,,,,,,,,,,,,,,,,5.0,CAF,Central African Republic,2025.0,2.19798298001082
+Cross_Country_Highest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,1.0,KWT,Kuwait,2025.0,100.0
+Cross_Country_Highest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,2.0,BHR,Bahrain,2025.0,100.0
+Cross_Country_Highest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,3.0,MCO,Monaco,2025.0,100.0
+Cross_Country_Highest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,4.0,NRU,Nauru,2025.0,100.0
+Cross_Country_Highest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,5.0,SGP,Singapore,2025.0,100.0
+Cross_Country_Lowest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,1.0,LIE,Liechtenstein,2025.0,14.6298998993293
+Cross_Country_Lowest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,2.0,PNG,Papua New Guinea,2025.0,15.7797448680276
+Cross_Country_Lowest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,3.0,WSM,Samoa,2025.0,17.5063874123422
+Cross_Country_Lowest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,4.0,MWI,Malawi,2025.0,17.5949868386317
+Cross_Country_Lowest,Urban_Population_Pct,,,,,,,,,,,,,,,,,,,,5.0,NER,Niger,2025.0,18.3740697195469
