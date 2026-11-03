@@ -1,0 +1,4 @@
+Comparison,Observations,Countries,Start Year,End Year,Spearman Correlation,P-value,Interpretation
+GDP per Capita vs UHC,4450,186,2000,2023,0.8628,< 0.001,Very strong positive association
+Secondary Enrollment vs UHC,3304,190,2000,2023,0.8262,< 0.001,Very strong positive association
+Adult Literacy vs UHC,882,151,2000,2023,0.6794,2.03e-120,Strong positive association
