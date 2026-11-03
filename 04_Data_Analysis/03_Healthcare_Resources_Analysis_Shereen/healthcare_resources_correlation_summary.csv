@@ -1,0 +1,4 @@
+Resource,Observations,Spearman_Correlation,P_Value,Correlation_Strength,Relationship,Statistical_Significance
+Doctors_Per_10k,2956,0.7383825397741295,0.0,Strong,Positive,Significant
+Nurses_Midwives_Per_10k,2839,0.7771079077770425,0.0,Strong,Positive,Significant
+Hospital_Beds_Per_10k,2958,0.48966862729589666,3.2238174131619747e-178,Moderate,Positive,Significant
