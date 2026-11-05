@@ -1,4 +1,4 @@
-# Regional & Income Group Comparative Analysis — Talal Abdelsabour
+# Regional & Income Group Comparative Analysis — Mahmoud
 
 ## Objective
 Compare global healthcare performance and equity indicators across the `Region` and `Income_Group` categories supplied in `country_dictionary_v1.csv`.
@@ -10,7 +10,6 @@ Compare global healthcare performance and equity indicators across the `Region` 
 The notebook joins the dictionary to the integrated data by `ISO3` using a left join. The integrated source file is not modified. In this supplied dictionary, PRK (Democratic People's Republic of Korea) has no `Region` or `Income_Group`; its records are retained in the joined dataset but omitted from comparisons that require the missing classification. No classification is imputed.
 
 ## Method
-
 ### Cross-sectional country comparison
 For every indicator, the analysis selects the latest non-missing observation for each country. Each country therefore contributes at most one value per indicator to group summaries and statistical tests. The selected observation's `Reference_Year` is retained and summarized because reporting years are not identical across all indicators or countries.
 

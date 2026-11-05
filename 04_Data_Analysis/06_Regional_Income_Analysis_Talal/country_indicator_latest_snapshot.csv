@@ -1,0 +1,2423 @@
+ISO3,Country,Reference_Year,Region,Income_Group,Value,Indicator
+AFG,Afghanistan,2024,EMR,Low,1964.4522889545608,GDP_Per_Capita_PPP_2021
+AGO,Angola,2025,AFR,Lower-middle,8760.190819631507,GDP_Per_Capita_PPP_2021
+ALB,Albania,2025,EUR,Upper-middle,22724.29381949489,GDP_Per_Capita_PPP_2021
+AND,Andorra,2025,EUR,High,67993.05241788825,GDP_Per_Capita_PPP_2021
+ARE,United Arab Emirates,2024,EMR,High,69701.78583552502,GDP_Per_Capita_PPP_2021
+ARG,Argentina,2025,AMR,Upper-middle,27846.598459723915,GDP_Per_Capita_PPP_2021
+ARM,Armenia,2025,EUR,Upper-middle,21153.47832857101,GDP_Per_Capita_PPP_2021
+ATG,Antigua and Barbuda,2025,AMR,High,30620.307555385883,GDP_Per_Capita_PPP_2021
+AUS,Australia,2025,WPR,High,60194.06335479612,GDP_Per_Capita_PPP_2021
+AUT,Austria,2025,EUR,High,63970.40085348593,GDP_Per_Capita_PPP_2021
+AZE,Azerbaijan,2025,EUR,Upper-middle,22314.216895733265,GDP_Per_Capita_PPP_2021
+BDI,Burundi,2025,AFR,Low,1066.5129924058615,GDP_Per_Capita_PPP_2021
+BEL,Belgium,2025,EUR,High,63488.42176225232,GDP_Per_Capita_PPP_2021
+BEN,Benin,2025,AFR,Lower-middle,4116.215155948796,GDP_Per_Capita_PPP_2021
+BFA,Burkina Faso,2025,AFR,Low,2624.8285827080326,GDP_Per_Capita_PPP_2021
+BGD,Bangladesh,2025,SEAR,Lower-middle,8676.755762250801,GDP_Per_Capita_PPP_2021
+BGR,Bulgaria,2025,EUR,High,35325.531788347434,GDP_Per_Capita_PPP_2021
+BHR,Bahrain,2025,EMR,High,60669.63077957724,GDP_Per_Capita_PPP_2021
+BHS,Bahamas,2024,AMR,High,36244.05001232444,GDP_Per_Capita_PPP_2021
+BIH,Bosnia and Herzegovina,2025,EUR,Upper-middle,21178.22600594972,GDP_Per_Capita_PPP_2021
+BLR,Belarus,2025,EUR,Upper-middle,29666.211571911696,GDP_Per_Capita_PPP_2021
+BLZ,Belize,2025,AMR,Upper-middle,12788.842371382603,GDP_Per_Capita_PPP_2021
+BOL,"Bolivia, Plurinational State of",2025,AMR,Lower-middle,11000.534522072763,GDP_Per_Capita_PPP_2021
+BRA,Brazil,2025,AMR,Upper-middle,20024.69682569025,GDP_Per_Capita_PPP_2021
+BRB,Barbados,2025,AMR,High,22127.36049797184,GDP_Per_Capita_PPP_2021
+BRN,Brunei Darussalam,2025,WPR,High,78985.12202695095,GDP_Per_Capita_PPP_2021
+BTN,Bhutan,2025,SEAR,Lower-middle,16743.87038545748,GDP_Per_Capita_PPP_2021
+BWA,Botswana,2025,AFR,Upper-middle,17687.204240793395,GDP_Per_Capita_PPP_2021
+CAF,Central African Republic,2025,AFR,Low,1122.7608334809663,GDP_Per_Capita_PPP_2021
+CAN,Canada,2025,AMR,High,57989.57846535583,GDP_Per_Capita_PPP_2021
+CHE,Switzerland,2025,EUR,High,85732.10975352318,GDP_Per_Capita_PPP_2021
+CHL,Chile,2025,AMR,High,30863.42231551688,GDP_Per_Capita_PPP_2021
+CHN,China,2025,WPR,Upper-middle,25066.5215296486,GDP_Per_Capita_PPP_2021
+CIV,Côte d'Ivoire,2025,AFR,Lower-middle,7014.845776930616,GDP_Per_Capita_PPP_2021
+CMR,Cameroon,2025,AFR,Lower-middle,4945.956409653343,GDP_Per_Capita_PPP_2021
+COD,"Congo, The Democratic Republic of the",2025,AFR,Low,1640.5662182427818,GDP_Per_Capita_PPP_2021
+COG,Congo,2025,AFR,Lower-middle,6194.0898128775625,GDP_Per_Capita_PPP_2021
+COL,Colombia,2025,AMR,Upper-middle,18778.64826319012,GDP_Per_Capita_PPP_2021
+COM,Comoros,2025,AFR,Lower-middle,3621.7662630434265,GDP_Per_Capita_PPP_2021
+CPV,Cabo Verde,2025,AFR,Lower-middle,10395.741504401234,GDP_Per_Capita_PPP_2021
+CRI,Costa Rica,2025,AMR,Upper-middle,28443.41276763877,GDP_Per_Capita_PPP_2021
+CYP,Cyprus,2025,EUR,High,54103.26171875,GDP_Per_Capita_PPP_2021
+CZE,Czechia,2025,EUR,High,49292.48787132084,GDP_Per_Capita_PPP_2021
+DEU,Germany,2025,EUR,High,62823.77366488221,GDP_Per_Capita_PPP_2021
+DJI,Djibouti,2025,EMR,Lower-middle,7222.549891875304,GDP_Per_Capita_PPP_2021
+DMA,Dominica,2025,AMR,Upper-middle,19409.29007001941,GDP_Per_Capita_PPP_2021
+DNK,Denmark,2025,EUR,High,72723.27478679921,GDP_Per_Capita_PPP_2021
+DOM,Dominican Republic,2025,AMR,Upper-middle,24543.342184341465,GDP_Per_Capita_PPP_2021
+DZA,Algeria,2025,AFR,Upper-middle,15882.713883632763,GDP_Per_Capita_PPP_2021
+ECU,Ecuador,2025,AMR,Upper-middle,14319.240655829948,GDP_Per_Capita_PPP_2021
+EGY,Egypt,2025,EMR,Lower-middle,17265.148860461682,GDP_Per_Capita_PPP_2021
+ESP,Spain,2025,EUR,High,49318.105559036994,GDP_Per_Capita_PPP_2021
+EST,Estonia,2025,EUR,High,41604.32266128056,GDP_Per_Capita_PPP_2021
+ETH,Ethiopia,2025,AFR,Low,3094.868118683516,GDP_Per_Capita_PPP_2021
+FIN,Finland,2025,EUR,High,55735.21749213258,GDP_Per_Capita_PPP_2021
+FJI,Fiji,2025,WPR,Upper-middle,13961.1183693541,GDP_Per_Capita_PPP_2021
+FRA,France,2025,EUR,High,55124.53925643946,GDP_Per_Capita_PPP_2021
+FSM,"Micronesia, Federated States of",2025,WPR,Lower-middle,3934.642683541105,GDP_Per_Capita_PPP_2021
+GAB,Gabon,2025,AFR,Upper-middle,18986.473876729346,GDP_Per_Capita_PPP_2021
+GBR,United Kingdom,2025,EUR,High,53993.117260788495,GDP_Per_Capita_PPP_2021
+GEO,Georgia,2025,EUR,Upper-middle,25135.7822457412,GDP_Per_Capita_PPP_2021
+GHA,Ghana,2025,AFR,Lower-middle,7357.833329930141,GDP_Per_Capita_PPP_2021
+GIN,Guinea,2025,AFR,Lower-middle,4216.859708045437,GDP_Per_Capita_PPP_2021
+GMB,Gambia,2025,AFR,Low,3166.621296444424,GDP_Per_Capita_PPP_2021
+GNB,Guinea-Bissau,2025,AFR,Low,2814.083559403274,GDP_Per_Capita_PPP_2021
+GNQ,Equatorial Guinea,2025,AFR,Upper-middle,13786.393293408884,GDP_Per_Capita_PPP_2021
+GRC,Greece,2025,EUR,High,38218.721628616,GDP_Per_Capita_PPP_2021
+GRD,Grenada,2025,AMR,Upper-middle,18240.99342379263,GDP_Per_Capita_PPP_2021
+GTM,Guatemala,2025,AMR,Upper-middle,12986.524114463158,GDP_Per_Capita_PPP_2021
+GUY,Guyana,2025,AMR,High,83658.67734759969,GDP_Per_Capita_PPP_2021
+HND,Honduras,2025,AMR,Lower-middle,6726.166850666582,GDP_Per_Capita_PPP_2021
+HRV,Croatia,2025,EUR,High,44172.04422849063,GDP_Per_Capita_PPP_2021
+HTI,Haiti,2025,AMR,Lower-middle,2677.893853255493,GDP_Per_Capita_PPP_2021
+HUN,Hungary,2025,EUR,High,41160.64191409832,GDP_Per_Capita_PPP_2021
+IDN,Indonesia,2025,WPR,Upper-middle,15091.00886046516,GDP_Per_Capita_PPP_2021
+IND,India,2025,SEAR,Lower-middle,10039.070891058707,GDP_Per_Capita_PPP_2021
+IRL,Ireland,2025,EUR,High,131338.44474504076,GDP_Per_Capita_PPP_2021
+IRN,"Iran, Islamic Republic of",2025,EMR,Upper-middle,16833.782167711706,GDP_Per_Capita_PPP_2021
+IRQ,Iraq,2025,EMR,Upper-middle,12191.556465830196,GDP_Per_Capita_PPP_2021
+ISL,Iceland,2025,EUR,High,68064.6854551866,GDP_Per_Capita_PPP_2021
+ISR,Israel,2025,EUR,High,48196.63451765618,GDP_Per_Capita_PPP_2021
+ITA,Italy,2025,EUR,High,53606.07895710112,GDP_Per_Capita_PPP_2021
+JAM,Jamaica,2025,AMR,Upper-middle,11357.915592063042,GDP_Per_Capita_PPP_2021
+JOR,Jordan,2025,EMR,Lower-middle,10794.240268773185,GDP_Per_Capita_PPP_2021
+JPN,Japan,2025,WPR,High,48283.37239594646,GDP_Per_Capita_PPP_2021
+KAZ,Kazakhstan,2025,EUR,Upper-middle,37850.57910429838,GDP_Per_Capita_PPP_2021
+KEN,Kenya,2025,AFR,Lower-middle,5995.401778956319,GDP_Per_Capita_PPP_2021
+KGZ,Kyrgyzstan,2025,EUR,Lower-middle,7878.449136696598,GDP_Per_Capita_PPP_2021
+KHM,Cambodia,2025,WPR,Lower-middle,7300.080782506343,GDP_Per_Capita_PPP_2021
+KIR,Kiribati,2025,WPR,Lower-middle,3363.995213267664,GDP_Per_Capita_PPP_2021
+KNA,Saint Kitts and Nevis,2025,AMR,High,31427.663082571715,GDP_Per_Capita_PPP_2021
+KOR,"Korea, Republic of",2025,WPR,High,55697.08480863279,GDP_Per_Capita_PPP_2021
+KWT,Kuwait,2025,EMR,High,48253.963885132005,GDP_Per_Capita_PPP_2021
+LAO,Lao People's Democratic Republic,2025,WPR,Lower-middle,8872.69396186433,GDP_Per_Capita_PPP_2021
+LBN,Lebanon,2024,EMR,Lower-middle,10469.221096693158,GDP_Per_Capita_PPP_2021
+LBR,Liberia,2025,AFR,Low,1692.9259113547507,GDP_Per_Capita_PPP_2021
+LBY,Libya,2025,EMR,Upper-middle,14118.206441856486,GDP_Per_Capita_PPP_2021
+LCA,Saint Lucia,2025,AMR,Upper-middle,24502.962864127647,GDP_Per_Capita_PPP_2021
+LKA,Sri Lanka,2025,SEAR,Lower-middle,14582.760374037369,GDP_Per_Capita_PPP_2021
+LSO,Lesotho,2025,AFR,Lower-middle,2720.957376534121,GDP_Per_Capita_PPP_2021
+LTU,Lithuania,2025,EUR,High,48839.543645294776,GDP_Per_Capita_PPP_2021
+LUX,Luxembourg,2025,EUR,High,127420.60162516528,GDP_Per_Capita_PPP_2021
+LVA,Latvia,2025,EUR,High,38800.54252818721,GDP_Per_Capita_PPP_2021
+MAR,Morocco,2025,EMR,Lower-middle,9495.4052734375,GDP_Per_Capita_PPP_2021
+MDA,"Moldova, Republic of",2025,EUR,Upper-middle,17087.187404481923,GDP_Per_Capita_PPP_2021
+MDG,Madagascar,2025,AFR,Low,1668.477023308542,GDP_Per_Capita_PPP_2021
+MDV,Maldives,2025,SEAR,Upper-middle,24401.315925363524,GDP_Per_Capita_PPP_2021
+MEX,Mexico,2025,AMR,Upper-middle,21911.92928427468,GDP_Per_Capita_PPP_2021
+MHL,Marshall Islands,2025,WPR,Upper-middle,7660.376955911684,GDP_Per_Capita_PPP_2021
+MKD,North Macedonia,2025,EUR,Upper-middle,25094.6225007185,GDP_Per_Capita_PPP_2021
+MLI,Mali,2025,AFR,Low,2993.251663592569,GDP_Per_Capita_PPP_2021
+MLT,Malta,2025,EUR,High,63655.51606596648,GDP_Per_Capita_PPP_2021
+MMR,Myanmar,2025,SEAR,Lower-middle,5137.100488256152,GDP_Per_Capita_PPP_2021
+MNE,Montenegro,2025,EUR,Upper-middle,28895.31719700713,GDP_Per_Capita_PPP_2021
+MNG,Mongolia,2025,WPR,Upper-middle,17772.534221255864,GDP_Per_Capita_PPP_2021
+MOZ,Mozambique,2025,AFR,Low,1450.95955248858,GDP_Per_Capita_PPP_2021
+MRT,Mauritania,2025,AFR,Lower-middle,6559.043219605656,GDP_Per_Capita_PPP_2021
+MUS,Mauritius,2025,AFR,Upper-middle,28769.51283077087,GDP_Per_Capita_PPP_2021
+MWI,Malawi,2025,AFR,Low,1623.0217852928226,GDP_Per_Capita_PPP_2021
+MYS,Malaysia,2025,WPR,Upper-middle,35461.44658058718,GDP_Per_Capita_PPP_2021
+NAM,Namibia,2025,AFR,Upper-middle,10242.284047121855,GDP_Per_Capita_PPP_2021
+NER,Niger,2025,AFR,Low,1860.548582726076,GDP_Per_Capita_PPP_2021
+NGA,Nigeria,2025,AFR,Lower-middle,8145.148083874695,GDP_Per_Capita_PPP_2021
+NIC,Nicaragua,2025,AMR,Lower-middle,7933.488880064118,GDP_Per_Capita_PPP_2021
+NLD,Netherlands,2025,EUR,High,71378.48563310123,GDP_Per_Capita_PPP_2021
+NOR,Norway,2025,EUR,High,95173.43082243668,GDP_Per_Capita_PPP_2021
+NPL,Nepal,2025,SEAR,Lower-middle,5276.923877255382,GDP_Per_Capita_PPP_2021
+NRU,Nauru,2025,WPR,High,12134.892088501278,GDP_Per_Capita_PPP_2021
+NZL,New Zealand,2025,WPR,High,48232.66519946959,GDP_Per_Capita_PPP_2021
+OMN,Oman,2025,EMR,High,36142.943979719385,GDP_Per_Capita_PPP_2021
+PAK,Pakistan,2025,EMR,Lower-middle,5617.25078028458,GDP_Per_Capita_PPP_2021
+PAN,Panama,2025,AMR,High,37516.17964285485,GDP_Per_Capita_PPP_2021
+PER,Peru,2025,AMR,Upper-middle,16079.124739484349,GDP_Per_Capita_PPP_2021
+PHL,Philippines,2025,WPR,Lower-middle,10747.545440860074,GDP_Per_Capita_PPP_2021
+PLW,Palau,2025,WPR,High,19698.59470322127,GDP_Per_Capita_PPP_2021
+PNG,Papua New Guinea,2025,WPR,Lower-middle,4456.231059621181,GDP_Per_Capita_PPP_2021
+POL,Poland,2025,EUR,High,46924.58878974773,GDP_Per_Capita_PPP_2021
+PRT,Portugal,2025,EUR,High,42576.81396735445,GDP_Per_Capita_PPP_2021
+PRY,Paraguay,2025,AMR,Upper-middle,17245.84584231183,GDP_Per_Capita_PPP_2021
+PSE,"Palestine, State of",2025,EMR,Lower-middle,4272.457620770194,GDP_Per_Capita_PPP_2021
+QAT,Qatar,2025,EMR,High,110135.69629769235,GDP_Per_Capita_PPP_2021
+ROU,Romania,2025,EUR,High,40845.98434401132,GDP_Per_Capita_PPP_2021
+RUS,Russian Federation,2025,EUR,High,42357.98828125,GDP_Per_Capita_PPP_2021
+RWA,Rwanda,2025,AFR,Low,3558.6800375380835,GDP_Per_Capita_PPP_2021
+SAU,Saudi Arabia,2025,EMR,High,63051.046725798646,GDP_Per_Capita_PPP_2021
+SDN,Sudan,2025,EMR,Low,1873.38562011719,GDP_Per_Capita_PPP_2021
+SEN,Senegal,2025,AFR,Lower-middle,4668.541676587259,GDP_Per_Capita_PPP_2021
+SGP,Singapore,2025,WPR,High,139592.61221076077,GDP_Per_Capita_PPP_2021
+SLB,Solomon Islands,2025,WPR,Lower-middle,2382.1314520674023,GDP_Per_Capita_PPP_2021
+SLE,Sierra Leone,2025,AFR,Low,3176.236812929961,GDP_Per_Capita_PPP_2021
+SLV,El Salvador,2025,AMR,Upper-middle,12050.02826570204,GDP_Per_Capita_PPP_2021
+SMR,San Marino,2023,EUR,High,70951.79196907149,GDP_Per_Capita_PPP_2021
+SOM,Somalia,2025,EMR,Low,1403.813890644664,GDP_Per_Capita_PPP_2021
+SRB,Serbia,2025,EUR,Upper-middle,27603.39163092872,GDP_Per_Capita_PPP_2021
+STP,Sao Tome and Principe,2025,AFR,Lower-middle,5459.213117663347,GDP_Per_Capita_PPP_2021
+SUR,Suriname,2025,AMR,Upper-middle,19357.39079693181,GDP_Per_Capita_PPP_2021
+SVK,Slovakia,2025,EUR,High,40689.817955742656,GDP_Per_Capita_PPP_2021
+SVN,Slovenia,2025,EUR,High,49091.01844059016,GDP_Per_Capita_PPP_2021
+SWE,Sweden,2025,EUR,High,63362.4612808079,GDP_Per_Capita_PPP_2021
+SWZ,Eswatini,2025,AFR,Lower-middle,10706.777804946763,GDP_Per_Capita_PPP_2021
+SYC,Seychelles,2025,AFR,High,30638.72171945226,GDP_Per_Capita_PPP_2021
+SYR,Syrian Arab Republic,2022,EMR,Low,4579.439736333409,GDP_Per_Capita_PPP_2021
+TCD,Chad,2025,AFR,Low,2480.509625009239,GDP_Per_Capita_PPP_2021
+TGO,Togo,2025,AFR,Low,3485.9818451207384,GDP_Per_Capita_PPP_2021
+THA,Thailand,2025,SEAR,Upper-middle,22431.75183808476,GDP_Per_Capita_PPP_2021
+TJK,Tajikistan,2025,EUR,Lower-middle,5061.847006236489,GDP_Per_Capita_PPP_2021
+TKM,Turkmenistan,2025,EUR,Upper-middle,19313.94302620247,GDP_Per_Capita_PPP_2021
+TLS,Timor-Leste,2025,SEAR,Lower-middle,4109.904478528903,GDP_Per_Capita_PPP_2021
+TON,Tonga,2025,WPR,Upper-middle,7412.866419688285,GDP_Per_Capita_PPP_2021
+TTO,Trinidad and Tobago,2025,AMR,High,31721.575741123605,GDP_Per_Capita_PPP_2021
+TUN,Tunisia,2025,EMR,Lower-middle,13017.634042297692,GDP_Per_Capita_PPP_2021
+TUR,Türkiye,2025,EUR,Upper-middle,37300.74857393543,GDP_Per_Capita_PPP_2021
+TUV,Tuvalu,2025,WPR,Upper-middle,5776.078493848446,GDP_Per_Capita_PPP_2021
+TZA,"Tanzania, United Republic of",2025,AFR,Lower-middle,3820.61181640625,GDP_Per_Capita_PPP_2021
+UGA,Uganda,2025,AFR,Low,2980.3794213550145,GDP_Per_Capita_PPP_2021
+UKR,Ukraine,2025,EUR,Upper-middle,16155.0732421875,GDP_Per_Capita_PPP_2021
+URY,Uruguay,2025,AMR,High,32741.624687790783,GDP_Per_Capita_PPP_2021
+USA,United States,2025,AMR,High,76931.31069904083,GDP_Per_Capita_PPP_2021
+UZB,Uzbekistan,2025,EUR,Lower-middle,11622.855624353117,GDP_Per_Capita_PPP_2021
+VCT,Saint Vincent and the Grenadines,2025,AMR,Upper-middle,19483.01276389937,GDP_Per_Capita_PPP_2021
+VNM,Viet Nam,2025,WPR,Lower-middle,15457.349940354665,GDP_Per_Capita_PPP_2021
+VUT,Vanuatu,2025,WPR,Lower-middle,3866.998149016736,GDP_Per_Capita_PPP_2021
+WSM,Samoa,2025,WPR,Lower-middle,7963.427490521526,GDP_Per_Capita_PPP_2021
+ZAF,South Africa,2025,AFR,Upper-middle,13592.048402092943,GDP_Per_Capita_PPP_2021
+ZMB,Zambia,2025,AFR,Lower-middle,3742.2564631649175,GDP_Per_Capita_PPP_2021
+ZWE,Zimbabwe,2025,AFR,Lower-middle,5529.233100161538,GDP_Per_Capita_PPP_2021
+AFG,Afghanistan,2023,EMR,Low,3.17,Doctors_Per_10k
+AGO,Angola,2024,AFR,Lower-middle,2.02,Doctors_Per_10k
+ALB,Albania,2020,EUR,Upper-middle,21.34,Doctors_Per_10k
+AND,Andorra,2024,EUR,High,51.14,Doctors_Per_10k
+ARE,United Arab Emirates,2023,EMR,High,30.37,Doctors_Per_10k
+ARG,Argentina,2023,AMR,Upper-middle,50.88,Doctors_Per_10k
+ARM,Armenia,2022,EUR,Upper-middle,32.6,Doctors_Per_10k
+ATG,Antigua and Barbuda,2024,AMR,High,43.19,Doctors_Per_10k
+AUS,Australia,2023,WPR,High,41.95,Doctors_Per_10k
+AUT,Austria,2024,EUR,High,56.35,Doctors_Per_10k
+AZE,Azerbaijan,2022,EUR,Upper-middle,32.33,Doctors_Per_10k
+BDI,Burundi,2024,AFR,Low,0.83,Doctors_Per_10k
+BEL,Belgium,2023,EUR,High,33.72,Doctors_Per_10k
+BEN,Benin,2024,AFR,Lower-middle,2.14,Doctors_Per_10k
+BFA,Burkina Faso,2024,AFR,Low,1.07,Doctors_Per_10k
+BGD,Bangladesh,2023,SEAR,Lower-middle,7.22,Doctors_Per_10k
+BGR,Bulgaria,2023,EUR,High,46.3,Doctors_Per_10k
+BHR,Bahrain,2020,EMR,High,7.46,Doctors_Per_10k
+BHS,Bahamas,2017,AMR,High,18.95,Doctors_Per_10k
+BIH,Bosnia and Herzegovina,2019,EUR,Upper-middle,25.84,Doctors_Per_10k
+BLR,Belarus,2024,EUR,Upper-middle,47.56,Doctors_Per_10k
+BLZ,Belize,2021,AMR,Upper-middle,13.36,Doctors_Per_10k
+BOL,"Bolivia, Plurinational State of",2021,AMR,Lower-middle,12.84,Doctors_Per_10k
+BRA,Brazil,2024,AMR,Upper-middle,24.98,Doctors_Per_10k
+BRB,Barbados,2023,AMR,High,23.98,Doctors_Per_10k
+BRN,Brunei Darussalam,2024,WPR,High,21.78,Doctors_Per_10k
+BTN,Bhutan,2022,SEAR,Lower-middle,5.53,Doctors_Per_10k
+BWA,Botswana,2024,AFR,Upper-middle,4.28,Doctors_Per_10k
+CAF,Central African Republic,2024,AFR,Low,1.0,Doctors_Per_10k
+CAN,Canada,2024,AMR,High,27.49,Doctors_Per_10k
+CHE,Switzerland,2023,EUR,High,45.5,Doctors_Per_10k
+CHL,Chile,2024,AMR,High,34.9,Doctors_Per_10k
+CHN,China,2023,WPR,Upper-middle,28.42,Doctors_Per_10k
+CIV,Côte d'Ivoire,2024,AFR,Lower-middle,2.54,Doctors_Per_10k
+CMR,Cameroon,2024,AFR,Lower-middle,0.88,Doctors_Per_10k
+COD,"Congo, The Democratic Republic of the",2022,AFR,Low,2.08,Doctors_Per_10k
+COG,Congo,2024,AFR,Lower-middle,4.98,Doctors_Per_10k
+COL,Colombia,2023,AMR,Upper-middle,25.37,Doctors_Per_10k
+COM,Comoros,2022,AFR,Lower-middle,4.24,Doctors_Per_10k
+CPV,Cabo Verde,2023,AFR,Lower-middle,7.29,Doctors_Per_10k
+CRI,Costa Rica,2022,AMR,Upper-middle,26.87,Doctors_Per_10k
+CUB,Cuba,2022,AMR,Upper-middle,85.05,Doctors_Per_10k
+CYP,Cyprus,2023,EUR,High,38.06,Doctors_Per_10k
+CZE,Czechia,2023,EUR,High,42.18,Doctors_Per_10k
+DEU,Germany,2023,EUR,High,46.63,Doctors_Per_10k
+DJI,Djibouti,2022,EMR,Lower-middle,2.11,Doctors_Per_10k
+DMA,Dominica,2018,AMR,Upper-middle,11.59,Doctors_Per_10k
+DNK,Denmark,2023,EUR,High,45.3,Doctors_Per_10k
+DOM,Dominican Republic,2024,AMR,Upper-middle,21.22,Doctors_Per_10k
+DZA,Algeria,2022,AFR,Upper-middle,16.6,Doctors_Per_10k
+ECU,Ecuador,2020,AMR,Upper-middle,23.13,Doctors_Per_10k
+EGY,Egypt,2021,EMR,Lower-middle,11.8,Doctors_Per_10k
+ERI,Eritrea,2023,AFR,Low,0.89,Doctors_Per_10k
+ESP,Spain,2023,EUR,High,43.89,Doctors_Per_10k
+EST,Estonia,2023,EUR,High,34.82,Doctors_Per_10k
+ETH,Ethiopia,2024,AFR,Low,1.56,Doctors_Per_10k
+FIN,Finland,2023,EUR,High,28.84,Doctors_Per_10k
+FJI,Fiji,2023,WPR,Upper-middle,7.54,Doctors_Per_10k
+FRA,France,2023,EUR,High,38.96,Doctors_Per_10k
+FSM,"Micronesia, Federated States of",2020,WPR,Lower-middle,9.74,Doctors_Per_10k
+GAB,Gabon,2022,AFR,Upper-middle,5.21,Doctors_Per_10k
+GBR,United Kingdom,2023,EUR,High,33.62,Doctors_Per_10k
+GEO,Georgia,2023,EUR,Upper-middle,57.82,Doctors_Per_10k
+GHA,Ghana,2024,AFR,Lower-middle,2.89,Doctors_Per_10k
+GIN,Guinea,2024,AFR,Lower-middle,1.15,Doctors_Per_10k
+GMB,Gambia,2023,AFR,Low,0.9,Doctors_Per_10k
+GNB,Guinea-Bissau,2024,AFR,Low,2.49,Doctors_Per_10k
+GNQ,Equatorial Guinea,2022,AFR,Upper-middle,1.52,Doctors_Per_10k
+GRC,Greece,2023,EUR,High,66.06,Doctors_Per_10k
+GRD,Grenada,2018,AMR,Upper-middle,13.83,Doctors_Per_10k
+GTM,Guatemala,2024,AMR,Upper-middle,16.27,Doctors_Per_10k
+GUY,Guyana,2023,AMR,High,12.49,Doctors_Per_10k
+HND,Honduras,2023,AMR,Lower-middle,19.02,Doctors_Per_10k
+HRV,Croatia,2023,EUR,High,40.11,Doctors_Per_10k
+HTI,Haiti,2022,AMR,Lower-middle,2.92,Doctors_Per_10k
+HUN,Hungary,2023,EUR,High,36.22,Doctors_Per_10k
+IDN,Indonesia,2024,WPR,Upper-middle,5.58,Doctors_Per_10k
+IND,India,2024,SEAR,Lower-middle,9.55,Doctors_Per_10k
+IRL,Ireland,2024,EUR,High,38.85,Doctors_Per_10k
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,18.11,Doctors_Per_10k
+IRQ,Iraq,2023,EMR,Upper-middle,10.64,Doctors_Per_10k
+ISL,Iceland,2024,EUR,High,46.6,Doctors_Per_10k
+ISR,Israel,2024,EUR,High,36.81,Doctors_Per_10k
+ITA,Italy,2023,EUR,High,53.53,Doctors_Per_10k
+JAM,Jamaica,2024,AMR,Upper-middle,10.22,Doctors_Per_10k
+JOR,Jordan,2024,EMR,Lower-middle,32.62,Doctors_Per_10k
+JPN,Japan,2022,WPR,High,26.46,Doctors_Per_10k
+KAZ,Kazakhstan,2024,EUR,Upper-middle,30.59,Doctors_Per_10k
+KEN,Kenya,2024,AFR,Lower-middle,2.6,Doctors_Per_10k
+KGZ,Kyrgyzstan,2024,EUR,Lower-middle,15.37,Doctors_Per_10k
+KHM,Cambodia,2019,WPR,Lower-middle,2.11,Doctors_Per_10k
+KIR,Kiribati,2023,WPR,Lower-middle,4.68,Doctors_Per_10k
+KNA,Saint Kitts and Nevis,2018,AMR,High,30.85,Doctors_Per_10k
+KOR,"Korea, Republic of",2023,WPR,High,26.65,Doctors_Per_10k
+KWT,Kuwait,2022,EMR,High,29.68,Doctors_Per_10k
+LAO,Lao People's Democratic Republic,2024,WPR,Lower-middle,3.77,Doctors_Per_10k
+LBN,Lebanon,2020,EMR,Lower-middle,26.8,Doctors_Per_10k
+LBR,Liberia,2022,AFR,Low,1.78,Doctors_Per_10k
+LBY,Libya,2017,EMR,Upper-middle,20.41,Doctors_Per_10k
+LCA,Saint Lucia,2020,AMR,Upper-middle,42.36,Doctors_Per_10k
+LKA,Sri Lanka,2023,SEAR,Lower-middle,11.84,Doctors_Per_10k
+LSO,Lesotho,2024,AFR,Lower-middle,1.84,Doctors_Per_10k
+LTU,Lithuania,2023,EUR,High,46.16,Doctors_Per_10k
+LUX,Luxembourg,2017,EUR,High,29.85,Doctors_Per_10k
+LVA,Latvia,2023,EUR,High,33.49,Doctors_Per_10k
+MAR,Morocco,2023,EMR,Lower-middle,7.93,Doctors_Per_10k
+MCO,Monaco,2020,EUR,High,86.2,Doctors_Per_10k
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,48.98,Doctors_Per_10k
+MDG,Madagascar,2024,AFR,Low,1.03,Doctors_Per_10k
+MDV,Maldives,2021,SEAR,Upper-middle,23.0,Doctors_Per_10k
+MEX,Mexico,2023,AMR,Upper-middle,27.52,Doctors_Per_10k
+MHL,Marshall Islands,2021,WPR,Upper-middle,11.36,Doctors_Per_10k
+MKD,North Macedonia,2022,EUR,Upper-middle,29.57,Doctors_Per_10k
+MLI,Mali,2024,AFR,Low,3.17,Doctors_Per_10k
+MLT,Malta,2023,EUR,High,45.5,Doctors_Per_10k
+MMR,Myanmar,2019,SEAR,Lower-middle,7.57,Doctors_Per_10k
+MNE,Montenegro,2024,EUR,Upper-middle,28.52,Doctors_Per_10k
+MNG,Mongolia,2024,WPR,Upper-middle,45.32,Doctors_Per_10k
+MOZ,Mozambique,2024,AFR,Low,0.91,Doctors_Per_10k
+MRT,Mauritania,2022,AFR,Lower-middle,2.61,Doctors_Per_10k
+MUS,Mauritius,2023,AFR,Upper-middle,30.75,Doctors_Per_10k
+MWI,Malawi,2024,AFR,Low,0.84,Doctors_Per_10k
+MYS,Malaysia,2024,WPR,Upper-middle,22.71,Doctors_Per_10k
+NAM,Namibia,2024,AFR,Upper-middle,5.58,Doctors_Per_10k
+NER,Niger,2023,AFR,Low,0.38,Doctors_Per_10k
+NGA,Nigeria,2024,AFR,Lower-middle,4.14,Doctors_Per_10k
+NIC,Nicaragua,2022,AMR,Lower-middle,9.08,Doctors_Per_10k
+NLD,Netherlands,2023,EUR,High,39.15,Doctors_Per_10k
+NOR,Norway,2023,EUR,High,49.74,Doctors_Per_10k
+NPL,Nepal,2024,SEAR,Lower-middle,10.88,Doctors_Per_10k
+NRU,Nauru,2015,WPR,High,12.78,Doctors_Per_10k
+NZL,New Zealand,2024,WPR,High,37.17,Doctors_Per_10k
+OMN,Oman,2024,EMR,High,21.37,Doctors_Per_10k
+PAK,Pakistan,2024,EMR,Lower-middle,12.84,Doctors_Per_10k
+PAN,Panama,2022,AMR,High,16.25,Doctors_Per_10k
+PER,Peru,2023,AMR,Upper-middle,16.88,Doctors_Per_10k
+PHL,Philippines,2024,WPR,Lower-middle,8.68,Doctors_Per_10k
+PLW,Palau,2023,WPR,High,18.05,Doctors_Per_10k
+PNG,Papua New Guinea,2024,WPR,Lower-middle,0.46,Doctors_Per_10k
+POL,Poland,2023,EUR,High,38.56,Doctors_Per_10k
+PRK,"Korea, Democratic People's Republic of",2024,,,30.99,Doctors_Per_10k
+PRT,Portugal,2023,EUR,High,59.38,Doctors_Per_10k
+PRY,Paraguay,2022,AMR,Upper-middle,38.93,Doctors_Per_10k
+QAT,Qatar,2024,EMR,High,33.45,Doctors_Per_10k
+ROU,Romania,2023,EUR,High,37.23,Doctors_Per_10k
+RUS,Russian Federation,2022,EUR,High,51.59,Doctors_Per_10k
+RWA,Rwanda,2024,AFR,Low,1.77,Doctors_Per_10k
+SAU,Saudi Arabia,2023,EMR,High,33.62,Doctors_Per_10k
+SDN,Sudan,2017,EMR,Low,2.5,Doctors_Per_10k
+SEN,Senegal,2024,AFR,Lower-middle,1.24,Doctors_Per_10k
+SGP,Singapore,2023,WPR,High,26.12,Doctors_Per_10k
+SLB,Solomon Islands,2024,WPR,Lower-middle,2.87,Doctors_Per_10k
+SLE,Sierra Leone,2022,AFR,Low,1.34,Doctors_Per_10k
+SLV,El Salvador,2023,AMR,Upper-middle,16.16,Doctors_Per_10k
+SMR,San Marino,2024,EUR,High,43.56,Doctors_Per_10k
+SOM,Somalia,2024,EMR,Low,0.65,Doctors_Per_10k
+SRB,Serbia,2023,EUR,Upper-middle,32.88,Doctors_Per_10k
+SSD,South Sudan,2024,AFR,Low,1.49,Doctors_Per_10k
+STP,Sao Tome and Principe,2022,AFR,Lower-middle,4.64,Doctors_Per_10k
+SUR,Suriname,2024,AMR,Upper-middle,13.07,Doctors_Per_10k
+SVK,Slovakia,2023,EUR,High,38.24,Doctors_Per_10k
+SVN,Slovenia,2023,EUR,High,35.04,Doctors_Per_10k
+SWE,Sweden,2022,EUR,High,44.74,Doctors_Per_10k
+SWZ,Eswatini,2023,AFR,Lower-middle,5.57,Doctors_Per_10k
+SYC,Seychelles,2024,AFR,High,17.55,Doctors_Per_10k
+SYR,Syrian Arab Republic,2022,EMR,Low,16.27,Doctors_Per_10k
+TCD,Chad,2024,AFR,Low,0.8,Doctors_Per_10k
+TGO,Togo,2024,AFR,Low,0.67,Doctors_Per_10k
+THA,Thailand,2023,SEAR,Upper-middle,5.91,Doctors_Per_10k
+TJK,Tajikistan,2023,EUR,Lower-middle,18.7,Doctors_Per_10k
+TKM,Turkmenistan,2024,EUR,Upper-middle,18.98,Doctors_Per_10k
+TLS,Timor-Leste,2023,SEAR,Lower-middle,7.68,Doctors_Per_10k
+TON,Tonga,2021,WPR,Upper-middle,10.14,Doctors_Per_10k
+TTO,Trinidad and Tobago,2021,AMR,High,45.22,Doctors_Per_10k
+TUN,Tunisia,2023,EMR,Lower-middle,12.38,Doctors_Per_10k
+TUR,Türkiye,2023,EUR,Upper-middle,23.93,Doctors_Per_10k
+TUV,Tuvalu,2024,WPR,Upper-middle,17.62,Doctors_Per_10k
+TZA,"Tanzania, United Republic of",2024,AFR,Lower-middle,1.75,Doctors_Per_10k
+UGA,Uganda,2024,AFR,Low,2.06,Doctors_Per_10k
+UKR,Ukraine,2023,EUR,Upper-middle,35.31,Doctors_Per_10k
+URY,Uruguay,2023,AMR,High,45.51,Doctors_Per_10k
+USA,United States,2022,AMR,High,27.14,Doctors_Per_10k
+UZB,Uzbekistan,2023,EUR,Lower-middle,23.23,Doctors_Per_10k
+VCT,Saint Vincent and the Grenadines,2024,AMR,Upper-middle,18.98,Doctors_Per_10k
+VEN,"Venezuela, Bolivarian Republic of",2017,AMR,Upper-middle,16.64,Doctors_Per_10k
+VNM,Viet Nam,2021,WPR,Lower-middle,11.07,Doctors_Per_10k
+VUT,Vanuatu,2019,WPR,Lower-middle,1.64,Doctors_Per_10k
+WSM,Samoa,2021,WPR,Lower-middle,5.61,Doctors_Per_10k
+YEM,Yemen,2022,EMR,Low,1.65,Doctors_Per_10k
+ZAF,South Africa,2024,AFR,Upper-middle,7.66,Doctors_Per_10k
+ZMB,Zambia,2024,AFR,Lower-middle,1.63,Doctors_Per_10k
+ZWE,Zimbabwe,2024,AFR,Lower-middle,1.86,Doctors_Per_10k
+AFG,Afghanistan,2023,EMR,Low,5.49,Nurses_Midwives_Per_10k
+AGO,Angola,2022,AFR,Lower-middle,18.73,Nurses_Midwives_Per_10k
+ALB,Albania,2020,EUR,Upper-middle,58.21,Nurses_Midwives_Per_10k
+AND,Andorra,2023,EUR,High,47.22,Nurses_Midwives_Per_10k
+ARE,United Arab Emirates,2022,EMR,High,61.87,Nurses_Midwives_Per_10k
+ARG,Argentina,2023,AMR,Upper-middle,47.49,Nurses_Midwives_Per_10k
+ARM,Armenia,2022,EUR,Upper-middle,47.47,Nurses_Midwives_Per_10k
+ATG,Antigua and Barbuda,2019,AMR,High,96.5,Nurses_Midwives_Per_10k
+AUS,Australia,2022,WPR,High,134.5,Nurses_Midwives_Per_10k
+AUT,Austria,2022,EUR,High,112.8,Nurses_Midwives_Per_10k
+AZE,Azerbaijan,2022,EUR,Upper-middle,55.78,Nurses_Midwives_Per_10k
+BDI,Burundi,2023,AFR,Low,7.94,Nurses_Midwives_Per_10k
+BEL,Belgium,2021,EUR,High,128.85,Nurses_Midwives_Per_10k
+BEN,Benin,2023,AFR,Lower-middle,6.11,Nurses_Midwives_Per_10k
+BFA,Burkina Faso,2023,AFR,Low,9.49,Nurses_Midwives_Per_10k
+BGD,Bangladesh,2023,SEAR,Lower-middle,6.64,Nurses_Midwives_Per_10k
+BGR,Bulgaria,2023,EUR,High,42.04,Nurses_Midwives_Per_10k
+BHR,Bahrain,2020,EMR,High,26.48,Nurses_Midwives_Per_10k
+BHS,Bahamas,2023,AMR,High,42.24,Nurses_Midwives_Per_10k
+BIH,Bosnia and Herzegovina,2022,EUR,Upper-middle,67.27,Nurses_Midwives_Per_10k
+BLR,Belarus,2023,EUR,Upper-middle,108.15,Nurses_Midwives_Per_10k
+BLZ,Belize,2023,AMR,Upper-middle,20.6,Nurses_Midwives_Per_10k
+BOL,"Bolivia, Plurinational State of",2021,AMR,Lower-middle,16.24,Nurses_Midwives_Per_10k
+BRA,Brazil,2023,AMR,Upper-middle,55.02,Nurses_Midwives_Per_10k
+BRB,Barbados,2023,AMR,High,36.66,Nurses_Midwives_Per_10k
+BRN,Brunei Darussalam,2021,WPR,High,66.17,Nurses_Midwives_Per_10k
+BTN,Bhutan,2022,SEAR,Lower-middle,20.52,Nurses_Midwives_Per_10k
+BWA,Botswana,2023,AFR,Upper-middle,30.18,Nurses_Midwives_Per_10k
+CAF,Central African Republic,2023,AFR,Low,10.97,Nurses_Midwives_Per_10k
+CAN,Canada,2023,AMR,High,112.57,Nurses_Midwives_Per_10k
+CHE,Switzerland,2022,EUR,High,187.6,Nurses_Midwives_Per_10k
+CHL,Chile,2023,AMR,High,54.54,Nurses_Midwives_Per_10k
+CHN,China,2022,WPR,Upper-middle,36.66,Nurses_Midwives_Per_10k
+CIV,Côte d'Ivoire,2023,AFR,Lower-middle,7.93,Nurses_Midwives_Per_10k
+CMR,Cameroon,2022,AFR,Lower-middle,6.59,Nurses_Midwives_Per_10k
+COD,"Congo, The Democratic Republic of the",2022,AFR,Low,11.68,Nurses_Midwives_Per_10k
+COG,Congo,2022,AFR,Lower-middle,11.21,Nurses_Midwives_Per_10k
+COK,Cook Islands,2020,WPR,High,76.92,Nurses_Midwives_Per_10k
+COL,Colombia,2023,AMR,Upper-middle,15.41,Nurses_Midwives_Per_10k
+COM,Comoros,2022,AFR,Lower-middle,16.44,Nurses_Midwives_Per_10k
+CPV,Cabo Verde,2023,AFR,Lower-middle,17.98,Nurses_Midwives_Per_10k
+CRI,Costa Rica,2022,AMR,Upper-middle,30.71,Nurses_Midwives_Per_10k
+CUB,Cuba,2020,AMR,Upper-middle,76.03,Nurses_Midwives_Per_10k
+CYP,Cyprus,2022,EUR,High,38.94,Nurses_Midwives_Per_10k
+CZE,Czechia,2022,EUR,High,95.3,Nurses_Midwives_Per_10k
+DEU,Germany,2022,EUR,High,122.49,Nurses_Midwives_Per_10k
+DJI,Djibouti,2022,EMR,Lower-middle,1.94,Nurses_Midwives_Per_10k
+DMA,Dominica,2018,AMR,Upper-middle,67.6,Nurses_Midwives_Per_10k
+DNK,Denmark,2021,EUR,High,121.86,Nurses_Midwives_Per_10k
+DOM,Dominican Republic,2023,AMR,Upper-middle,20.6,Nurses_Midwives_Per_10k
+DZA,Algeria,2022,AFR,Upper-middle,25.08,Nurses_Midwives_Per_10k
+ECU,Ecuador,2018,AMR,Upper-middle,25.11,Nurses_Midwives_Per_10k
+EGY,Egypt,2018,EMR,Lower-middle,17.94,Nurses_Midwives_Per_10k
+ERI,Eritrea,2022,AFR,Low,15.43,Nurses_Midwives_Per_10k
+ESP,Spain,2022,EUR,High,64.06,Nurses_Midwives_Per_10k
+EST,Estonia,2023,EUR,High,66.58,Nurses_Midwives_Per_10k
+ETH,Ethiopia,2022,AFR,Low,12.22,Nurses_Midwives_Per_10k
+FIN,Finland,2021,EUR,High,140.13,Nurses_Midwives_Per_10k
+FJI,Fiji,2019,WPR,Upper-middle,38.52,Nurses_Midwives_Per_10k
+FRA,France,2021,EUR,High,94.22,Nurses_Midwives_Per_10k
+FSM,"Micronesia, Federated States of",2019,WPR,Lower-middle,22.21,Nurses_Midwives_Per_10k
+GAB,Gabon,2022,AFR,Upper-middle,23.7,Nurses_Midwives_Per_10k
+GBR,United Kingdom,2023,EUR,High,95.49,Nurses_Midwives_Per_10k
+GEO,Georgia,2023,EUR,Upper-middle,59.67,Nurses_Midwives_Per_10k
+GHA,Ghana,2023,AFR,Lower-middle,41.1,Nurses_Midwives_Per_10k
+GIN,Guinea,2022,AFR,Lower-middle,4.21,Nurses_Midwives_Per_10k
+GMB,Gambia,2023,AFR,Low,6.58,Nurses_Midwives_Per_10k
+GNB,Guinea-Bissau,2022,AFR,Low,9.9,Nurses_Midwives_Per_10k
+GNQ,Equatorial Guinea,2022,AFR,Upper-middle,13.75,Nurses_Midwives_Per_10k
+GRC,Greece,2022,EUR,High,41.14,Nurses_Midwives_Per_10k
+GRD,Grenada,2023,AMR,Upper-middle,45.77,Nurses_Midwives_Per_10k
+GTM,Guatemala,2023,AMR,Upper-middle,22.73,Nurses_Midwives_Per_10k
+GUY,Guyana,2023,AMR,High,39.27,Nurses_Midwives_Per_10k
+HND,Honduras,2023,AMR,Lower-middle,7.35,Nurses_Midwives_Per_10k
+HRV,Croatia,2022,EUR,High,79.99,Nurses_Midwives_Per_10k
+HTI,Haiti,2022,AMR,Lower-middle,7.32,Nurses_Midwives_Per_10k
+HUN,Hungary,2022,EUR,High,56.65,Nurses_Midwives_Per_10k
+IDN,Indonesia,2023,WPR,Upper-middle,32.4,Nurses_Midwives_Per_10k
+IND,India,2020,SEAR,Lower-middle,17.2,Nurses_Midwives_Per_10k
+IRL,Ireland,2023,EUR,High,147.77,Nurses_Midwives_Per_10k
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,28.76,Nurses_Midwives_Per_10k
+IRQ,Iraq,2022,EMR,Upper-middle,26.48,Nurses_Midwives_Per_10k
+ISL,Iceland,2023,EUR,High,158.64,Nurses_Midwives_Per_10k
+ISR,Israel,2023,EUR,High,58.99,Nurses_Midwives_Per_10k
+ITA,Italy,2022,EUR,High,67.55,Nurses_Midwives_Per_10k
+JAM,Jamaica,2023,AMR,Upper-middle,16.17,Nurses_Midwives_Per_10k
+JOR,Jordan,2023,EMR,Lower-middle,33.33,Nurses_Midwives_Per_10k
+JPN,Japan,2022,WPR,High,129.78,Nurses_Midwives_Per_10k
+KAZ,Kazakhstan,2023,EUR,Upper-middle,64.9,Nurses_Midwives_Per_10k
+KEN,Kenya,2023,AFR,Lower-middle,22.73,Nurses_Midwives_Per_10k
+KGZ,Kyrgyzstan,2023,EUR,Lower-middle,40.76,Nurses_Midwives_Per_10k
+KHM,Cambodia,2019,WPR,Lower-middle,10.08,Nurses_Midwives_Per_10k
+KIR,Kiribati,2018,WPR,Lower-middle,36.28,Nurses_Midwives_Per_10k
+KNA,Saint Kitts and Nevis,2023,AMR,High,65.81,Nurses_Midwives_Per_10k
+KOR,"Korea, Republic of",2022,WPR,High,90.86,Nurses_Midwives_Per_10k
+KWT,Kuwait,2020,EMR,High,45.45,Nurses_Midwives_Per_10k
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,10.27,Nurses_Midwives_Per_10k
+LBN,Lebanon,2018,EMR,Lower-middle,19.18,Nurses_Midwives_Per_10k
+LBR,Liberia,2022,AFR,Low,10.07,Nurses_Midwives_Per_10k
+LBY,Libya,2017,EMR,Upper-middle,63.77,Nurses_Midwives_Per_10k
+LCA,Saint Lucia,2023,AMR,Upper-middle,53.43,Nurses_Midwives_Per_10k
+LKA,Sri Lanka,2023,SEAR,Lower-middle,22.58,Nurses_Midwives_Per_10k
+LSO,Lesotho,2022,AFR,Lower-middle,17.56,Nurses_Midwives_Per_10k
+LTU,Lithuania,2022,EUR,High,78.43,Nurses_Midwives_Per_10k
+LUX,Luxembourg,2023,EUR,High,137.21,Nurses_Midwives_Per_10k
+LVA,Latvia,2022,EUR,High,43.74,Nurses_Midwives_Per_10k
+MAR,Morocco,2023,EMR,Lower-middle,8.69,Nurses_Midwives_Per_10k
+MCO,Monaco,2014,EUR,High,208.31,Nurses_Midwives_Per_10k
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,63.17,Nurses_Midwives_Per_10k
+MDG,Madagascar,2022,AFR,Low,2.81,Nurses_Midwives_Per_10k
+MDV,Maldives,2020,SEAR,Upper-middle,50.17,Nurses_Midwives_Per_10k
+MEX,Mexico,2022,AMR,Upper-middle,30.28,Nurses_Midwives_Per_10k
+MHL,Marshall Islands,2018,WPR,Upper-middle,43.05,Nurses_Midwives_Per_10k
+MKD,North Macedonia,2022,EUR,Upper-middle,55.15,Nurses_Midwives_Per_10k
+MLI,Mali,2023,AFR,Low,2.68,Nurses_Midwives_Per_10k
+MLT,Malta,2023,EUR,High,82.44,Nurses_Midwives_Per_10k
+MMR,Myanmar,2022,SEAR,Lower-middle,2.05,Nurses_Midwives_Per_10k
+MNE,Montenegro,2023,EUR,Upper-middle,60.8,Nurses_Midwives_Per_10k
+MNG,Mongolia,2018,WPR,Upper-middle,42.17,Nurses_Midwives_Per_10k
+MOZ,Mozambique,2022,AFR,Low,9.34,Nurses_Midwives_Per_10k
+MRT,Mauritania,2022,AFR,Lower-middle,16.09,Nurses_Midwives_Per_10k
+MUS,Mauritius,2022,AFR,Upper-middle,40.48,Nurses_Midwives_Per_10k
+MWI,Malawi,2022,AFR,Low,5.07,Nurses_Midwives_Per_10k
+MYS,Malaysia,2023,WPR,Upper-middle,40.54,Nurses_Midwives_Per_10k
+NAM,Namibia,2022,AFR,Upper-middle,53.86,Nurses_Midwives_Per_10k
+NER,Niger,2023,AFR,Low,4.21,Nurses_Midwives_Per_10k
+NGA,Nigeria,2022,AFR,Lower-middle,16.47,Nurses_Midwives_Per_10k
+NIC,Nicaragua,2017,AMR,Lower-middle,15.69,Nurses_Midwives_Per_10k
+NIU,Niue,2018,WPR,High,111.11,Nurses_Midwives_Per_10k
+NLD,Netherlands,2022,EUR,High,116.65,Nurses_Midwives_Per_10k
+NOR,Norway,2023,EUR,High,165.09,Nurses_Midwives_Per_10k
+NPL,Nepal,2023,SEAR,Lower-middle,40.92,Nurses_Midwives_Per_10k
+NRU,Nauru,2018,WPR,High,73.04,Nurses_Midwives_Per_10k
+NZL,New Zealand,2023,WPR,High,123.04,Nurses_Midwives_Per_10k
+OMN,Oman,2022,EMR,High,46.61,Nurses_Midwives_Per_10k
+PAK,Pakistan,2021,EMR,Lower-middle,5.2,Nurses_Midwives_Per_10k
+PAN,Panama,2022,AMR,High,33.45,Nurses_Midwives_Per_10k
+PER,Peru,2023,AMR,Upper-middle,27.38,Nurses_Midwives_Per_10k
+PHL,Philippines,2021,WPR,Lower-middle,47.88,Nurses_Midwives_Per_10k
+PLW,Palau,2023,WPR,High,66.1,Nurses_Midwives_Per_10k
+PNG,Papua New Guinea,2021,WPR,Lower-middle,5.08,Nurses_Midwives_Per_10k
+POL,Poland,2022,EUR,High,63.25,Nurses_Midwives_Per_10k
+PRK,"Korea, Democratic People's Republic of",2017,,,43.82,Nurses_Midwives_Per_10k
+PRT,Portugal,2023,EUR,High,80.09,Nurses_Midwives_Per_10k
+PRY,Paraguay,2022,AMR,Upper-middle,94.09,Nurses_Midwives_Per_10k
+QAT,Qatar,2023,EMR,High,84.89,Nurses_Midwives_Per_10k
+ROU,Romania,2022,EUR,High,82.53,Nurses_Midwives_Per_10k
+RUS,Russian Federation,2022,EUR,High,70.39,Nurses_Midwives_Per_10k
+RWA,Rwanda,2022,AFR,Low,11.06,Nurses_Midwives_Per_10k
+SAU,Saudi Arabia,2023,EMR,High,65.57,Nurses_Midwives_Per_10k
+SDN,Sudan,2018,EMR,Low,10.83,Nurses_Midwives_Per_10k
+SEN,Senegal,2023,AFR,Lower-middle,4.24,Nurses_Midwives_Per_10k
+SGP,Singapore,2022,WPR,High,65.59,Nurses_Midwives_Per_10k
+SLB,Solomon Islands,2023,WPR,Lower-middle,20.01,Nurses_Midwives_Per_10k
+SLE,Sierra Leone,2022,AFR,Low,11.63,Nurses_Midwives_Per_10k
+SLV,El Salvador,2022,AMR,Upper-middle,21.79,Nurses_Midwives_Per_10k
+SMR,San Marino,2023,EUR,High,94.36,Nurses_Midwives_Per_10k
+SOM,Somalia,2014,EMR,Low,2.61,Nurses_Midwives_Per_10k
+SRB,Serbia,2022,EUR,Upper-middle,66.89,Nurses_Midwives_Per_10k
+SSD,South Sudan,2022,AFR,Low,6.91,Nurses_Midwives_Per_10k
+STP,Sao Tome and Principe,2022,AFR,Lower-middle,21.65,Nurses_Midwives_Per_10k
+SUR,Suriname,2023,AMR,Upper-middle,17.27,Nurses_Midwives_Per_10k
+SVK,Slovakia,2022,EUR,High,60.14,Nurses_Midwives_Per_10k
+SVN,Slovenia,2022,EUR,High,105.63,Nurses_Midwives_Per_10k
+SWE,Sweden,2021,EUR,High,116.65,Nurses_Midwives_Per_10k
+SWZ,Eswatini,2023,AFR,Lower-middle,42.6,Nurses_Midwives_Per_10k
+SYC,Seychelles,2023,AFR,High,73.2,Nurses_Midwives_Per_10k
+SYR,Syrian Arab Republic,2021,EMR,Low,17.57,Nurses_Midwives_Per_10k
+TCD,Chad,2023,AFR,Low,1.67,Nurses_Midwives_Per_10k
+TGO,Togo,2022,AFR,Low,4.94,Nurses_Midwives_Per_10k
+THA,Thailand,2023,SEAR,Upper-middle,35.72,Nurses_Midwives_Per_10k
+TJK,Tajikistan,2023,EUR,Lower-middle,64.53,Nurses_Midwives_Per_10k
+TKM,Turkmenistan,2023,EUR,Upper-middle,34.88,Nurses_Midwives_Per_10k
+TLS,Timor-Leste,2020,SEAR,Lower-middle,17.38,Nurses_Midwives_Per_10k
+TON,Tonga,2021,WPR,Upper-middle,41.99,Nurses_Midwives_Per_10k
+TTO,Trinidad and Tobago,2023,AMR,High,41.08,Nurses_Midwives_Per_10k
+TUN,Tunisia,2021,EMR,Lower-middle,21.61,Nurses_Midwives_Per_10k
+TUR,Türkiye,2022,EUR,Upper-middle,34.83,Nurses_Midwives_Per_10k
+TUV,Tuvalu,2020,WPR,Upper-middle,39.42,Nurses_Midwives_Per_10k
+TZA,"Tanzania, United Republic of",2023,AFR,Lower-middle,6.93,Nurses_Midwives_Per_10k
+UGA,Uganda,2022,AFR,Low,22.65,Nurses_Midwives_Per_10k
+UKR,Ukraine,2023,EUR,Upper-middle,60.79,Nurses_Midwives_Per_10k
+URY,Uruguay,2022,AMR,High,73.86,Nurses_Midwives_Per_10k
+USA,United States,2022,AMR,High,133.76,Nurses_Midwives_Per_10k
+UZB,Uzbekistan,2020,EUR,Lower-middle,110.83,Nurses_Midwives_Per_10k
+VCT,Saint Vincent and the Grenadines,2023,AMR,Upper-middle,47.38,Nurses_Midwives_Per_10k
+VEN,"Venezuela, Bolivarian Republic of",2018,AMR,Upper-middle,20.03,Nurses_Midwives_Per_10k
+VNM,Viet Nam,2016,WPR,Lower-middle,14.41,Nurses_Midwives_Per_10k
+VUT,Vanuatu,2019,WPR,Lower-middle,14.59,Nurses_Midwives_Per_10k
+WSM,Samoa,2020,WPR,Lower-middle,30.58,Nurses_Midwives_Per_10k
+YEM,Yemen,2023,EMR,Low,5.41,Nurses_Midwives_Per_10k
+ZAF,South Africa,2022,AFR,Upper-middle,63.93,Nurses_Midwives_Per_10k
+ZMB,Zambia,2022,AFR,Lower-middle,29.36,Nurses_Midwives_Per_10k
+ZWE,Zimbabwe,2022,AFR,Lower-middle,30.71,Nurses_Midwives_Per_10k
+AFG,Afghanistan,2023,EMR,Low,3.53,Hospital_Beds_Per_10k
+AGO,Angola,2019,AFR,Lower-middle,7.53,Hospital_Beds_Per_10k
+ALB,Albania,2020,EUR,Upper-middle,29.02,Hospital_Beds_Per_10k
+AND,Andorra,2008,EUR,High,25.62,Hospital_Beds_Per_10k
+ARE,United Arab Emirates,2022,EMR,High,18.65,Hospital_Beds_Per_10k
+ARG,Argentina,2022,AMR,Upper-middle,33.6,Hospital_Beds_Per_10k
+ARM,Armenia,2023,EUR,Upper-middle,42.4,Hospital_Beds_Per_10k
+ATG,Antigua and Barbuda,2023,AMR,High,34.2,Hospital_Beds_Per_10k
+AUS,Australia,2016,WPR,High,38.15,Hospital_Beds_Per_10k
+AUT,Austria,2022,EUR,High,67.01,Hospital_Beds_Per_10k
+AZE,Azerbaijan,2023,EUR,Upper-middle,36.83,Hospital_Beds_Per_10k
+BDI,Burundi,2014,AFR,Low,6.86,Hospital_Beds_Per_10k
+BEL,Belgium,2023,EUR,High,54.22,Hospital_Beds_Per_10k
+BEN,Benin,2021,AFR,Lower-middle,4.33,Hospital_Beds_Per_10k
+BFA,Burkina Faso,2020,AFR,Low,1.98,Hospital_Beds_Per_10k
+BGD,Bangladesh,2023,SEAR,Lower-middle,9.25,Hospital_Beds_Per_10k
+BGR,Bulgaria,2023,EUR,High,82.0,Hospital_Beds_Per_10k
+BHR,Bahrain,2022,EMR,High,18.36,Hospital_Beds_Per_10k
+BHS,Bahamas,2023,AMR,High,21.73,Hospital_Beds_Per_10k
+BIH,Bosnia and Herzegovina,2019,EUR,Upper-middle,23.53,Hospital_Beds_Per_10k
+BLR,Belarus,2023,EUR,Upper-middle,97.65,Hospital_Beds_Per_10k
+BLZ,Belize,2023,AMR,Upper-middle,10.02,Hospital_Beds_Per_10k
+BOL,"Bolivia, Plurinational State of",2023,AMR,Lower-middle,14.91,Hospital_Beds_Per_10k
+BRA,Brazil,2021,AMR,Upper-middle,25.18,Hospital_Beds_Per_10k
+BRB,Barbados,2023,AMR,High,63.97,Hospital_Beds_Per_10k
+BRN,Brunei Darussalam,2023,WPR,High,35.8,Hospital_Beds_Per_10k
+BTN,Bhutan,2023,SEAR,Lower-middle,21.62,Hospital_Beds_Per_10k
+BWA,Botswana,2022,AFR,Upper-middle,23.57,Hospital_Beds_Per_10k
+CAF,Central African Republic,2011,AFR,Low,10.0,Hospital_Beds_Per_10k
+CAN,Canada,2022,AMR,High,25.36,Hospital_Beds_Per_10k
+CHE,Switzerland,2023,EUR,High,43.75,Hospital_Beds_Per_10k
+CHL,Chile,2023,AMR,High,19.39,Hospital_Beds_Per_10k
+CHN,China,2023,WPR,Upper-middle,56.27,Hospital_Beds_Per_10k
+CIV,Côte d'Ivoire,2006,AFR,Lower-middle,4.0,Hospital_Beds_Per_10k
+CMR,Cameroon,2016,AFR,Lower-middle,26.49,Hospital_Beds_Per_10k
+COD,"Congo, The Democratic Republic of the",2006,AFR,Low,8.0,Hospital_Beds_Per_10k
+COG,Congo,2005,AFR,Lower-middle,16.0,Hospital_Beds_Per_10k
+COK,Cook Islands,2023,WPR,High,106.7,Hospital_Beds_Per_10k
+COL,Colombia,2020,AMR,Upper-middle,16.99,Hospital_Beds_Per_10k
+COM,Comoros,2010,AFR,Lower-middle,21.6,Hospital_Beds_Per_10k
+CPV,Cabo Verde,2022,AFR,Lower-middle,22.13,Hospital_Beds_Per_10k
+CRI,Costa Rica,2022,AMR,Upper-middle,11.37,Hospital_Beds_Per_10k
+CUB,Cuba,2023,AMR,Upper-middle,43.29,Hospital_Beds_Per_10k
+CYP,Cyprus,2022,EUR,High,21.46,Hospital_Beds_Per_10k
+CZE,Czechia,2022,EUR,High,65.42,Hospital_Beds_Per_10k
+DEU,Germany,2023,EUR,High,75.5,Hospital_Beds_Per_10k
+DJI,Djibouti,2018,EMR,Lower-middle,13.98,Hospital_Beds_Per_10k
+DMA,Dominica,2023,AMR,Upper-middle,39.68,Hospital_Beds_Per_10k
+DNK,Denmark,2023,EUR,High,24.35,Hospital_Beds_Per_10k
+DOM,Dominican Republic,2023,AMR,Upper-middle,7.47,Hospital_Beds_Per_10k
+DZA,Algeria,2017,AFR,Upper-middle,16.11,Hospital_Beds_Per_10k
+ECU,Ecuador,2023,AMR,Upper-middle,13.15,Hospital_Beds_Per_10k
+EGY,Egypt,2021,EMR,Lower-middle,10.59,Hospital_Beds_Per_10k
+ERI,Eritrea,2023,AFR,Low,10.22,Hospital_Beds_Per_10k
+ESP,Spain,2023,EUR,High,29.07,Hospital_Beds_Per_10k
+EST,Estonia,2023,EUR,High,41.25,Hospital_Beds_Per_10k
+ETH,Ethiopia,2016,AFR,Low,3.3,Hospital_Beds_Per_10k
+FIN,Finland,2022,EUR,High,26.09,Hospital_Beds_Per_10k
+FJI,Fiji,2017,WPR,Upper-middle,18.94,Hospital_Beds_Per_10k
+FRA,France,2022,EUR,High,56.47,Hospital_Beds_Per_10k
+FSM,"Micronesia, Federated States of",2009,WPR,Lower-middle,32.23,Hospital_Beds_Per_10k
+GAB,Gabon,2011,AFR,Upper-middle,19.48,Hospital_Beds_Per_10k
+GBR,United Kingdom,2022,EUR,High,24.21,Hospital_Beds_Per_10k
+GEO,Georgia,2023,EUR,Upper-middle,40.45,Hospital_Beds_Per_10k
+GHA,Ghana,2015,AFR,Lower-middle,6.94,Hospital_Beds_Per_10k
+GIN,Guinea,2011,AFR,Lower-middle,3.0,Hospital_Beds_Per_10k
+GMB,Gambia,2023,AFR,Low,11.1,Hospital_Beds_Per_10k
+GNB,Guinea-Bissau,2009,AFR,Low,10.0,Hospital_Beds_Per_10k
+GNQ,Equatorial Guinea,2010,AFR,Upper-middle,21.0,Hospital_Beds_Per_10k
+GRC,Greece,2022,EUR,High,42.71,Hospital_Beds_Per_10k
+GRD,Grenada,2023,AMR,Upper-middle,30.06,Hospital_Beds_Per_10k
+GTM,Guatemala,2023,AMR,Upper-middle,4.45,Hospital_Beds_Per_10k
+GUY,Guyana,2023,AMR,High,32.38,Hospital_Beds_Per_10k
+HND,Honduras,2023,AMR,Lower-middle,5.29,Hospital_Beds_Per_10k
+HRV,Croatia,2023,EUR,High,55.97,Hospital_Beds_Per_10k
+HTI,Haiti,2023,AMR,Lower-middle,48.99,Hospital_Beds_Per_10k
+HUN,Hungary,2022,EUR,High,66.26,Hospital_Beds_Per_10k
+IDN,Indonesia,2023,WPR,Upper-middle,13.69,Hospital_Beds_Per_10k
+IND,India,2021,SEAR,Lower-middle,15.95,Hospital_Beds_Per_10k
+IRL,Ireland,2023,EUR,High,29.58,Hospital_Beds_Per_10k
+IRN,"Iran, Islamic Republic of",2019,EMR,Upper-middle,18.52,Hospital_Beds_Per_10k
+IRQ,Iraq,2018,EMR,Upper-middle,10.62,Hospital_Beds_Per_10k
+ISL,Iceland,2020,EUR,High,28.34,Hospital_Beds_Per_10k
+ISR,Israel,2023,EUR,High,31.43,Hospital_Beds_Per_10k
+ITA,Italy,2022,EUR,High,30.56,Hospital_Beds_Per_10k
+JAM,Jamaica,2023,AMR,Upper-middle,16.47,Hospital_Beds_Per_10k
+JOR,Jordan,2023,EMR,Lower-middle,14.15,Hospital_Beds_Per_10k
+JPN,Japan,2022,WPR,High,125.9,Hospital_Beds_Per_10k
+KAZ,Kazakhstan,2020,EUR,Upper-middle,65.43,Hospital_Beds_Per_10k
+KEN,Kenya,2019,AFR,Lower-middle,13.3,Hospital_Beds_Per_10k
+KGZ,Kyrgyzstan,2023,EUR,Lower-middle,37.32,Hospital_Beds_Per_10k
+KHM,Cambodia,2018,WPR,Lower-middle,7.3,Hospital_Beds_Per_10k
+KIR,Kiribati,2016,WPR,Lower-middle,18.6,Hospital_Beds_Per_10k
+KNA,Saint Kitts and Nevis,2023,AMR,High,39.78,Hospital_Beds_Per_10k
+KOR,"Korea, Republic of",2022,WPR,High,128.1,Hospital_Beds_Per_10k
+KWT,Kuwait,2020,EMR,High,23.29,Hospital_Beds_Per_10k
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,17.13,Hospital_Beds_Per_10k
+LBN,Lebanon,2021,EMR,Lower-middle,27.3,Hospital_Beds_Per_10k
+LBR,Liberia,2021,AFR,Low,15.9,Hospital_Beds_Per_10k
+LBY,Libya,2022,EMR,Upper-middle,35.0,Hospital_Beds_Per_10k
+LCA,Saint Lucia,2022,AMR,Upper-middle,10.85,Hospital_Beds_Per_10k
+LKA,Sri Lanka,2023,SEAR,Lower-middle,39.35,Hospital_Beds_Per_10k
+LSO,Lesotho,2006,AFR,Lower-middle,13.0,Hospital_Beds_Per_10k
+LTU,Lithuania,2022,EUR,High,57.1,Hospital_Beds_Per_10k
+LUX,Luxembourg,2023,EUR,High,39.47,Hospital_Beds_Per_10k
+LVA,Latvia,2023,EUR,High,49.47,Hospital_Beds_Per_10k
+MAR,Morocco,2023,EMR,Lower-middle,7.3,Hospital_Beds_Per_10k
+MCO,Monaco,2014,EUR,High,219.9,Hospital_Beds_Per_10k
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,55.39,Hospital_Beds_Per_10k
+MDG,Madagascar,2014,AFR,Low,3.17,Hospital_Beds_Per_10k
+MDV,Maldives,2021,SEAR,Upper-middle,45.57,Hospital_Beds_Per_10k
+MEX,Mexico,2022,AMR,Upper-middle,10.14,Hospital_Beds_Per_10k
+MHL,Marshall Islands,2010,WPR,Upper-middle,28.04,Hospital_Beds_Per_10k
+MKD,North Macedonia,2021,EUR,Upper-middle,47.37,Hospital_Beds_Per_10k
+MLI,Mali,2018,AFR,Low,2.47,Hospital_Beds_Per_10k
+MLT,Malta,2022,EUR,High,40.86,Hospital_Beds_Per_10k
+MMR,Myanmar,2020,SEAR,Lower-middle,10.69,Hospital_Beds_Per_10k
+MNE,Montenegro,2022,EUR,Upper-middle,38.25,Hospital_Beds_Per_10k
+MNG,Mongolia,2023,WPR,Upper-middle,85.79,Hospital_Beds_Per_10k
+MOZ,Mozambique,2021,AFR,Low,7.44,Hospital_Beds_Per_10k
+MRT,Mauritania,2006,AFR,Lower-middle,4.0,Hospital_Beds_Per_10k
+MUS,Mauritius,2023,AFR,Upper-middle,38.04,Hospital_Beds_Per_10k
+MWI,Malawi,2011,AFR,Low,13.0,Hospital_Beds_Per_10k
+MYS,Malaysia,2023,WPR,Upper-middle,19.63,Hospital_Beds_Per_10k
+NAM,Namibia,2009,AFR,Upper-middle,27.0,Hospital_Beds_Per_10k
+NER,Niger,2020,AFR,Low,2.76,Hospital_Beds_Per_10k
+NGA,Nigeria,2004,AFR,Lower-middle,5.0,Hospital_Beds_Per_10k
+NIC,Nicaragua,2022,AMR,Lower-middle,9.67,Hospital_Beds_Per_10k
+NIU,Niue,2023,WPR,High,48.89,Hospital_Beds_Per_10k
+NLD,Netherlands,2022,EUR,High,24.21,Hospital_Beds_Per_10k
+NOR,Norway,2023,EUR,High,32.99,Hospital_Beds_Per_10k
+NPL,Nepal,2023,SEAR,Lower-middle,5.39,Hospital_Beds_Per_10k
+NRU,Nauru,2010,WPR,High,49.67,Hospital_Beds_Per_10k
+NZL,New Zealand,2023,WPR,High,25.06,Hospital_Beds_Per_10k
+OMN,Oman,2023,EMR,High,9.95,Hospital_Beds_Per_10k
+PAK,Pakistan,2020,EMR,Lower-middle,6.26,Hospital_Beds_Per_10k
+PAN,Panama,2023,AMR,High,19.54,Hospital_Beds_Per_10k
+PER,Peru,2023,AMR,Upper-middle,15.6,Hospital_Beds_Per_10k
+PHL,Philippines,2021,WPR,Lower-middle,9.69,Hospital_Beds_Per_10k
+PLW,Palau,2010,WPR,High,43.43,Hospital_Beds_Per_10k
+PNG,Papua New Guinea,2023,WPR,Lower-middle,6.19,Hospital_Beds_Per_10k
+POL,Poland,2022,EUR,High,60.38,Hospital_Beds_Per_10k
+PRK,"Korea, Democratic People's Republic of",2018,,,128.0,Hospital_Beds_Per_10k
+PRT,Portugal,2022,EUR,High,34.76,Hospital_Beds_Per_10k
+PRY,Paraguay,2022,AMR,Upper-middle,10.4,Hospital_Beds_Per_10k
+PSE,"Palestine, State of",2022,EMR,Lower-middle,13.01,Hospital_Beds_Per_10k
+QAT,Qatar,2022,EMR,High,12.5,Hospital_Beds_Per_10k
+ROU,Romania,2022,EUR,High,72.32,Hospital_Beds_Per_10k
+RUS,Russian Federation,2023,EUR,High,68.09,Hospital_Beds_Per_10k
+RWA,Rwanda,2023,AFR,Low,7.48,Hospital_Beds_Per_10k
+SAU,Saudi Arabia,2023,EMR,High,24.07,Hospital_Beds_Per_10k
+SDN,Sudan,2021,EMR,Low,6.6,Hospital_Beds_Per_10k
+SEN,Senegal,2019,AFR,Lower-middle,7.12,Hospital_Beds_Per_10k
+SGP,Singapore,2023,WPR,High,28.12,Hospital_Beds_Per_10k
+SLE,Sierra Leone,2006,AFR,Low,4.0,Hospital_Beds_Per_10k
+SLV,El Salvador,2023,AMR,Upper-middle,12.07,Hospital_Beds_Per_10k
+SMR,San Marino,2014,EUR,High,33.48,Hospital_Beds_Per_10k
+SOM,Somalia,2019,EMR,Low,8.7,Hospital_Beds_Per_10k
+SRB,Serbia,2022,EUR,Upper-middle,57.78,Hospital_Beds_Per_10k
+STP,Sao Tome and Principe,2019,AFR,Lower-middle,29.1,Hospital_Beds_Per_10k
+SUR,Suriname,2022,AMR,Upper-middle,28.74,Hospital_Beds_Per_10k
+SVK,Slovakia,2023,EUR,High,55.67,Hospital_Beds_Per_10k
+SVN,Slovenia,2022,EUR,High,41.15,Hospital_Beds_Per_10k
+SWE,Sweden,2022,EUR,High,18.99,Hospital_Beds_Per_10k
+SWZ,Eswatini,2013,AFR,Lower-middle,20.19,Hospital_Beds_Per_10k
+SYC,Seychelles,2023,AFR,High,26.34,Hospital_Beds_Per_10k
+SYR,Syrian Arab Republic,2021,EMR,Low,14.3,Hospital_Beds_Per_10k
+TCD,Chad,2020,AFR,Low,1.54,Hospital_Beds_Per_10k
+TGO,Togo,2022,AFR,Low,3.3,Hospital_Beds_Per_10k
+THA,Thailand,2023,SEAR,Upper-middle,23.9,Hospital_Beds_Per_10k
+TJK,Tajikistan,2023,EUR,Lower-middle,40.42,Hospital_Beds_Per_10k
+TKM,Turkmenistan,2021,EUR,Upper-middle,36.0,Hospital_Beds_Per_10k
+TLS,Timor-Leste,2023,SEAR,Lower-middle,3.83,Hospital_Beds_Per_10k
+TON,Tonga,2010,WPR,Upper-middle,24.76,Hospital_Beds_Per_10k
+TTO,Trinidad and Tobago,2023,AMR,High,23.66,Hospital_Beds_Per_10k
+TUN,Tunisia,2023,EMR,Lower-middle,18.21,Hospital_Beds_Per_10k
+TUR,Türkiye,2023,EUR,Upper-middle,30.55,Hospital_Beds_Per_10k
+TUV,Tuvalu,2001,WPR,Upper-middle,41.63,Hospital_Beds_Per_10k
+TZA,"Tanzania, United Republic of",2022,AFR,Lower-middle,8.37,Hospital_Beds_Per_10k
+UGA,Uganda,2010,AFR,Low,5.0,Hospital_Beds_Per_10k
+UKR,Ukraine,2022,EUR,Upper-middle,61.39,Hospital_Beds_Per_10k
+URY,Uruguay,2023,AMR,High,24.42,Hospital_Beds_Per_10k
+USA,United States,2022,AMR,High,26.84,Hospital_Beds_Per_10k
+UZB,Uzbekistan,2023,EUR,Lower-middle,48.94,Hospital_Beds_Per_10k
+VCT,Saint Vincent and the Grenadines,2022,AMR,Upper-middle,32.14,Hospital_Beds_Per_10k
+VEN,"Venezuela, Bolivarian Republic of",2020,AMR,Upper-middle,9.89,Hospital_Beds_Per_10k
+VNM,Viet Nam,2017,WPR,Lower-middle,25.17,Hospital_Beds_Per_10k
+VUT,Vanuatu,2008,WPR,Lower-middle,17.32,Hospital_Beds_Per_10k
+WSM,Samoa,2005,WPR,Lower-middle,9.47,Hospital_Beds_Per_10k
+YEM,Yemen,2023,EMR,Low,4.65,Hospital_Beds_Per_10k
+ZAF,South Africa,2010,AFR,Upper-middle,22.51,Hospital_Beds_Per_10k
+ZMB,Zambia,2010,AFR,Lower-middle,20.0,Hospital_Beds_Per_10k
+ZWE,Zimbabwe,2014,AFR,Lower-middle,19.47,Hospital_Beds_Per_10k
+AFG,Afghanistan,2023,EMR,Low,42.0,UHC_Service_Coverage_Index
+AGO,Angola,2023,AFR,Lower-middle,44.0,UHC_Service_Coverage_Index
+ALB,Albania,2023,EUR,Upper-middle,71.0,UHC_Service_Coverage_Index
+AND,Andorra,2023,EUR,High,75.0,UHC_Service_Coverage_Index
+ARE,United Arab Emirates,2023,EMR,High,84.0,UHC_Service_Coverage_Index
+ARG,Argentina,2023,AMR,Upper-middle,80.0,UHC_Service_Coverage_Index
+ARM,Armenia,2023,EUR,Upper-middle,69.0,UHC_Service_Coverage_Index
+ATG,Antigua and Barbuda,2023,AMR,High,81.0,UHC_Service_Coverage_Index
+AUS,Australia,2023,WPR,High,89.0,UHC_Service_Coverage_Index
+AUT,Austria,2023,EUR,High,84.0,UHC_Service_Coverage_Index
+AZE,Azerbaijan,2023,EUR,Upper-middle,67.0,UHC_Service_Coverage_Index
+BDI,Burundi,2023,AFR,Low,48.0,UHC_Service_Coverage_Index
+BEL,Belgium,2023,EUR,High,86.0,UHC_Service_Coverage_Index
+BEN,Benin,2023,AFR,Lower-middle,38.0,UHC_Service_Coverage_Index
+BFA,Burkina Faso,2023,AFR,Low,47.0,UHC_Service_Coverage_Index
+BGD,Bangladesh,2023,SEAR,Lower-middle,54.0,UHC_Service_Coverage_Index
+BGR,Bulgaria,2023,EUR,High,73.0,UHC_Service_Coverage_Index
+BHR,Bahrain,2023,EMR,High,78.0,UHC_Service_Coverage_Index
+BHS,Bahamas,2023,AMR,High,80.0,UHC_Service_Coverage_Index
+BIH,Bosnia and Herzegovina,2023,EUR,Upper-middle,64.0,UHC_Service_Coverage_Index
+BLR,Belarus,2023,EUR,Upper-middle,80.0,UHC_Service_Coverage_Index
+BLZ,Belize,2023,AMR,Upper-middle,70.0,UHC_Service_Coverage_Index
+BOL,"Bolivia, Plurinational State of",2023,AMR,Lower-middle,67.0,UHC_Service_Coverage_Index
+BRA,Brazil,2023,AMR,Upper-middle,84.0,UHC_Service_Coverage_Index
+BRB,Barbados,2023,AMR,High,82.0,UHC_Service_Coverage_Index
+BRN,Brunei Darussalam,2023,WPR,High,84.0,UHC_Service_Coverage_Index
+BTN,Bhutan,2023,SEAR,Lower-middle,69.0,UHC_Service_Coverage_Index
+BWA,Botswana,2023,AFR,Upper-middle,60.0,UHC_Service_Coverage_Index
+CAF,Central African Republic,2023,AFR,Low,39.0,UHC_Service_Coverage_Index
+CAN,Canada,2023,AMR,High,92.0,UHC_Service_Coverage_Index
+CHE,Switzerland,2023,EUR,High,87.0,UHC_Service_Coverage_Index
+CHL,Chile,2023,AMR,High,84.0,UHC_Service_Coverage_Index
+CHN,China,2023,WPR,Upper-middle,85.0,UHC_Service_Coverage_Index
+CIV,Côte d'Ivoire,2023,AFR,Lower-middle,46.0,UHC_Service_Coverage_Index
+CMR,Cameroon,2023,AFR,Lower-middle,48.0,UHC_Service_Coverage_Index
+COD,"Congo, The Democratic Republic of the",2023,AFR,Low,41.0,UHC_Service_Coverage_Index
+COG,Congo,2023,AFR,Lower-middle,45.0,UHC_Service_Coverage_Index
+COK,Cook Islands,2023,WPR,High,75.0,UHC_Service_Coverage_Index
+COL,Colombia,2023,AMR,Upper-middle,82.0,UHC_Service_Coverage_Index
+COM,Comoros,2023,AFR,Lower-middle,52.0,UHC_Service_Coverage_Index
+CPV,Cabo Verde,2023,AFR,Lower-middle,71.0,UHC_Service_Coverage_Index
+CRI,Costa Rica,2023,AMR,Upper-middle,84.0,UHC_Service_Coverage_Index
+CUB,Cuba,2023,AMR,Upper-middle,86.0,UHC_Service_Coverage_Index
+CYP,Cyprus,2023,EUR,High,76.0,UHC_Service_Coverage_Index
+CZE,Czechia,2023,EUR,High,83.0,UHC_Service_Coverage_Index
+DEU,Germany,2023,EUR,High,87.0,UHC_Service_Coverage_Index
+DJI,Djibouti,2023,EMR,Lower-middle,47.0,UHC_Service_Coverage_Index
+DMA,Dominica,2023,AMR,Upper-middle,75.0,UHC_Service_Coverage_Index
+DNK,Denmark,2023,EUR,High,85.0,UHC_Service_Coverage_Index
+DOM,Dominican Republic,2023,AMR,Upper-middle,73.0,UHC_Service_Coverage_Index
+DZA,Algeria,2023,AFR,Upper-middle,70.0,UHC_Service_Coverage_Index
+ECU,Ecuador,2023,AMR,Upper-middle,78.0,UHC_Service_Coverage_Index
+EGY,Egypt,2023,EMR,Lower-middle,71.0,UHC_Service_Coverage_Index
+ERI,Eritrea,2023,AFR,Low,40.0,UHC_Service_Coverage_Index
+ESP,Spain,2023,EUR,High,84.0,UHC_Service_Coverage_Index
+EST,Estonia,2023,EUR,High,79.0,UHC_Service_Coverage_Index
+ETH,Ethiopia,2023,AFR,Low,33.0,UHC_Service_Coverage_Index
+FIN,Finland,2023,EUR,High,86.0,UHC_Service_Coverage_Index
+FJI,Fiji,2023,WPR,Upper-middle,69.0,UHC_Service_Coverage_Index
+FRA,France,2023,EUR,High,82.0,UHC_Service_Coverage_Index
+FSM,"Micronesia, Federated States of",2023,WPR,Lower-middle,65.0,UHC_Service_Coverage_Index
+GAB,Gabon,2023,AFR,Upper-middle,48.0,UHC_Service_Coverage_Index
+GBR,United Kingdom,2023,EUR,High,88.0,UHC_Service_Coverage_Index
+GEO,Georgia,2023,EUR,Upper-middle,71.0,UHC_Service_Coverage_Index
+GHA,Ghana,2023,AFR,Lower-middle,56.0,UHC_Service_Coverage_Index
+GIN,Guinea,2023,AFR,Lower-middle,43.0,UHC_Service_Coverage_Index
+GMB,Gambia,2023,AFR,Low,53.0,UHC_Service_Coverage_Index
+GNB,Guinea-Bissau,2023,AFR,Low,43.0,UHC_Service_Coverage_Index
+GNQ,Equatorial Guinea,2023,AFR,Upper-middle,49.0,UHC_Service_Coverage_Index
+GRC,Greece,2023,EUR,High,77.0,UHC_Service_Coverage_Index
+GRD,Grenada,2023,AMR,Upper-middle,78.0,UHC_Service_Coverage_Index
+GTM,Guatemala,2023,AMR,Upper-middle,58.0,UHC_Service_Coverage_Index
+GUY,Guyana,2023,AMR,High,73.0,UHC_Service_Coverage_Index
+HND,Honduras,2023,AMR,Lower-middle,64.0,UHC_Service_Coverage_Index
+HRV,Croatia,2023,EUR,High,76.0,UHC_Service_Coverage_Index
+HTI,Haiti,2023,AMR,Lower-middle,44.0,UHC_Service_Coverage_Index
+HUN,Hungary,2023,EUR,High,80.0,UHC_Service_Coverage_Index
+IDN,Indonesia,2023,WPR,Upper-middle,67.0,UHC_Service_Coverage_Index
+IND,India,2023,SEAR,Lower-middle,69.0,UHC_Service_Coverage_Index
+IRL,Ireland,2023,EUR,High,82.0,UHC_Service_Coverage_Index
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,81.0,UHC_Service_Coverage_Index
+IRQ,Iraq,2023,EMR,Upper-middle,64.0,UHC_Service_Coverage_Index
+ISL,Iceland,2023,EUR,High,90.0,UHC_Service_Coverage_Index
+ISR,Israel,2023,EUR,High,85.0,UHC_Service_Coverage_Index
+ITA,Italy,2023,EUR,High,82.0,UHC_Service_Coverage_Index
+JAM,Jamaica,2023,AMR,Upper-middle,74.0,UHC_Service_Coverage_Index
+JOR,Jordan,2023,EMR,Lower-middle,74.0,UHC_Service_Coverage_Index
+JPN,Japan,2023,WPR,High,86.0,UHC_Service_Coverage_Index
+KAZ,Kazakhstan,2023,EUR,Upper-middle,83.0,UHC_Service_Coverage_Index
+KEN,Kenya,2023,AFR,Lower-middle,57.0,UHC_Service_Coverage_Index
+KGZ,Kyrgyzstan,2023,EUR,Lower-middle,74.0,UHC_Service_Coverage_Index
+KHM,Cambodia,2023,WPR,Lower-middle,62.0,UHC_Service_Coverage_Index
+KIR,Kiribati,2023,WPR,Lower-middle,51.0,UHC_Service_Coverage_Index
+KNA,Saint Kitts and Nevis,2023,AMR,High,80.0,UHC_Service_Coverage_Index
+KOR,"Korea, Republic of",2023,WPR,High,88.0,UHC_Service_Coverage_Index
+KWT,Kuwait,2023,EMR,High,84.0,UHC_Service_Coverage_Index
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,64.0,UHC_Service_Coverage_Index
+LBN,Lebanon,2023,EMR,Lower-middle,67.0,UHC_Service_Coverage_Index
+LBR,Liberia,2023,AFR,Low,49.0,UHC_Service_Coverage_Index
+LBY,Libya,2023,EMR,Upper-middle,71.0,UHC_Service_Coverage_Index
+LCA,Saint Lucia,2023,AMR,Upper-middle,75.0,UHC_Service_Coverage_Index
+LKA,Sri Lanka,2023,SEAR,Lower-middle,72.0,UHC_Service_Coverage_Index
+LSO,Lesotho,2023,AFR,Lower-middle,55.0,UHC_Service_Coverage_Index
+LTU,Lithuania,2023,EUR,High,78.0,UHC_Service_Coverage_Index
+LUX,Luxembourg,2023,EUR,High,83.0,UHC_Service_Coverage_Index
+LVA,Latvia,2023,EUR,High,77.0,UHC_Service_Coverage_Index
+MAR,Morocco,2023,EMR,Lower-middle,65.0,UHC_Service_Coverage_Index
+MCO,Monaco,2023,EUR,High,85.0,UHC_Service_Coverage_Index
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,71.0,UHC_Service_Coverage_Index
+MDG,Madagascar,2023,AFR,Low,33.0,UHC_Service_Coverage_Index
+MDV,Maldives,2023,SEAR,Upper-middle,71.0,UHC_Service_Coverage_Index
+MEX,Mexico,2023,AMR,Upper-middle,79.0,UHC_Service_Coverage_Index
+MHL,Marshall Islands,2023,WPR,Upper-middle,66.0,UHC_Service_Coverage_Index
+MKD,North Macedonia,2023,EUR,Upper-middle,69.0,UHC_Service_Coverage_Index
+MLI,Mali,2023,AFR,Low,41.0,UHC_Service_Coverage_Index
+MLT,Malta,2023,EUR,High,82.0,UHC_Service_Coverage_Index
+MMR,Myanmar,2023,SEAR,Lower-middle,52.0,UHC_Service_Coverage_Index
+MNE,Montenegro,2023,EUR,Upper-middle,70.0,UHC_Service_Coverage_Index
+MNG,Mongolia,2023,WPR,Upper-middle,70.0,UHC_Service_Coverage_Index
+MOZ,Mozambique,2023,AFR,Low,50.0,UHC_Service_Coverage_Index
+MRT,Mauritania,2023,AFR,Lower-middle,40.0,UHC_Service_Coverage_Index
+MUS,Mauritius,2023,AFR,Upper-middle,75.0,UHC_Service_Coverage_Index
+MWI,Malawi,2023,AFR,Low,52.0,UHC_Service_Coverage_Index
+MYS,Malaysia,2023,WPR,Upper-middle,80.0,UHC_Service_Coverage_Index
+NAM,Namibia,2023,AFR,Upper-middle,66.0,UHC_Service_Coverage_Index
+NER,Niger,2023,AFR,Low,39.0,UHC_Service_Coverage_Index
+NGA,Nigeria,2023,AFR,Lower-middle,47.0,UHC_Service_Coverage_Index
+NIC,Nicaragua,2023,AMR,Lower-middle,70.0,UHC_Service_Coverage_Index
+NIU,Niue,2023,WPR,High,67.0,UHC_Service_Coverage_Index
+NLD,Netherlands,2023,EUR,High,85.0,UHC_Service_Coverage_Index
+NOR,Norway,2023,EUR,High,89.0,UHC_Service_Coverage_Index
+NPL,Nepal,2023,SEAR,Lower-middle,58.0,UHC_Service_Coverage_Index
+NRU,Nauru,2023,WPR,High,62.0,UHC_Service_Coverage_Index
+NZL,New Zealand,2023,WPR,High,89.0,UHC_Service_Coverage_Index
+OMN,Oman,2023,EMR,High,73.0,UHC_Service_Coverage_Index
+PAK,Pakistan,2023,EMR,Lower-middle,56.0,UHC_Service_Coverage_Index
+PAN,Panama,2023,AMR,High,82.0,UHC_Service_Coverage_Index
+PER,Peru,2023,AMR,Upper-middle,68.0,UHC_Service_Coverage_Index
+PHL,Philippines,2023,WPR,Lower-middle,69.0,UHC_Service_Coverage_Index
+PLW,Palau,2023,WPR,High,75.0,UHC_Service_Coverage_Index
+PNG,Papua New Guinea,2023,WPR,Lower-middle,32.0,UHC_Service_Coverage_Index
+POL,Poland,2023,EUR,High,82.0,UHC_Service_Coverage_Index
+PRK,"Korea, Democratic People's Republic of",2023,,,77.0,UHC_Service_Coverage_Index
+PRT,Portugal,2023,EUR,High,83.0,UHC_Service_Coverage_Index
+PRY,Paraguay,2023,AMR,Upper-middle,79.0,UHC_Service_Coverage_Index
+PSE,"Palestine, State of",2023,EMR,Lower-middle,65.0,UHC_Service_Coverage_Index
+QAT,Qatar,2023,EMR,High,84.0,UHC_Service_Coverage_Index
+ROU,Romania,2023,EUR,High,77.0,UHC_Service_Coverage_Index
+RUS,Russian Federation,2023,EUR,High,81.0,UHC_Service_Coverage_Index
+RWA,Rwanda,2023,AFR,Low,59.0,UHC_Service_Coverage_Index
+SAU,Saudi Arabia,2023,EMR,High,83.0,UHC_Service_Coverage_Index
+SDN,Sudan,2023,EMR,Low,48.0,UHC_Service_Coverage_Index
+SEN,Senegal,2023,AFR,Lower-middle,48.0,UHC_Service_Coverage_Index
+SGP,Singapore,2023,WPR,High,88.0,UHC_Service_Coverage_Index
+SLB,Solomon Islands,2023,WPR,Lower-middle,47.0,UHC_Service_Coverage_Index
+SLE,Sierra Leone,2023,AFR,Low,48.0,UHC_Service_Coverage_Index
+SLV,El Salvador,2023,AMR,Upper-middle,79.0,UHC_Service_Coverage_Index
+SMR,San Marino,2023,EUR,High,74.0,UHC_Service_Coverage_Index
+SOM,Somalia,2023,EMR,Low,30.0,UHC_Service_Coverage_Index
+SRB,Serbia,2023,EUR,Upper-middle,73.0,UHC_Service_Coverage_Index
+SSD,South Sudan,2023,AFR,Low,41.0,UHC_Service_Coverage_Index
+STP,Sao Tome and Principe,2023,AFR,Lower-middle,60.0,UHC_Service_Coverage_Index
+SUR,Suriname,2023,AMR,Upper-middle,74.0,UHC_Service_Coverage_Index
+SVK,Slovakia,2023,EUR,High,78.0,UHC_Service_Coverage_Index
+SVN,Slovenia,2023,EUR,High,84.0,UHC_Service_Coverage_Index
+SWE,Sweden,2023,EUR,High,85.0,UHC_Service_Coverage_Index
+SWZ,Eswatini,2023,AFR,Lower-middle,72.0,UHC_Service_Coverage_Index
+SYC,Seychelles,2023,AFR,High,80.0,UHC_Service_Coverage_Index
+SYR,Syrian Arab Republic,2023,EMR,Low,70.0,UHC_Service_Coverage_Index
+TCD,Chad,2023,AFR,Low,26.0,UHC_Service_Coverage_Index
+TGO,Togo,2023,AFR,Low,42.0,UHC_Service_Coverage_Index
+THA,Thailand,2023,SEAR,Upper-middle,82.0,UHC_Service_Coverage_Index
+TJK,Tajikistan,2023,EUR,Lower-middle,72.0,UHC_Service_Coverage_Index
+TKM,Turkmenistan,2023,EUR,Upper-middle,81.0,UHC_Service_Coverage_Index
+TLS,Timor-Leste,2023,SEAR,Lower-middle,48.0,UHC_Service_Coverage_Index
+TON,Tonga,2023,WPR,Upper-middle,71.0,UHC_Service_Coverage_Index
+TTO,Trinidad and Tobago,2023,AMR,High,75.0,UHC_Service_Coverage_Index
+TUN,Tunisia,2023,EMR,Lower-middle,76.0,UHC_Service_Coverage_Index
+TUR,Türkiye,2023,EUR,Upper-middle,77.0,UHC_Service_Coverage_Index
+TUV,Tuvalu,2023,WPR,Upper-middle,65.0,UHC_Service_Coverage_Index
+TZA,"Tanzania, United Republic of",2023,AFR,Lower-middle,49.0,UHC_Service_Coverage_Index
+UGA,Uganda,2023,AFR,Low,54.0,UHC_Service_Coverage_Index
+UKR,Ukraine,2023,EUR,Upper-middle,80.0,UHC_Service_Coverage_Index
+URY,Uruguay,2023,AMR,High,85.0,UHC_Service_Coverage_Index
+USA,United States,2023,AMR,High,88.0,UHC_Service_Coverage_Index
+UZB,Uzbekistan,2023,EUR,Lower-middle,79.0,UHC_Service_Coverage_Index
+VCT,Saint Vincent and the Grenadines,2023,AMR,Upper-middle,80.0,UHC_Service_Coverage_Index
+VEN,"Venezuela, Bolivarian Republic of",2023,AMR,Upper-middle,75.0,UHC_Service_Coverage_Index
+VNM,Viet Nam,2023,WPR,Lower-middle,71.0,UHC_Service_Coverage_Index
+VUT,Vanuatu,2023,WPR,Lower-middle,52.0,UHC_Service_Coverage_Index
+WSM,Samoa,2023,WPR,Lower-middle,62.0,UHC_Service_Coverage_Index
+YEM,Yemen,2023,EMR,Low,43.0,UHC_Service_Coverage_Index
+ZAF,South Africa,2023,AFR,Upper-middle,74.0,UHC_Service_Coverage_Index
+ZMB,Zambia,2023,AFR,Lower-middle,62.0,UHC_Service_Coverage_Index
+ZWE,Zimbabwe,2023,AFR,Lower-middle,59.0,UHC_Service_Coverage_Index
+AFG,Afghanistan,2023,EMR,Low,329.8232078328565,Health_Exp_Per_Capita_PPP
+AGO,Angola,2023,AFR,Lower-middle,248.38769563917,Health_Exp_Per_Capita_PPP
+ALB,Albania,2023,EUR,Upper-middle,1464.5350282303068,Health_Exp_Per_Capita_PPP
+AND,Andorra,2023,EUR,High,5519.414703279217,Health_Exp_Per_Capita_PPP
+ARE,United Arab Emirates,2023,EMR,High,3727.1212796746486,Health_Exp_Per_Capita_PPP
+ARG,Argentina,2023,AMR,Upper-middle,3089.3075852470656,Health_Exp_Per_Capita_PPP
+ARM,Armenia,2023,EUR,Upper-middle,2032.615436041508,Health_Exp_Per_Capita_PPP
+ATG,Antigua and Barbuda,2023,AMR,High,1241.3503303191803,Health_Exp_Per_Capita_PPP
+AUS,Australia,2023,WPR,High,7690.824993372338,Health_Exp_Per_Capita_PPP
+AUT,Austria,2024,EUR,High,8250.106666779031,Health_Exp_Per_Capita_PPP
+AZE,Azerbaijan,2023,EUR,Upper-middle,992.839281257224,Health_Exp_Per_Capita_PPP
+BDI,Burundi,2023,AFR,Low,100.06231296411752,Health_Exp_Per_Capita_PPP
+BEL,Belgium,2023,EUR,High,7489.311798536221,Health_Exp_Per_Capita_PPP
+BEN,Benin,2023,AFR,Lower-middle,137.83081161578338,Health_Exp_Per_Capita_PPP
+BFA,Burkina Faso,2023,AFR,Low,223.87041108080447,Health_Exp_Per_Capita_PPP
+BGD,Bangladesh,2023,SEAR,Lower-middle,198.52009653850564,Health_Exp_Per_Capita_PPP
+BGR,Bulgaria,2023,EUR,High,2969.5515184346664,Health_Exp_Per_Capita_PPP
+BHR,Bahrain,2023,EMR,High,2555.251216916651,Health_Exp_Per_Capita_PPP
+BHS,Bahamas,2023,AMR,High,2315.624571323672,Health_Exp_Per_Capita_PPP
+BIH,Bosnia and Herzegovina,2023,EUR,Upper-middle,1989.0567209193784,Health_Exp_Per_Capita_PPP
+BLR,Belarus,2023,EUR,Upper-middle,2193.49860229965,Health_Exp_Per_Capita_PPP
+BLZ,Belize,2023,AMR,Upper-middle,573.3362363422353,Health_Exp_Per_Capita_PPP
+BOL,"Bolivia, Plurinational State of",2023,AMR,Lower-middle,755.8820689968143,Health_Exp_Per_Capita_PPP
+BRA,Brazil,2023,AMR,Upper-middle,2070.438226796841,Health_Exp_Per_Capita_PPP
+BRB,Barbados,2023,AMR,High,1153.102137134614,Health_Exp_Per_Capita_PPP
+BRN,Brunei Darussalam,2023,WPR,High,1896.118041350004,Health_Exp_Per_Capita_PPP
+BTN,Bhutan,2023,SEAR,Lower-middle,676.7015973992064,Health_Exp_Per_Capita_PPP
+BWA,Botswana,2023,AFR,Upper-middle,1309.5010129089194,Health_Exp_Per_Capita_PPP
+CAF,Central African Republic,2023,AFR,Low,136.6849964164914,Health_Exp_Per_Capita_PPP
+CAN,Canada,2024,AMR,High,7645.926993058357,Health_Exp_Per_Capita_PPP
+CHE,Switzerland,2023,EUR,High,10601.933181657823,Health_Exp_Per_Capita_PPP
+CHL,Chile,2024,AMR,High,3611.904162147365,Health_Exp_Per_Capita_PPP
+CHN,China,2023,WPR,Upper-middle,1486.8838942976715,Health_Exp_Per_Capita_PPP
+CIV,Côte d'Ivoire,2023,AFR,Lower-middle,249.36362535104345,Health_Exp_Per_Capita_PPP
+CMR,Cameroon,2023,AFR,Lower-middle,246.1802038486406,Health_Exp_Per_Capita_PPP
+COD,"Congo, The Democratic Republic of the",2023,AFR,Low,57.76233484515395,Health_Exp_Per_Capita_PPP
+COG,Congo,2023,AFR,Lower-middle,208.86429437604403,Health_Exp_Per_Capita_PPP
+COK,Cook Islands,2023,WPR,High,1148.4938078282732,Health_Exp_Per_Capita_PPP
+COL,Colombia,2024,AMR,Upper-middle,1757.8692029176495,Health_Exp_Per_Capita_PPP
+COM,Comoros,2023,AFR,Lower-middle,249.6213828255489,Health_Exp_Per_Capita_PPP
+CPV,Cabo Verde,2023,AFR,Lower-middle,616.5383749882798,Health_Exp_Per_Capita_PPP
+CRI,Costa Rica,2023,AMR,Upper-middle,1927.7431845363544,Health_Exp_Per_Capita_PPP
+CUB,Cuba,2023,AMR,Upper-middle,2575.4060881822,Health_Exp_Per_Capita_PPP
+CYP,Cyprus,2023,EUR,High,4537.679992252084,Health_Exp_Per_Capita_PPP
+CZE,Czechia,2024,EUR,High,4674.026761716494,Health_Exp_Per_Capita_PPP
+DEU,Germany,2024,EUR,High,8825.614807831964,Health_Exp_Per_Capita_PPP
+DJI,Djibouti,2023,EMR,Lower-middle,155.0110975582807,Health_Exp_Per_Capita_PPP
+DMA,Dominica,2023,AMR,Upper-middle,968.2663829189391,Health_Exp_Per_Capita_PPP
+DNK,Denmark,2024,EUR,High,7261.553605839928,Health_Exp_Per_Capita_PPP
+DOM,Dominican Republic,2023,AMR,Upper-middle,1168.8108914122188,Health_Exp_Per_Capita_PPP
+DZA,Algeria,2023,AFR,Upper-middle,732.0040259569971,Health_Exp_Per_Capita_PPP
+ECU,Ecuador,2023,AMR,Upper-middle,1238.0856232182457,Health_Exp_Per_Capita_PPP
+EGY,Egypt,2023,EMR,Lower-middle,904.6650539407826,Health_Exp_Per_Capita_PPP
+ERI,Eritrea,2023,AFR,Low,86.56448012645696,Health_Exp_Per_Capita_PPP
+ESP,Spain,2023,EUR,High,4934.947725874532,Health_Exp_Per_Capita_PPP
+EST,Estonia,2024,EUR,High,3740.8610641370506,Health_Exp_Per_Capita_PPP
+ETH,Ethiopia,2023,AFR,Low,85.73044577255703,Health_Exp_Per_Capita_PPP
+FIN,Finland,2023,EUR,High,6433.372429910691,Health_Exp_Per_Capita_PPP
+FJI,Fiji,2023,WPR,Upper-middle,547.7733079168399,Health_Exp_Per_Capita_PPP
+FRA,France,2024,EUR,High,6868.206097012391,Health_Exp_Per_Capita_PPP
+FSM,"Micronesia, Federated States of",2023,WPR,Lower-middle,481.7611202462027,Health_Exp_Per_Capita_PPP
+GAB,Gabon,2023,AFR,Upper-middle,672.982835286249,Health_Exp_Per_Capita_PPP
+GBR,United Kingdom,2024,EUR,High,6605.752539332235,Health_Exp_Per_Capita_PPP
+GEO,Georgia,2023,EUR,Upper-middle,1679.035953304011,Health_Exp_Per_Capita_PPP
+GHA,Ghana,2023,AFR,Lower-middle,234.4625626649129,Health_Exp_Per_Capita_PPP
+GIN,Guinea,2023,AFR,Lower-middle,168.74360481792837,Health_Exp_Per_Capita_PPP
+GMB,Gambia,2023,AFR,Low,94.13286820728108,Health_Exp_Per_Capita_PPP
+GNB,Guinea-Bissau,2023,AFR,Low,247.12669122291769,Health_Exp_Per_Capita_PPP
+GNQ,Equatorial Guinea,2023,AFR,Upper-middle,609.3008877439971,Health_Exp_Per_Capita_PPP
+GRC,Greece,2023,EUR,High,3453.894415326909,Health_Exp_Per_Capita_PPP
+GRD,Grenada,2023,AMR,Upper-middle,880.3170324634194,Health_Exp_Per_Capita_PPP
+GTM,Guatemala,2023,AMR,Upper-middle,935.3513814077636,Health_Exp_Per_Capita_PPP
+GUY,Guyana,2023,AMR,High,1331.1360896032463,Health_Exp_Per_Capita_PPP
+HND,Honduras,2023,AMR,Lower-middle,553.4687967753632,Health_Exp_Per_Capita_PPP
+HRV,Croatia,2023,EUR,High,3229.335649531973,Health_Exp_Per_Capita_PPP
+HTI,Haiti,2023,AMR,Lower-middle,104.72201503397376,Health_Exp_Per_Capita_PPP
+HUN,Hungary,2023,EUR,High,2875.2067856771973,Health_Exp_Per_Capita_PPP
+IDN,Indonesia,2023,WPR,Upper-middle,416.59066767471074,Health_Exp_Per_Capita_PPP
+IND,India,2023,SEAR,Lower-middle,346.2462407991832,Health_Exp_Per_Capita_PPP
+IRL,Ireland,2024,EUR,High,8772.473100023373,Health_Exp_Per_Capita_PPP
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,1064.0820268691778,Health_Exp_Per_Capita_PPP
+IRQ,Iraq,2023,EMR,Upper-middle,842.7945395806909,Health_Exp_Per_Capita_PPP
+ISL,Iceland,2024,EUR,High,6926.8841437823885,Health_Exp_Per_Capita_PPP
+ISR,Israel,2023,EUR,High,4033.2449818096056,Health_Exp_Per_Capita_PPP
+ITA,Italy,2024,EUR,High,4992.802677292023,Health_Exp_Per_Capita_PPP
+JAM,Jamaica,2023,AMR,Upper-middle,868.617475019533,Health_Exp_Per_Capita_PPP
+JOR,Jordan,2023,EMR,Lower-middle,797.845877689424,Health_Exp_Per_Capita_PPP
+JPN,Japan,2023,WPR,High,5365.075006415202,Health_Exp_Per_Capita_PPP
+KAZ,Kazakhstan,2023,EUR,Upper-middle,1459.992389162204,Health_Exp_Per_Capita_PPP
+KEN,Kenya,2023,AFR,Lower-middle,274.47362426918863,Health_Exp_Per_Capita_PPP
+KGZ,Kyrgyzstan,2023,EUR,Lower-middle,348.62588363834084,Health_Exp_Per_Capita_PPP
+KHM,Cambodia,2023,WPR,Lower-middle,350.1138394498424,Health_Exp_Per_Capita_PPP
+KIR,Kiribati,2023,WPR,Lower-middle,400.9076176269122,Health_Exp_Per_Capita_PPP
+KNA,Saint Kitts and Nevis,2023,AMR,High,1935.9695507721065,Health_Exp_Per_Capita_PPP
+KOR,"Korea, Republic of",2024,WPR,High,5081.411516073817,Health_Exp_Per_Capita_PPP
+KWT,Kuwait,2023,EMR,High,2566.8102979543955,Health_Exp_Per_Capita_PPP
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,123.25398771958233,Health_Exp_Per_Capita_PPP
+LBN,Lebanon,2023,EMR,Lower-middle,643.8497494506058,Health_Exp_Per_Capita_PPP
+LBR,Liberia,2023,AFR,Low,233.0520876521064,Health_Exp_Per_Capita_PPP
+LBY,Libya,2023,EMR,Upper-middle,1055.3571364489626,Health_Exp_Per_Capita_PPP
+LCA,Saint Lucia,2023,AMR,Upper-middle,1228.463168874214,Health_Exp_Per_Capita_PPP
+LIE,Liechtenstein,2023,EUR,High,9795.164019108835,Health_Exp_Per_Capita_PPP
+LKA,Sri Lanka,2023,SEAR,Lower-middle,507.0585857477427,Health_Exp_Per_Capita_PPP
+LSO,Lesotho,2023,AFR,Lower-middle,385.6027261828039,Health_Exp_Per_Capita_PPP
+LTU,Lithuania,2024,EUR,High,4127.402385758853,Health_Exp_Per_Capita_PPP
+LUX,Luxembourg,2024,EUR,High,8807.585581690395,Health_Exp_Per_Capita_PPP
+LVA,Latvia,2023,EUR,High,3033.8741130244657,Health_Exp_Per_Capita_PPP
+MAR,Morocco,2023,EMR,Lower-middle,606.0442783288753,Health_Exp_Per_Capita_PPP
+MCO,Monaco,2023,EUR,High,9797.174706793052,Health_Exp_Per_Capita_PPP
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,1181.236029686293,Health_Exp_Per_Capita_PPP
+MDG,Madagascar,2023,AFR,Low,62.84075881510179,Health_Exp_Per_Capita_PPP
+MDV,Maldives,2023,SEAR,Upper-middle,2287.935153811504,Health_Exp_Per_Capita_PPP
+MEX,Mexico,2023,AMR,Upper-middle,1367.9929380666183,Health_Exp_Per_Capita_PPP
+MHL,Marshall Islands,2023,WPR,Upper-middle,874.1108132848168,Health_Exp_Per_Capita_PPP
+MKD,North Macedonia,2023,EUR,Upper-middle,1807.613941419128,Health_Exp_Per_Capita_PPP
+MLI,Mali,2023,AFR,Low,103.89145389369617,Health_Exp_Per_Capita_PPP
+MLT,Malta,2023,EUR,High,5706.086123416062,Health_Exp_Per_Capita_PPP
+MMR,Myanmar,2023,SEAR,Lower-middle,283.1918113257012,Health_Exp_Per_Capita_PPP
+MNE,Montenegro,2023,EUR,Upper-middle,2907.9953721686943,Health_Exp_Per_Capita_PPP
+MNG,Mongolia,2023,WPR,Upper-middle,1108.9450387254556,Health_Exp_Per_Capita_PPP
+MOZ,Mozambique,2023,AFR,Low,142.62413186761114,Health_Exp_Per_Capita_PPP
+MRT,Mauritania,2023,AFR,Lower-middle,301.69642721496456,Health_Exp_Per_Capita_PPP
+MUS,Mauritius,2023,AFR,Upper-middle,1565.9146474064833,Health_Exp_Per_Capita_PPP
+MWI,Malawi,2023,AFR,Low,125.3398326345068,Health_Exp_Per_Capita_PPP
+MYS,Malaysia,2023,WPR,Upper-middle,1441.220671009476,Health_Exp_Per_Capita_PPP
+NAM,Namibia,2023,AFR,Upper-middle,1068.4463002151574,Health_Exp_Per_Capita_PPP
+NER,Niger,2023,AFR,Low,76.48909604441286,Health_Exp_Per_Capita_PPP
+NGA,Nigeria,2023,AFR,Lower-middle,260.14463468153104,Health_Exp_Per_Capita_PPP
+NIC,Nicaragua,2023,AMR,Lower-middle,688.6706619094223,Health_Exp_Per_Capita_PPP
+NIU,Niue,2023,WPR,High,2269.7786865070448,Health_Exp_Per_Capita_PPP
+NLD,Netherlands,2024,EUR,High,8194.56817525471,Health_Exp_Per_Capita_PPP
+NOR,Norway,2023,EUR,High,9523.305174625551,Health_Exp_Per_Capita_PPP
+NPL,Nepal,2023,SEAR,Lower-middle,332.16275355140755,Health_Exp_Per_Capita_PPP
+NRU,Nauru,2023,WPR,High,2474.198030087539,Health_Exp_Per_Capita_PPP
+NZL,New Zealand,2024,WPR,High,5575.773843035095,Health_Exp_Per_Capita_PPP
+OMN,Oman,2023,EMR,High,1444.3805202464298,Health_Exp_Per_Capita_PPP
+PAK,Pakistan,2023,EMR,Lower-middle,152.10449915276567,Health_Exp_Per_Capita_PPP
+PAN,Panama,2023,AMR,High,3318.2477493840606,Health_Exp_Per_Capita_PPP
+PER,Peru,2023,AMR,Upper-middle,956.47844506314,Health_Exp_Per_Capita_PPP
+PHL,Philippines,2023,WPR,Lower-middle,560.4185062920152,Health_Exp_Per_Capita_PPP
+PLW,Palau,2023,WPR,High,1856.7137631902187,Health_Exp_Per_Capita_PPP
+PNG,Papua New Guinea,2023,WPR,Lower-middle,133.00408934153018,Health_Exp_Per_Capita_PPP
+POL,Poland,2024,EUR,High,3938.9547228593215,Health_Exp_Per_Capita_PPP
+PRT,Portugal,2024,EUR,High,4928.031320347667,Health_Exp_Per_Capita_PPP
+PRY,Paraguay,2023,AMR,Upper-middle,1469.4473973712895,Health_Exp_Per_Capita_PPP
+PSE,"Palestine, State of",2023,EMR,Lower-middle,604.4370159739153,Health_Exp_Per_Capita_PPP
+QAT,Qatar,2023,EMR,High,2900.582269673072,Health_Exp_Per_Capita_PPP
+ROU,Romania,2023,EUR,High,2614.0942605576165,Health_Exp_Per_Capita_PPP
+RUS,Russian Federation,2023,EUR,High,3203.8062440472177,Health_Exp_Per_Capita_PPP
+RWA,Rwanda,2023,AFR,Low,177.01128022986936,Health_Exp_Per_Capita_PPP
+SAU,Saudi Arabia,2023,EMR,High,3475.057786715862,Health_Exp_Per_Capita_PPP
+SDN,Sudan,2023,EMR,Low,28.261876902732027,Health_Exp_Per_Capita_PPP
+SEN,Senegal,2023,AFR,Lower-middle,205.61025393504715,Health_Exp_Per_Capita_PPP
+SGP,Singapore,2023,WPR,High,6551.26185012408,Health_Exp_Per_Capita_PPP
+SLB,Solomon Islands,2023,WPR,Lower-middle,153.39312985254438,Health_Exp_Per_Capita_PPP
+SLE,Sierra Leone,2023,AFR,Low,158.9070900759303,Health_Exp_Per_Capita_PPP
+SLV,El Salvador,2023,AMR,Upper-middle,1175.5206702624562,Health_Exp_Per_Capita_PPP
+SMR,San Marino,2023,EUR,High,5231.149191297592,Health_Exp_Per_Capita_PPP
+SOM,Somalia,2023,EMR,Low,52.06521488130168,Health_Exp_Per_Capita_PPP
+SRB,Serbia,2023,EUR,Upper-middle,2302.6244782845897,Health_Exp_Per_Capita_PPP
+SSD,South Sudan,2023,AFR,Low,158.05791385723802,Health_Exp_Per_Capita_PPP
+STP,Sao Tome and Principe,2023,AFR,Lower-middle,355.03472089538377,Health_Exp_Per_Capita_PPP
+SUR,Suriname,2023,AMR,Upper-middle,1142.7270716213434,Health_Exp_Per_Capita_PPP
+SVK,Slovakia,2023,EUR,High,3230.245350709397,Health_Exp_Per_Capita_PPP
+SVN,Slovenia,2024,EUR,High,5424.888125073903,Health_Exp_Per_Capita_PPP
+SWE,Sweden,2024,EUR,High,7770.396735579479,Health_Exp_Per_Capita_PPP
+SWZ,Eswatini,2023,AFR,Lower-middle,922.0265724333912,Health_Exp_Per_Capita_PPP
+SYC,Seychelles,2023,AFR,High,1401.746696067702,Health_Exp_Per_Capita_PPP
+SYR,Syrian Arab Republic,2023,EMR,Low,122.45491385926108,Health_Exp_Per_Capita_PPP
+TCD,Chad,2023,AFR,Low,129.9120861672966,Health_Exp_Per_Capita_PPP
+TGO,Togo,2023,AFR,Low,185.734057006991,Health_Exp_Per_Capita_PPP
+THA,Thailand,2023,SEAR,Upper-middle,1066.7542925162686,Health_Exp_Per_Capita_PPP
+TJK,Tajikistan,2023,EUR,Lower-middle,364.0842794400984,Health_Exp_Per_Capita_PPP
+TKM,Turkmenistan,2023,EUR,Upper-middle,1263.8743850814544,Health_Exp_Per_Capita_PPP
+TLS,Timor-Leste,2023,SEAR,Lower-middle,461.0935509104677,Health_Exp_Per_Capita_PPP
+TON,Tonga,2023,WPR,Upper-middle,512.197999691458,Health_Exp_Per_Capita_PPP
+TTO,Trinidad and Tobago,2023,AMR,High,2243.812538680016,Health_Exp_Per_Capita_PPP
+TUN,Tunisia,2023,EMR,Lower-middle,1112.5146631773923,Health_Exp_Per_Capita_PPP
+TUR,Türkiye,2023,EUR,Upper-middle,1769.2272190959868,Health_Exp_Per_Capita_PPP
+TUV,Tuvalu,2023,WPR,Upper-middle,1670.926126195145,Health_Exp_Per_Capita_PPP
+TZA,"Tanzania, United Republic of",2023,AFR,Lower-middle,119.03183729201942,Health_Exp_Per_Capita_PPP
+UGA,Uganda,2023,AFR,Low,138.7507192347883,Health_Exp_Per_Capita_PPP
+UKR,Ukraine,2021,EUR,Upper-middle,1382.2343498934497,Health_Exp_Per_Capita_PPP
+URY,Uruguay,2023,AMR,High,3135.282257188182,Health_Exp_Per_Capita_PPP
+USA,United States,2023,AMR,High,13473.193216664498,Health_Exp_Per_Capita_PPP
+UZB,Uzbekistan,2023,EUR,Lower-middle,748.9573584407578,Health_Exp_Per_Capita_PPP
+VCT,Saint Vincent and the Grenadines,2023,AMR,Upper-middle,907.5665219944682,Health_Exp_Per_Capita_PPP
+VEN,"Venezuela, Bolivarian Republic of",2023,AMR,Upper-middle,112.41019335954677,Health_Exp_Per_Capita_PPP
+VNM,Viet Nam,2023,WPR,Lower-middle,689.5541003008649,Health_Exp_Per_Capita_PPP
+VUT,Vanuatu,2023,WPR,Lower-middle,141.22173607370758,Health_Exp_Per_Capita_PPP
+WSM,Samoa,2023,WPR,Lower-middle,474.5092208846032,Health_Exp_Per_Capita_PPP
+YEM,Yemen,2023,EMR,Low,168.80959748079383,Health_Exp_Per_Capita_PPP
+ZAF,South Africa,2023,AFR,Upper-middle,1353.752525118981,Health_Exp_Per_Capita_PPP
+ZMB,Zambia,2023,AFR,Lower-middle,243.73944060298385,Health_Exp_Per_Capita_PPP
+ZWE,Zimbabwe,2023,AFR,Lower-middle,97.11336597757364,Health_Exp_Per_Capita_PPP
+AFG,Afghanistan,2023,EMR,Low,14.985762599999996,Health_Exp_Pct_GDP
+AGO,Angola,2023,AFR,Lower-middle,2.5469286399999995,Health_Exp_Pct_GDP
+ALB,Albania,2023,EUR,Upper-middle,7.05240345,Health_Exp_Pct_GDP
+AND,Andorra,2023,EUR,High,7.699280259999999,Health_Exp_Pct_GDP
+ARE,United Arab Emirates,2023,EMR,High,4.970951080000001,Health_Exp_Pct_GDP
+ARG,Argentina,2023,AMR,Upper-middle,10.2695179,Health_Exp_Pct_GDP
+ARM,Armenia,2023,EUR,Upper-middle,9.32119179,Health_Exp_Pct_GDP
+ATG,Antigua and Barbuda,2023,AMR,High,3.91348195,Health_Exp_Pct_GDP
+AUS,Australia,2023,WPR,High,10.398520469999998,Health_Exp_Pct_GDP
+AUT,Austria,2024,EUR,High,11.832563400000002,Health_Exp_Pct_GDP
+AZE,Azerbaijan,2023,EUR,Upper-middle,4.27113533,Health_Exp_Pct_GDP
+BDI,Burundi,2023,AFR,Low,9.09471226,Health_Exp_Pct_GDP
+BEL,Belgium,2023,EUR,High,10.803715710000002,Health_Exp_Pct_GDP
+BEN,Benin,2023,AFR,Lower-middle,3.3373246200000004,Health_Exp_Pct_GDP
+BFA,Burkina Faso,2023,AFR,Low,7.799432279999999,Health_Exp_Pct_GDP
+BGD,Bangladesh,2023,SEAR,Lower-middle,2.17014575,Health_Exp_Pct_GDP
+BGR,Bulgaria,2023,EUR,High,7.918530939999999,Health_Exp_Pct_GDP
+BHR,Bahrain,2023,EMR,High,3.99562383,Health_Exp_Pct_GDP
+BHS,Bahamas,2023,AMR,High,6.30260801,Health_Exp_Pct_GDP
+BIH,Bosnia and Herzegovina,2023,EUR,Upper-middle,8.9216938,Health_Exp_Pct_GDP
+BLR,Belarus,2023,EUR,Upper-middle,7.081673619999999,Health_Exp_Pct_GDP
+BLZ,Belize,2023,AMR,Upper-middle,4.14735794,Health_Exp_Pct_GDP
+BOL,"Bolivia, Plurinational State of",2023,AMR,Lower-middle,6.918647290000001,Health_Exp_Pct_GDP
+BRA,Brazil,2023,AMR,Upper-middle,9.73092747,Health_Exp_Pct_GDP
+BRB,Barbados,2023,AMR,High,5.40463829,Health_Exp_Pct_GDP
+BRN,Brunei Darussalam,2023,WPR,High,2.2286067000000003,Health_Exp_Pct_GDP
+BTN,Bhutan,2023,SEAR,Lower-middle,4.415516379999999,Health_Exp_Pct_GDP
+BWA,Botswana,2023,AFR,Upper-middle,6.255746839999999,Health_Exp_Pct_GDP
+CAF,Central African Republic,2023,AFR,Low,10.655531879999998,Health_Exp_Pct_GDP
+CAN,Canada,2024,AMR,High,11.3095665,Health_Exp_Pct_GDP
+CHE,Switzerland,2023,EUR,High,11.69096088,Health_Exp_Pct_GDP
+CHL,Chile,2024,AMR,High,10.530925749999998,Health_Exp_Pct_GDP
+CHN,China,2023,WPR,Upper-middle,5.943888660000001,Health_Exp_Pct_GDP
+CIV,Côte d'Ivoire,2023,AFR,Lower-middle,3.43218303,Health_Exp_Pct_GDP
+CMR,Cameroon,2023,AFR,Lower-middle,4.5545516,Health_Exp_Pct_GDP
+COD,"Congo, The Democratic Republic of the",2023,AFR,Low,3.684950830000001,Health_Exp_Pct_GDP
+COG,Congo,2023,AFR,Lower-middle,3.29744148,Health_Exp_Pct_GDP
+COK,Cook Islands,2023,WPR,High,4.2014823,Health_Exp_Pct_GDP
+COL,Colombia,2024,AMR,Upper-middle,8.141393659999999,Health_Exp_Pct_GDP
+COM,Comoros,2023,AFR,Lower-middle,6.55212021,Health_Exp_Pct_GDP
+CPV,Cabo Verde,2023,AFR,Lower-middle,5.84791613,Health_Exp_Pct_GDP
+CRI,Costa Rica,2023,AMR,Upper-middle,6.8663702,Health_Exp_Pct_GDP
+CUB,Cuba,2023,AMR,Upper-middle,9.38383102,Health_Exp_Pct_GDP
+CYP,Cyprus,2023,EUR,High,8.119129179999998,Health_Exp_Pct_GDP
+CZE,Czechia,2024,EUR,High,8.50710297,Health_Exp_Pct_GDP
+DEU,Germany,2024,EUR,High,12.266552930000003,Health_Exp_Pct_GDP
+DJI,Djibouti,2023,EMR,Lower-middle,2.28316021,Health_Exp_Pct_GDP
+DMA,Dominica,2023,AMR,Upper-middle,5.007576470000001,Health_Exp_Pct_GDP
+DNK,Denmark,2024,EUR,High,9.38812923,Health_Exp_Pct_GDP
+DOM,Dominican Republic,2023,AMR,Upper-middle,4.59880495,Health_Exp_Pct_GDP
+DZA,Algeria,2023,AFR,Upper-middle,4.350825310000001,Health_Exp_Pct_GDP
+ECU,Ecuador,2023,AMR,Upper-middle,7.56167889,Health_Exp_Pct_GDP
+EGY,Egypt,2023,EMR,Lower-middle,4.88449335,Health_Exp_Pct_GDP
+ERI,Eritrea,2023,AFR,Low,3.6837678,Health_Exp_Pct_GDP
+ESP,Spain,2023,EUR,High,9.2206583,Health_Exp_Pct_GDP
+EST,Estonia,2024,EUR,High,7.836480620000001,Health_Exp_Pct_GDP
+ETH,Ethiopia,2023,AFR,Low,2.80310345,Health_Exp_Pct_GDP
+FIN,Finland,2023,EUR,High,10.47389507,Health_Exp_Pct_GDP
+FJI,Fiji,2023,WPR,Upper-middle,3.61524153,Health_Exp_Pct_GDP
+FRA,France,2024,EUR,High,11.53530598,Health_Exp_Pct_GDP
+FSM,"Micronesia, Federated States of",2023,WPR,Lower-middle,12.88087559,Health_Exp_Pct_GDP
+GAB,Gabon,2023,AFR,Upper-middle,3.13430715,Health_Exp_Pct_GDP
+GBR,United Kingdom,2024,EUR,High,11.133358,Health_Exp_Pct_GDP
+GEO,Georgia,2023,EUR,Upper-middle,6.85758877,Health_Exp_Pct_GDP
+GHA,Ghana,2023,AFR,Lower-middle,2.946869370000001,Health_Exp_Pct_GDP
+GIN,Guinea,2023,AFR,Lower-middle,3.69442987,Health_Exp_Pct_GDP
+GMB,Gambia,2023,AFR,Low,2.89250112,Health_Exp_Pct_GDP
+GNB,Guinea-Bissau,2023,AFR,Low,8.82204819,Health_Exp_Pct_GDP
+GNQ,Equatorial Guinea,2023,AFR,Upper-middle,3.49941635,Health_Exp_Pct_GDP
+GRC,Greece,2023,EUR,High,8.39367008,Health_Exp_Pct_GDP
+GRD,Grenada,2023,AMR,Upper-middle,4.65330839,Health_Exp_Pct_GDP
+GTM,Guatemala,2023,AMR,Upper-middle,6.80241346,Health_Exp_Pct_GDP
+GUY,Guyana,2023,AMR,High,2.46673751,Health_Exp_Pct_GDP
+HND,Honduras,2023,AMR,Lower-middle,7.70976162,Health_Exp_Pct_GDP
+HRV,Croatia,2023,EUR,High,7.14699411,Health_Exp_Pct_GDP
+HTI,Haiti,2023,AMR,Lower-middle,3.1915652800000003,Health_Exp_Pct_GDP
+HUN,Hungary,2023,EUR,High,6.36868954,Health_Exp_Pct_GDP
+IDN,Indonesia,2023,WPR,Upper-middle,2.70239949,Health_Exp_Pct_GDP
+IND,India,2023,SEAR,Lower-middle,3.3394403499999994,Health_Exp_Pct_GDP
+IRL,Ireland,2024,EUR,High,6.85410833,Health_Exp_Pct_GDP
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,6.025423049999999,Health_Exp_Pct_GDP
+IRQ,Iraq,2023,EMR,Upper-middle,5.532752509999999,Health_Exp_Pct_GDP
+ISL,Iceland,2024,EUR,High,8.983587270000001,Health_Exp_Pct_GDP
+ISR,Israel,2023,EUR,High,7.09822369,Health_Exp_Pct_GDP
+ITA,Italy,2024,EUR,High,8.444373129999999,Health_Exp_Pct_GDP
+JAM,Jamaica,2023,AMR,Upper-middle,7.604939459999999,Health_Exp_Pct_GDP
+JOR,Jordan,2023,EMR,Lower-middle,7.66000605,Health_Exp_Pct_GDP
+JPN,Japan,2023,WPR,High,10.739794729999998,Health_Exp_Pct_GDP
+KAZ,Kazakhstan,2023,EUR,Upper-middle,3.76701546,Health_Exp_Pct_GDP
+KEN,Kenya,2023,AFR,Lower-middle,4.351728919999999,Health_Exp_Pct_GDP
+KGZ,Kyrgyzstan,2023,EUR,Lower-middle,4.50344467,Health_Exp_Pct_GDP
+KHM,Cambodia,2023,WPR,Lower-middle,4.617068290000001,Health_Exp_Pct_GDP
+KIR,Kiribati,2023,WPR,Lower-middle,10.945256230000002,Health_Exp_Pct_GDP
+KNA,Saint Kitts and Nevis,2023,AMR,High,5.73595428,Health_Exp_Pct_GDP
+KOR,"Korea, Republic of",2024,WPR,High,8.676569940000002,Health_Exp_Pct_GDP
+KWT,Kuwait,2023,EMR,High,4.96311998,Health_Exp_Pct_GDP
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,1.32651615,Health_Exp_Pct_GDP
+LBN,Lebanon,2023,EMR,Lower-middle,5.57497263,Health_Exp_Pct_GDP
+LBR,Liberia,2023,AFR,Low,13.00574875,Health_Exp_Pct_GDP
+LBY,Libya,2023,EMR,Upper-middle,7.80515862,Health_Exp_Pct_GDP
+LCA,Saint Lucia,2023,AMR,Upper-middle,4.7298274000000005,Health_Exp_Pct_GDP
+LIE,Liechtenstein,2023,EUR,High,5.71460724,Health_Exp_Pct_GDP
+LKA,Sri Lanka,2023,SEAR,Lower-middle,3.6831376600000008,Health_Exp_Pct_GDP
+LSO,Lesotho,2023,AFR,Lower-middle,12.61182117,Health_Exp_Pct_GDP
+LTU,Lithuania,2024,EUR,High,7.595190049999999,Health_Exp_Pct_GDP
+LUX,Luxembourg,2024,EUR,High,5.891362670000001,Health_Exp_Pct_GDP
+LVA,Latvia,2023,EUR,High,7.27783823,Health_Exp_Pct_GDP
+MAR,Morocco,2023,EMR,Lower-middle,6.06396198,Health_Exp_Pct_GDP
+MCO,Monaco,2023,EUR,High,3.11959291,Health_Exp_Pct_GDP
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,6.7359705000000005,Health_Exp_Pct_GDP
+MDG,Madagascar,2023,AFR,Low,3.4282295700000005,Health_Exp_Pct_GDP
+MDV,Maldives,2023,SEAR,Upper-middle,9.24973583,Health_Exp_Pct_GDP
+MEX,Mexico,2023,AMR,Upper-middle,5.5039868400000005,Health_Exp_Pct_GDP
+MHL,Marshall Islands,2023,WPR,Upper-middle,13.40528965,Health_Exp_Pct_GDP
+MKD,North Macedonia,2023,EUR,Upper-middle,7.427302840000001,Health_Exp_Pct_GDP
+MLI,Mali,2023,AFR,Low,3.8131699600000006,Health_Exp_Pct_GDP
+MLT,Malta,2023,EUR,High,8.843013759999998,Health_Exp_Pct_GDP
+MMR,Myanmar,2023,SEAR,Lower-middle,4.457484249999999,Health_Exp_Pct_GDP
+MNE,Montenegro,2023,EUR,Upper-middle,9.6549921,Health_Exp_Pct_GDP
+MNG,Mongolia,2023,WPR,Upper-middle,6.072074889999999,Health_Exp_Pct_GDP
+MOZ,Mozambique,2023,AFR,Low,8.501265530000001,Health_Exp_Pct_GDP
+MRT,Mauritania,2023,AFR,Lower-middle,4.34333467,Health_Exp_Pct_GDP
+MUS,Mauritius,2023,AFR,Upper-middle,5.56544495,Health_Exp_Pct_GDP
+MWI,Malawi,2023,AFR,Low,6.534595970000001,Health_Exp_Pct_GDP
+MYS,Malaysia,2023,WPR,Upper-middle,3.95760036,Health_Exp_Pct_GDP
+NAM,Namibia,2023,AFR,Upper-middle,9.48251629,Health_Exp_Pct_GDP
+NER,Niger,2023,AFR,Low,4.04895782,Health_Exp_Pct_GDP
+NGA,Nigeria,2023,AFR,Lower-middle,4.19086456,Health_Exp_Pct_GDP
+NIC,Nicaragua,2023,AMR,Lower-middle,8.29879284,Health_Exp_Pct_GDP
+NIU,Niue,2023,WPR,High,16.14002609,Health_Exp_Pct_GDP
+NLD,Netherlands,2024,EUR,High,10.00551128,Health_Exp_Pct_GDP
+NOR,Norway,2023,EUR,High,9.42925453,Health_Exp_Pct_GDP
+NPL,Nepal,2023,SEAR,Lower-middle,6.15843678,Health_Exp_Pct_GDP
+NRU,Nauru,2023,WPR,High,18.21076012,Health_Exp_Pct_GDP
+NZL,New Zealand,2024,WPR,High,10.06186676,Health_Exp_Pct_GDP
+OMN,Oman,2023,EMR,High,3.49047446,Health_Exp_Pct_GDP
+PAK,Pakistan,2023,EMR,Lower-middle,2.51988316,Health_Exp_Pct_GDP
+PAN,Panama,2023,AMR,High,8.33022976,Health_Exp_Pct_GDP
+PER,Peru,2023,AMR,Upper-middle,5.637864110000001,Health_Exp_Pct_GDP
+PHL,Philippines,2023,WPR,Lower-middle,5.10122538,Health_Exp_Pct_GDP
+PLW,Palau,2023,WPR,High,10.85468197,Health_Exp_Pct_GDP
+PNG,Papua New Guinea,2023,WPR,Lower-middle,2.87081432,Health_Exp_Pct_GDP
+POL,Poland,2024,EUR,High,8.063801770000001,Health_Exp_Pct_GDP
+PRT,Portugal,2024,EUR,High,10.24061108,Health_Exp_Pct_GDP
+PRY,Paraguay,2023,AMR,Upper-middle,8.35731316,Health_Exp_Pct_GDP
+PSE,"Palestine, State of",2023,EMR,Lower-middle,10.73343945,Health_Exp_Pct_GDP
+QAT,Qatar,2023,EMR,High,2.52358818,Health_Exp_Pct_GDP
+ROU,Romania,2023,EUR,High,5.70901489,Health_Exp_Pct_GDP
+RUS,Russian Federation,2023,EUR,High,7.04438496,Health_Exp_Pct_GDP
+RWA,Rwanda,2023,AFR,Low,5.127089979999999,Health_Exp_Pct_GDP
+SAU,Saudi Arabia,2023,EMR,High,5.687222479999998,Health_Exp_Pct_GDP
+SDN,Sudan,2023,EMR,Low,2.851657389999999,Health_Exp_Pct_GDP
+SEN,Senegal,2023,AFR,Lower-middle,4.323148250000001,Health_Exp_Pct_GDP
+SGP,Singapore,2023,WPR,High,4.49163246,Health_Exp_Pct_GDP
+SLB,Solomon Islands,2023,WPR,Lower-middle,5.363661770000001,Health_Exp_Pct_GDP
+SLE,Sierra Leone,2023,AFR,Low,4.718830110000001,Health_Exp_Pct_GDP
+SLV,El Salvador,2023,AMR,Upper-middle,9.287385940000002,Health_Exp_Pct_GDP
+SMR,San Marino,2023,EUR,High,6.60829115,Health_Exp_Pct_GDP
+SOM,Somalia,2023,EMR,Low,3.74413586,Health_Exp_Pct_GDP
+SRB,Serbia,2023,EUR,Upper-middle,8.031337740000001,Health_Exp_Pct_GDP
+SSD,South Sudan,2023,AFR,Low,11.610022540000005,Health_Exp_Pct_GDP
+STP,Sao Tome and Principe,2023,AFR,Lower-middle,5.772921560000001,Health_Exp_Pct_GDP
+SUR,Suriname,2023,AMR,Upper-middle,5.406660079999999,Health_Exp_Pct_GDP
+SVK,Slovakia,2023,EUR,High,7.352622030000001,Health_Exp_Pct_GDP
+SVN,Slovenia,2024,EUR,High,9.87630939,Health_Exp_Pct_GDP
+SWE,Sweden,2024,EUR,High,11.21510124,Health_Exp_Pct_GDP
+SWZ,Eswatini,2023,AFR,Lower-middle,7.497639659999999,Health_Exp_Pct_GDP
+SYC,Seychelles,2023,AFR,High,4.48238087,Health_Exp_Pct_GDP
+SYR,Syrian Arab Republic,2023,EMR,Low,2.7099881200000007,Health_Exp_Pct_GDP
+TCD,Chad,2023,AFR,Low,4.997077470000001,Health_Exp_Pct_GDP
+TGO,Togo,2023,AFR,Low,6.108295439999999,Health_Exp_Pct_GDP
+THA,Thailand,2023,SEAR,Upper-middle,4.53787661,Health_Exp_Pct_GDP
+TJK,Tajikistan,2023,EUR,Lower-middle,7.437899110000001,Health_Exp_Pct_GDP
+TKM,Turkmenistan,2023,EUR,Upper-middle,5.497890949999999,Health_Exp_Pct_GDP
+TLS,Timor-Leste,2023,SEAR,Lower-middle,9.597794529999998,Health_Exp_Pct_GDP
+TON,Tonga,2023,WPR,Upper-middle,7.360377790000001,Health_Exp_Pct_GDP
+TTO,Trinidad and Tobago,2023,AMR,High,7.52568626,Health_Exp_Pct_GDP
+TUN,Tunisia,2023,EMR,Lower-middle,7.98537874,Health_Exp_Pct_GDP
+TUR,Türkiye,2023,EUR,Upper-middle,4.27524424,Health_Exp_Pct_GDP
+TUV,Tuvalu,2023,WPR,Upper-middle,27.08968544,Health_Exp_Pct_GDP
+TZA,"Tanzania, United Republic of",2023,AFR,Lower-middle,3.05201221,Health_Exp_Pct_GDP
+UGA,Uganda,2023,AFR,Low,4.2360014900000005,Health_Exp_Pct_GDP
+UKR,Ukraine,2021,EUR,Upper-middle,8.2027483,Health_Exp_Pct_GDP
+URY,Uruguay,2023,AMR,High,9.01887608,Health_Exp_Pct_GDP
+USA,United States,2023,AMR,High,16.69414902,Health_Exp_Pct_GDP
+UZB,Uzbekistan,2023,EUR,Lower-middle,6.743128779999999,Health_Exp_Pct_GDP
+VCT,Saint Vincent and the Grenadines,2023,AMR,Upper-middle,4.43696308,Health_Exp_Pct_GDP
+VEN,"Venezuela, Bolivarian Republic of",2023,AMR,Upper-middle,3.77611423,Health_Exp_Pct_GDP
+VNM,Viet Nam,2023,WPR,Lower-middle,4.56109476,Health_Exp_Pct_GDP
+VUT,Vanuatu,2023,WPR,Lower-middle,4.1186676,Health_Exp_Pct_GDP
+WSM,Samoa,2023,WPR,Lower-middle,6.78103304,Health_Exp_Pct_GDP
+YEM,Yemen,2023,EMR,Low,9.695591929999996,Health_Exp_Pct_GDP
+ZAF,South Africa,2023,AFR,Upper-middle,8.909667970000001,Health_Exp_Pct_GDP
+ZMB,Zambia,2023,AFR,Lower-middle,5.978410720000001,Health_Exp_Pct_GDP
+ZWE,Zimbabwe,2023,AFR,Lower-middle,2.92601609,Health_Exp_Pct_GDP
+AFG,Afghanistan,2023,EMR,Low,77.13958740000001,OOP_Pct_Current_Health_Exp
+AGO,Angola,2023,AFR,Lower-middle,32.54667664,OOP_Pct_Current_Health_Exp
+ALB,Albania,2023,EUR,Upper-middle,48.27462769,OOP_Pct_Current_Health_Exp
+AND,Andorra,2023,EUR,High,11.145944599999998,OOP_Pct_Current_Health_Exp
+ARE,United Arab Emirates,2023,EMR,High,9.66616821,OOP_Pct_Current_Health_Exp
+ARG,Argentina,2023,AMR,Upper-middle,24.46961784,OOP_Pct_Current_Health_Exp
+ARM,Armenia,2023,EUR,Upper-middle,80.47196197999999,OOP_Pct_Current_Health_Exp
+ATG,Antigua and Barbuda,2023,AMR,High,20.80756378,OOP_Pct_Current_Health_Exp
+AUS,Australia,2023,WPR,High,15.84897614,OOP_Pct_Current_Health_Exp
+AUT,Austria,2024,EUR,High,16.46478271,OOP_Pct_Current_Health_Exp
+AZE,Azerbaijan,2023,EUR,Upper-middle,64.63206482000001,OOP_Pct_Current_Health_Exp
+BDI,Burundi,2023,AFR,Low,24.48983002,OOP_Pct_Current_Health_Exp
+BEL,Belgium,2023,EUR,High,21.50983047,OOP_Pct_Current_Health_Exp
+BEN,Benin,2023,AFR,Lower-middle,42.40531921,OOP_Pct_Current_Health_Exp
+BFA,Burkina Faso,2023,AFR,Low,43.82195663,OOP_Pct_Current_Health_Exp
+BGD,Bangladesh,2023,SEAR,Lower-middle,79.30711364999999,OOP_Pct_Current_Health_Exp
+BGR,Bulgaria,2023,EUR,High,35.50430679,OOP_Pct_Current_Health_Exp
+BHR,Bahrain,2023,EMR,High,28.65578461,OOP_Pct_Current_Health_Exp
+BHS,Bahamas,2023,AMR,High,27.483779910000003,OOP_Pct_Current_Health_Exp
+BIH,Bosnia and Herzegovina,2023,EUR,Upper-middle,30.96058273,OOP_Pct_Current_Health_Exp
+BLR,Belarus,2023,EUR,Upper-middle,28.48183441,OOP_Pct_Current_Health_Exp
+BLZ,Belize,2023,AMR,Upper-middle,26.78139114,OOP_Pct_Current_Health_Exp
+BOL,"Bolivia, Plurinational State of",2023,AMR,Lower-middle,27.31554413,OOP_Pct_Current_Health_Exp
+BRA,Brazil,2023,AMR,Upper-middle,26.230707169999995,OOP_Pct_Current_Health_Exp
+BRB,Barbados,2023,AMR,High,49.49338913000001,OOP_Pct_Current_Health_Exp
+BRN,Brunei Darussalam,2023,WPR,High,7.411793709999999,OOP_Pct_Current_Health_Exp
+BTN,Bhutan,2023,SEAR,Lower-middle,25.46281624,OOP_Pct_Current_Health_Exp
+BWA,Botswana,2023,AFR,Upper-middle,4.25866175,OOP_Pct_Current_Health_Exp
+CAF,Central African Republic,2023,AFR,Low,45.02304077,OOP_Pct_Current_Health_Exp
+CAN,Canada,2024,AMR,High,15.277337069999998,OOP_Pct_Current_Health_Exp
+CHE,Switzerland,2023,EUR,High,22.027374270000003,OOP_Pct_Current_Health_Exp
+CHL,Chile,2024,AMR,High,39.14786911,OOP_Pct_Current_Health_Exp
+CHN,China,2023,WPR,Upper-middle,32.17354584,OOP_Pct_Current_Health_Exp
+CIV,Côte d'Ivoire,2023,AFR,Lower-middle,31.99314499,OOP_Pct_Current_Health_Exp
+CMR,Cameroon,2023,AFR,Lower-middle,67.65119171,OOP_Pct_Current_Health_Exp
+COD,"Congo, The Democratic Republic of the",2023,AFR,Low,38.00354767,OOP_Pct_Current_Health_Exp
+COG,Congo,2023,AFR,Lower-middle,27.97068977,OOP_Pct_Current_Health_Exp
+COK,Cook Islands,2023,WPR,High,3.69403648,OOP_Pct_Current_Health_Exp
+COL,Colombia,2024,AMR,Upper-middle,14.737418169999998,OOP_Pct_Current_Health_Exp
+COM,Comoros,2023,AFR,Lower-middle,56.56671523999999,OOP_Pct_Current_Health_Exp
+CPV,Cabo Verde,2023,AFR,Lower-middle,25.73987579,OOP_Pct_Current_Health_Exp
+CRI,Costa Rica,2023,AMR,Upper-middle,24.12618256,OOP_Pct_Current_Health_Exp
+CUB,Cuba,2023,AMR,Upper-middle,16.582387920000002,OOP_Pct_Current_Health_Exp
+CYP,Cyprus,2023,EUR,High,17.9429245,OOP_Pct_Current_Health_Exp
+CZE,Czechia,2024,EUR,High,14.063905719999998,OOP_Pct_Current_Health_Exp
+DEU,Germany,2024,EUR,High,10.706731800000004,OOP_Pct_Current_Health_Exp
+DJI,Djibouti,2023,EMR,Lower-middle,28.84145355,OOP_Pct_Current_Health_Exp
+DMA,Dominica,2023,AMR,Upper-middle,29.326374050000005,OOP_Pct_Current_Health_Exp
+DNK,Denmark,2024,EUR,High,13.86858845,OOP_Pct_Current_Health_Exp
+DOM,Dominican Republic,2023,AMR,Upper-middle,25.05566978,OOP_Pct_Current_Health_Exp
+DZA,Algeria,2023,AFR,Upper-middle,45.00216675,OOP_Pct_Current_Health_Exp
+ECU,Ecuador,2023,AMR,Upper-middle,30.88848876999999,OOP_Pct_Current_Health_Exp
+EGY,Egypt,2023,EMR,Lower-middle,57.19506835999999,OOP_Pct_Current_Health_Exp
+ERI,Eritrea,2023,AFR,Low,48.44565201,OOP_Pct_Current_Health_Exp
+ESP,Spain,2023,EUR,High,20.85539818,OOP_Pct_Current_Health_Exp
+EST,Estonia,2024,EUR,High,21.38176537,OOP_Pct_Current_Health_Exp
+ETH,Ethiopia,2023,AFR,Low,46.26859283,OOP_Pct_Current_Health_Exp
+FIN,Finland,2023,EUR,High,14.09493542,OOP_Pct_Current_Health_Exp
+FJI,Fiji,2023,WPR,Upper-middle,8.31420898,OOP_Pct_Current_Health_Exp
+FRA,France,2024,EUR,High,9.227425579999998,OOP_Pct_Current_Health_Exp
+FSM,"Micronesia, Federated States of",2023,WPR,Lower-middle,2.5810563600000003,OOP_Pct_Current_Health_Exp
+GAB,Gabon,2023,AFR,Upper-middle,17.271539689999997,OOP_Pct_Current_Health_Exp
+GBR,United Kingdom,2024,EUR,High,14.555409430000005,OOP_Pct_Current_Health_Exp
+GEO,Georgia,2023,EUR,Upper-middle,58.75926207999999,OOP_Pct_Current_Health_Exp
+GHA,Ghana,2023,AFR,Lower-middle,26.67723274,OOP_Pct_Current_Health_Exp
+GIN,Guinea,2023,AFR,Lower-middle,54.41574097,OOP_Pct_Current_Health_Exp
+GMB,Gambia,2023,AFR,Low,33.7826767,OOP_Pct_Current_Health_Exp
+GNB,Guinea-Bissau,2023,AFR,Low,61.55878829999999,OOP_Pct_Current_Health_Exp
+GNQ,Equatorial Guinea,2023,AFR,Upper-middle,65.98317718999999,OOP_Pct_Current_Health_Exp
+GRC,Greece,2023,EUR,High,34.303070070000004,OOP_Pct_Current_Health_Exp
+GRD,Grenada,2023,AMR,Upper-middle,48.48131943,OOP_Pct_Current_Health_Exp
+GTM,Guatemala,2023,AMR,Upper-middle,57.18184662000001,OOP_Pct_Current_Health_Exp
+GUY,Guyana,2023,AMR,High,26.327430730000003,OOP_Pct_Current_Health_Exp
+HND,Honduras,2023,AMR,Lower-middle,53.06166458,OOP_Pct_Current_Health_Exp
+HRV,Croatia,2023,EUR,High,9.37740326,OOP_Pct_Current_Health_Exp
+HTI,Haiti,2023,AMR,Lower-middle,52.40410995,OOP_Pct_Current_Health_Exp
+HUN,Hungary,2023,EUR,High,23.05996895,OOP_Pct_Current_Health_Exp
+IDN,Indonesia,2023,WPR,Upper-middle,31.0836544,OOP_Pct_Current_Health_Exp
+IND,India,2023,SEAR,Lower-middle,43.88510513,OOP_Pct_Current_Health_Exp
+IRL,Ireland,2024,EUR,High,10.60706902,OOP_Pct_Current_Health_Exp
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,43.14528656,OOP_Pct_Current_Health_Exp
+IRQ,Iraq,2023,EMR,Upper-middle,53.98237610000001,OOP_Pct_Current_Health_Exp
+ISL,Iceland,2024,EUR,High,14.87985802,OOP_Pct_Current_Health_Exp
+ISR,Israel,2023,EUR,High,20.48583984,OOP_Pct_Current_Health_Exp
+ITA,Italy,2024,EUR,High,22.309795380000004,OOP_Pct_Current_Health_Exp
+JAM,Jamaica,2023,AMR,Upper-middle,20.2454052,OOP_Pct_Current_Health_Exp
+JOR,Jordan,2023,EMR,Lower-middle,34.467945099999994,OOP_Pct_Current_Health_Exp
+JPN,Japan,2023,WPR,High,12.235681529999995,OOP_Pct_Current_Health_Exp
+KAZ,Kazakhstan,2023,EUR,Upper-middle,27.64227866999999,OOP_Pct_Current_Health_Exp
+KEN,Kenya,2023,AFR,Lower-middle,24.24565315,OOP_Pct_Current_Health_Exp
+KGZ,Kyrgyzstan,2023,EUR,Lower-middle,42.26472854999999,OOP_Pct_Current_Health_Exp
+KHM,Cambodia,2023,WPR,Lower-middle,60.601188660000005,OOP_Pct_Current_Health_Exp
+KIR,Kiribati,2023,WPR,Lower-middle,2.9085722,OOP_Pct_Current_Health_Exp
+KNA,Saint Kitts and Nevis,2023,AMR,High,41.80017853,OOP_Pct_Current_Health_Exp
+KOR,"Korea, Republic of",2024,WPR,High,33.73815535999999,OOP_Pct_Current_Health_Exp
+KWT,Kuwait,2023,EMR,High,10.003496170000002,OOP_Pct_Current_Health_Exp
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,44.84078598,OOP_Pct_Current_Health_Exp
+LBN,Lebanon,2023,EMR,Lower-middle,29.70126343,OOP_Pct_Current_Health_Exp
+LBR,Liberia,2023,AFR,Low,63.23887634,OOP_Pct_Current_Health_Exp
+LBY,Libya,2023,EMR,Upper-middle,19.17657852,OOP_Pct_Current_Health_Exp
+LCA,Saint Lucia,2023,AMR,Upper-middle,37.14485931,OOP_Pct_Current_Health_Exp
+LIE,Liechtenstein,2023,EUR,High,19.7171917,OOP_Pct_Current_Health_Exp
+LKA,Sri Lanka,2023,SEAR,Lower-middle,54.81069946000001,OOP_Pct_Current_Health_Exp
+LSO,Lesotho,2023,AFR,Lower-middle,13.19708443,OOP_Pct_Current_Health_Exp
+LTU,Lithuania,2024,EUR,High,31.425268169999992,OOP_Pct_Current_Health_Exp
+LUX,Luxembourg,2024,EUR,High,8.50457287,OOP_Pct_Current_Health_Exp
+LVA,Latvia,2023,EUR,High,35.05759811,OOP_Pct_Current_Health_Exp
+MAR,Morocco,2023,EMR,Lower-middle,37.25432968,OOP_Pct_Current_Health_Exp
+MCO,Monaco,2023,EUR,High,8.453580859999999,OOP_Pct_Current_Health_Exp
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,27.468853,OOP_Pct_Current_Health_Exp
+MDG,Madagascar,2023,AFR,Low,27.422096250000003,OOP_Pct_Current_Health_Exp
+MDV,Maldives,2023,SEAR,Upper-middle,18.048852919999995,OOP_Pct_Current_Health_Exp
+MEX,Mexico,2023,AMR,Upper-middle,41.23572922,OOP_Pct_Current_Health_Exp
+MHL,Marshall Islands,2023,WPR,Upper-middle,1.0529476400000002,OOP_Pct_Current_Health_Exp
+MKD,North Macedonia,2023,EUR,Upper-middle,39.57205582,OOP_Pct_Current_Health_Exp
+MLI,Mali,2023,AFR,Low,47.229949950000005,OOP_Pct_Current_Health_Exp
+MLT,Malta,2023,EUR,High,30.92565918,OOP_Pct_Current_Health_Exp
+MMR,Myanmar,2023,SEAR,Lower-middle,71.12589264,OOP_Pct_Current_Health_Exp
+MNE,Montenegro,2023,EUR,Upper-middle,26.33176041,OOP_Pct_Current_Health_Exp
+MNG,Mongolia,2023,WPR,Upper-middle,48.79919434,OOP_Pct_Current_Health_Exp
+MOZ,Mozambique,2023,AFR,Low,10.370665550000002,OOP_Pct_Current_Health_Exp
+MRT,Mauritania,2023,AFR,Lower-middle,43.773670200000005,OOP_Pct_Current_Health_Exp
+MUS,Mauritius,2023,AFR,Upper-middle,45.2427063,OOP_Pct_Current_Health_Exp
+MWI,Malawi,2023,AFR,Low,12.00286865,OOP_Pct_Current_Health_Exp
+MYS,Malaysia,2023,WPR,Upper-middle,37.09352112,OOP_Pct_Current_Health_Exp
+NAM,Namibia,2023,AFR,Upper-middle,7.491710190000001,OOP_Pct_Current_Health_Exp
+NER,Niger,2023,AFR,Low,51.48022842,OOP_Pct_Current_Health_Exp
+NGA,Nigeria,2023,AFR,Lower-middle,71.90481566999999,OOP_Pct_Current_Health_Exp
+NIC,Nicaragua,2023,AMR,Lower-middle,37.6333313,OOP_Pct_Current_Health_Exp
+NIU,Niue,2023,WPR,High,0.3930584499999999,OOP_Pct_Current_Health_Exp
+NLD,Netherlands,2024,EUR,High,11.78772259,OOP_Pct_Current_Health_Exp
+NOR,Norway,2023,EUR,High,13.68724823,OOP_Pct_Current_Health_Exp
+NPL,Nepal,2023,SEAR,Lower-middle,59.388275150000005,OOP_Pct_Current_Health_Exp
+NRU,Nauru,2023,WPR,High,0.7317492400000001,OOP_Pct_Current_Health_Exp
+NZL,New Zealand,2024,WPR,High,12.687640190000002,OOP_Pct_Current_Health_Exp
+OMN,Oman,2023,EMR,High,6.31094599,OOP_Pct_Current_Health_Exp
+PAK,Pakistan,2023,EMR,Lower-middle,52.93231964,OOP_Pct_Current_Health_Exp
+PAN,Panama,2023,AMR,High,40.45503235000001,OOP_Pct_Current_Health_Exp
+PER,Peru,2023,AMR,Upper-middle,26.98286247,OOP_Pct_Current_Health_Exp
+PHL,Philippines,2023,WPR,Lower-middle,44.360061650000006,OOP_Pct_Current_Health_Exp
+PLW,Palau,2023,WPR,High,12.102232930000005,OOP_Pct_Current_Health_Exp
+PNG,Papua New Guinea,2023,WPR,Lower-middle,8.554127690000001,OOP_Pct_Current_Health_Exp
+POL,Poland,2024,EUR,High,16.20527458,OOP_Pct_Current_Health_Exp
+PRT,Portugal,2024,EUR,High,28.19350624,OOP_Pct_Current_Health_Exp
+PRY,Paraguay,2023,AMR,Upper-middle,36.32289886,OOP_Pct_Current_Health_Exp
+PSE,"Palestine, State of",2023,EMR,Lower-middle,42.07169342,OOP_Pct_Current_Health_Exp
+QAT,Qatar,2023,EMR,High,7.429458139999999,OOP_Pct_Current_Health_Exp
+ROU,Romania,2023,EUR,High,22.96146011,OOP_Pct_Current_Health_Exp
+RUS,Russian Federation,2023,EUR,High,28.394222260000003,OOP_Pct_Current_Health_Exp
+RWA,Rwanda,2023,AFR,Low,4.099999899999999,OOP_Pct_Current_Health_Exp
+SAU,Saudi Arabia,2023,EMR,High,14.11603928,OOP_Pct_Current_Health_Exp
+SDN,Sudan,2023,EMR,Low,57.36631392999999,OOP_Pct_Current_Health_Exp
+SEN,Senegal,2023,AFR,Lower-middle,44.32556534,OOP_Pct_Current_Health_Exp
+SGP,Singapore,2023,WPR,High,25.41850281,OOP_Pct_Current_Health_Exp
+SLB,Solomon Islands,2023,WPR,Lower-middle,3.16049337,OOP_Pct_Current_Health_Exp
+SLE,Sierra Leone,2023,AFR,Low,54.4692421,OOP_Pct_Current_Health_Exp
+SLV,El Salvador,2023,AMR,Upper-middle,32.4943924,OOP_Pct_Current_Health_Exp
+SMR,San Marino,2023,EUR,High,13.09178734,OOP_Pct_Current_Health_Exp
+SOM,Somalia,2023,EMR,Low,30.77948952000001,OOP_Pct_Current_Health_Exp
+SRB,Serbia,2023,EUR,Upper-middle,32.13853073,OOP_Pct_Current_Health_Exp
+SSD,South Sudan,2023,AFR,Low,27.14476204,OOP_Pct_Current_Health_Exp
+STP,Sao Tome and Principe,2023,AFR,Lower-middle,16.66314888,OOP_Pct_Current_Health_Exp
+SUR,Suriname,2023,AMR,Upper-middle,19.716655730000003,OOP_Pct_Current_Health_Exp
+SVK,Slovakia,2023,EUR,High,20.15309143,OOP_Pct_Current_Health_Exp
+SVN,Slovenia,2024,EUR,High,11.7449913,OOP_Pct_Current_Health_Exp
+SWE,Sweden,2024,EUR,High,13.3813858,OOP_Pct_Current_Health_Exp
+SWZ,Eswatini,2023,AFR,Lower-middle,11.018387790000002,OOP_Pct_Current_Health_Exp
+SYC,Seychelles,2023,AFR,High,27.95942497,OOP_Pct_Current_Health_Exp
+SYR,Syrian Arab Republic,2023,EMR,Low,72.40081787,OOP_Pct_Current_Health_Exp
+TCD,Chad,2023,AFR,Low,51.679149630000005,OOP_Pct_Current_Health_Exp
+TGO,Togo,2023,AFR,Low,64.34121703999999,OOP_Pct_Current_Health_Exp
+THA,Thailand,2023,SEAR,Upper-middle,9.93404865,OOP_Pct_Current_Health_Exp
+TJK,Tajikistan,2023,EUR,Lower-middle,62.361026760000016,OOP_Pct_Current_Health_Exp
+TKM,Turkmenistan,2023,EUR,Upper-middle,77.39328003,OOP_Pct_Current_Health_Exp
+TLS,Timor-Leste,2023,SEAR,Lower-middle,6.993333820000001,OOP_Pct_Current_Health_Exp
+TON,Tonga,2023,WPR,Upper-middle,5.863774779999998,OOP_Pct_Current_Health_Exp
+TTO,Trinidad and Tobago,2023,AMR,High,45.27397919,OOP_Pct_Current_Health_Exp
+TUN,Tunisia,2023,EMR,Lower-middle,37.93983841000001,OOP_Pct_Current_Health_Exp
+TUR,Türkiye,2023,EUR,Upper-middle,19.04723167,OOP_Pct_Current_Health_Exp
+TUV,Tuvalu,2023,WPR,Upper-middle,0.04458594,OOP_Pct_Current_Health_Exp
+TZA,"Tanzania, United Republic of",2023,AFR,Lower-middle,27.931280139999995,OOP_Pct_Current_Health_Exp
+UGA,Uganda,2023,AFR,Low,32.171794889999994,OOP_Pct_Current_Health_Exp
+UKR,Ukraine,2021,EUR,Upper-middle,45.29367447,OOP_Pct_Current_Health_Exp
+URY,Uruguay,2023,AMR,High,17.098112109999995,OOP_Pct_Current_Health_Exp
+USA,United States,2023,AMR,High,10.927238459999998,OOP_Pct_Current_Health_Exp
+UZB,Uzbekistan,2023,EUR,Lower-middle,64.05923462000001,OOP_Pct_Current_Health_Exp
+VCT,Saint Vincent and the Grenadines,2023,AMR,Upper-middle,26.57362938,OOP_Pct_Current_Health_Exp
+VEN,"Venezuela, Bolivarian Republic of",2023,AMR,Upper-middle,29.6867485,OOP_Pct_Current_Health_Exp
+VNM,Viet Nam,2023,WPR,Lower-middle,39.20284653,OOP_Pct_Current_Health_Exp
+VUT,Vanuatu,2023,WPR,Lower-middle,8.38081264,OOP_Pct_Current_Health_Exp
+WSM,Samoa,2023,WPR,Lower-middle,13.41968632,OOP_Pct_Current_Health_Exp
+YEM,Yemen,2023,EMR,Low,69.12571716,OOP_Pct_Current_Health_Exp
+ZAF,South Africa,2023,AFR,Upper-middle,6.69263172,OOP_Pct_Current_Health_Exp
+ZMB,Zambia,2023,AFR,Lower-middle,10.286832809999998,OOP_Pct_Current_Health_Exp
+ZWE,Zimbabwe,2023,AFR,Lower-middle,10.63479233,OOP_Pct_Current_Health_Exp
+AFG,Afghanistan,2020,EMR,Low,34.56,Financial_Hardship_Total_Pct
+AGO,Angola,2018,AFR,Lower-middle,39.53,Financial_Hardship_Total_Pct
+ALB,Albania,2017,EUR,Upper-middle,14.82,Financial_Hardship_Total_Pct
+AND,Andorra,2023,EUR,High,5.58,Financial_Hardship_Total_Pct
+ARG,Argentina,2017,AMR,Upper-middle,35.86,Financial_Hardship_Total_Pct
+ARM,Armenia,2020,EUR,Upper-middle,23.52,Financial_Hardship_Total_Pct
+AUT,Austria,1999,EUR,High,8.63,Financial_Hardship_Total_Pct
+AZE,Azerbaijan,2005,EUR,Upper-middle,9.06,Financial_Hardship_Total_Pct
+BDI,Burundi,2013,AFR,Low,56.64,Financial_Hardship_Total_Pct
+BEL,Belgium,2009,EUR,High,12.28,Financial_Hardship_Total_Pct
+BEN,Benin,2021,AFR,Lower-middle,35.65,Financial_Hardship_Total_Pct
+BFA,Burkina Faso,2021,AFR,Low,38.62,Financial_Hardship_Total_Pct
+BGD,Bangladesh,2022,SEAR,Lower-middle,41.7,Financial_Hardship_Total_Pct
+BGR,Bulgaria,2023,EUR,High,18.75,Financial_Hardship_Total_Pct
+BIH,Bosnia and Herzegovina,2022,EUR,Upper-middle,8.58,Financial_Hardship_Total_Pct
+BLR,Belarus,2020,EUR,Upper-middle,12.18,Financial_Hardship_Total_Pct
+BLZ,Belize,2018,AMR,Upper-middle,17.08,Financial_Hardship_Total_Pct
+BOL,"Bolivia, Plurinational State of",2021,AMR,Lower-middle,13.41,Financial_Hardship_Total_Pct
+BRA,Brazil,2017,AMR,Upper-middle,24.04,Financial_Hardship_Total_Pct
+BRB,Barbados,2016,AMR,High,15.87,Financial_Hardship_Total_Pct
+BTN,Bhutan,2022,SEAR,Lower-middle,8.98,Financial_Hardship_Total_Pct
+BWA,Botswana,2015,AFR,Upper-middle,11.82,Financial_Hardship_Total_Pct
+CAF,Central African Republic,2021,AFR,Low,52.97,Financial_Hardship_Total_Pct
+CHE,Switzerland,2017,EUR,High,10.31,Financial_Hardship_Total_Pct
+CHL,Chile,2021,AMR,High,17.38,Financial_Hardship_Total_Pct
+CHN,China,2018,WPR,Upper-middle,33.55,Financial_Hardship_Total_Pct
+CIV,Côte d'Ivoire,2021,AFR,Lower-middle,28.85,Financial_Hardship_Total_Pct
+CMR,Cameroon,2022,AFR,Lower-middle,38.84,Financial_Hardship_Total_Pct
+COD,"Congo, The Democratic Republic of the",2012,AFR,Low,60.03,Financial_Hardship_Total_Pct
+COG,Congo,2011,AFR,Lower-middle,36.13,Financial_Hardship_Total_Pct
+COK,Cook Islands,2015,WPR,High,5.38,Financial_Hardship_Total_Pct
+COL,Colombia,2021,AMR,Upper-middle,12.54,Financial_Hardship_Total_Pct
+COM,Comoros,2014,AFR,Lower-middle,32.44,Financial_Hardship_Total_Pct
+CPV,Cabo Verde,2015,AFR,Lower-middle,23.27,Financial_Hardship_Total_Pct
+CRI,Costa Rica,2018,AMR,Upper-middle,13.42,Financial_Hardship_Total_Pct
+CYP,Cyprus,2023,EUR,High,11.73,Financial_Hardship_Total_Pct
+CZE,Czechia,2023,EUR,High,10.0,Financial_Hardship_Total_Pct
+DEU,Germany,2010,EUR,High,4.8,Financial_Hardship_Total_Pct
+DJI,Djibouti,2017,EMR,Lower-middle,6.52,Financial_Hardship_Total_Pct
+DNK,Denmark,2010,EUR,High,7.37,Financial_Hardship_Total_Pct
+DOM,Dominican Republic,2018,AMR,Upper-middle,15.55,Financial_Hardship_Total_Pct
+ECU,Ecuador,2013,AMR,Upper-middle,22.57,Financial_Hardship_Total_Pct
+EGY,Egypt,2019,EMR,Lower-middle,36.91,Financial_Hardship_Total_Pct
+ESP,Spain,2023,EUR,High,12.71,Financial_Hardship_Total_Pct
+EST,Estonia,2011,EUR,High,8.92,Financial_Hardship_Total_Pct
+ETH,Ethiopia,2021,AFR,Low,24.18,Financial_Hardship_Total_Pct
+FIN,Finland,2016,EUR,High,10.15,Financial_Hardship_Total_Pct
+FSM,"Micronesia, Federated States of",2013,WPR,Lower-middle,4.81,Financial_Hardship_Total_Pct
+GAB,Gabon,2017,AFR,Upper-middle,20.56,Financial_Hardship_Total_Pct
+GBR,United Kingdom,2021,EUR,High,7.47,Financial_Hardship_Total_Pct
+GEO,Georgia,2024,EUR,Upper-middle,27.87,Financial_Hardship_Total_Pct
+GHA,Ghana,2016,AFR,Lower-middle,21.14,Financial_Hardship_Total_Pct
+GIN,Guinea,2018,AFR,Lower-middle,37.03,Financial_Hardship_Total_Pct
+GMB,Gambia,2015,AFR,Low,25.62,Financial_Hardship_Total_Pct
+GNB,Guinea-Bissau,2021,AFR,Low,38.18,Financial_Hardship_Total_Pct
+GRC,Greece,2023,EUR,High,18.85,Financial_Hardship_Total_Pct
+GRD,Grenada,2008,AMR,Upper-middle,3.41,Financial_Hardship_Total_Pct
+GTM,Guatemala,2023,AMR,Upper-middle,20.59,Financial_Hardship_Total_Pct
+HND,Honduras,2004,AMR,Lower-middle,26.02,Financial_Hardship_Total_Pct
+HRV,Croatia,2010,EUR,High,8.44,Financial_Hardship_Total_Pct
+HTI,Haiti,2013,AMR,Lower-middle,24.5,Financial_Hardship_Total_Pct
+HUN,Hungary,2007,EUR,High,17.09,Financial_Hardship_Total_Pct
+IDN,Indonesia,2023,WPR,Upper-middle,26.57,Financial_Hardship_Total_Pct
+IND,India,2022,SEAR,Lower-middle,30.94,Financial_Hardship_Total_Pct
+IRL,Ireland,2009,EUR,High,7.84,Financial_Hardship_Total_Pct
+IRN,"Iran, Islamic Republic of",2022,EMR,Upper-middle,15.65,Financial_Hardship_Total_Pct
+IRQ,Iraq,2017,EMR,Upper-middle,33.18,Financial_Hardship_Total_Pct
+ISL,Iceland,1995,EUR,High,10.38,Financial_Hardship_Total_Pct
+ISR,Israel,2021,EUR,High,16.57,Financial_Hardship_Total_Pct
+ITA,Italy,2010,EUR,High,9.69,Financial_Hardship_Total_Pct
+JAM,Jamaica,2021,AMR,Upper-middle,21.48,Financial_Hardship_Total_Pct
+JOR,Jordan,2010,EMR,Lower-middle,14.7,Financial_Hardship_Total_Pct
+JPN,Japan,2024,WPR,High,10.9,Financial_Hardship_Total_Pct
+KAZ,Kazakhstan,2018,EUR,Upper-middle,9.77,Financial_Hardship_Total_Pct
+KEN,Kenya,2015,AFR,Lower-middle,26.38,Financial_Hardship_Total_Pct
+KGZ,Kyrgyzstan,2022,EUR,Lower-middle,9.64,Financial_Hardship_Total_Pct
+KHM,Cambodia,2023,WPR,Lower-middle,22.05,Financial_Hardship_Total_Pct
+KIR,Kiribati,2019,WPR,Lower-middle,2.09,Financial_Hardship_Total_Pct
+KNA,Saint Kitts and Nevis,2007,AMR,High,10.63,Financial_Hardship_Total_Pct
+KOR,"Korea, Republic of",2021,WPR,High,9.65,Financial_Hardship_Total_Pct
+LAO,Lao People's Democratic Republic,2018,WPR,Lower-middle,13.16,Financial_Hardship_Total_Pct
+LBN,Lebanon,1999,EMR,Lower-middle,33.26,Financial_Hardship_Total_Pct
+LBR,Liberia,2016,AFR,Low,43.29,Financial_Hardship_Total_Pct
+LCA,Saint Lucia,2016,AMR,Upper-middle,14.31,Financial_Hardship_Total_Pct
+LKA,Sri Lanka,2019,SEAR,Lower-middle,11.34,Financial_Hardship_Total_Pct
+LSO,Lesotho,2017,AFR,Lower-middle,29.15,Financial_Hardship_Total_Pct
+LTU,Lithuania,2021,EUR,High,10.62,Financial_Hardship_Total_Pct
+LUX,Luxembourg,2023,EUR,High,14.13,Financial_Hardship_Total_Pct
+LVA,Latvia,2019,EUR,High,18.59,Financial_Hardship_Total_Pct
+MAR,Morocco,2013,EMR,Lower-middle,27.13,Financial_Hardship_Total_Pct
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,9.81,Financial_Hardship_Total_Pct
+MDG,Madagascar,2021,AFR,Low,8.4,Financial_Hardship_Total_Pct
+MDV,Maldives,2019,SEAR,Upper-middle,14.19,Financial_Hardship_Total_Pct
+MEX,Mexico,2022,AMR,Upper-middle,15.91,Financial_Hardship_Total_Pct
+MHL,Marshall Islands,2019,WPR,Upper-middle,13.04,Financial_Hardship_Total_Pct
+MKD,North Macedonia,2024,EUR,Upper-middle,9.99,Financial_Hardship_Total_Pct
+MLI,Mali,2022,AFR,Low,40.07,Financial_Hardship_Total_Pct
+MLT,Malta,2015,EUR,High,17.07,Financial_Hardship_Total_Pct
+MMR,Myanmar,2017,SEAR,Lower-middle,26.66,Financial_Hardship_Total_Pct
+MNE,Montenegro,2015,EUR,Upper-middle,12.09,Financial_Hardship_Total_Pct
+MNG,Mongolia,2023,WPR,Upper-middle,28.97,Financial_Hardship_Total_Pct
+MOZ,Mozambique,2019,AFR,Low,29.94,Financial_Hardship_Total_Pct
+MUS,Mauritius,2023,AFR,Upper-middle,12.62,Financial_Hardship_Total_Pct
+MWI,Malawi,2019,AFR,Low,43.02,Financial_Hardship_Total_Pct
+MYS,Malaysia,2022,WPR,Upper-middle,17.82,Financial_Hardship_Total_Pct
+NAM,Namibia,2015,AFR,Upper-middle,26.96,Financial_Hardship_Total_Pct
+NER,Niger,2021,AFR,Low,38.6,Financial_Hardship_Total_Pct
+NGA,Nigeria,2022,AFR,Lower-middle,47.35,Financial_Hardship_Total_Pct
+NIC,Nicaragua,2014,AMR,Lower-middle,34.68,Financial_Hardship_Total_Pct
+NIU,Niue,2015,WPR,High,0.0,Financial_Hardship_Total_Pct
+NLD,Netherlands,2015,EUR,High,3.17,Financial_Hardship_Total_Pct
+NOR,Norway,1998,EUR,High,9.01,Financial_Hardship_Total_Pct
+NPL,Nepal,2022,SEAR,Lower-middle,24.94,Financial_Hardship_Total_Pct
+NRU,Nauru,2012,WPR,High,0.99,Financial_Hardship_Total_Pct
+OMN,Oman,1999,EMR,High,8.46,Financial_Hardship_Total_Pct
+PAK,Pakistan,2018,EMR,Lower-middle,33.88,Financial_Hardship_Total_Pct
+PAN,Panama,2017,AMR,High,18.01,Financial_Hardship_Total_Pct
+PER,Peru,2022,AMR,Upper-middle,28.51,Financial_Hardship_Total_Pct
+PHL,Philippines,2023,WPR,Lower-middle,30.99,Financial_Hardship_Total_Pct
+POL,Poland,2019,EUR,High,14.08,Financial_Hardship_Total_Pct
+PRT,Portugal,2022,EUR,High,14.58,Financial_Hardship_Total_Pct
+PRY,Paraguay,2023,AMR,Upper-middle,21.08,Financial_Hardship_Total_Pct
+PSE,"Palestine, State of",2023,EMR,Lower-middle,22.27,Financial_Hardship_Total_Pct
+ROU,Romania,2016,EUR,High,15.61,Financial_Hardship_Total_Pct
+RUS,Russian Federation,2014,EUR,High,15.43,Financial_Hardship_Total_Pct
+RWA,Rwanda,2016,AFR,Low,33.37,Financial_Hardship_Total_Pct
+SDN,Sudan,2014,EMR,Low,39.92,Financial_Hardship_Total_Pct
+SEN,Senegal,2021,AFR,Lower-middle,30.87,Financial_Hardship_Total_Pct
+SLB,Solomon Islands,2012,WPR,Lower-middle,7.03,Financial_Hardship_Total_Pct
+SLE,Sierra Leone,2018,AFR,Low,47.89,Financial_Hardship_Total_Pct
+SLV,El Salvador,2019,AMR,Upper-middle,10.46,Financial_Hardship_Total_Pct
+SOM,Somalia,2017,EMR,Low,35.89,Financial_Hardship_Total_Pct
+SRB,Serbia,2022,EUR,Upper-middle,11.02,Financial_Hardship_Total_Pct
+SSD,South Sudan,2016,AFR,Low,34.29,Financial_Hardship_Total_Pct
+STP,Sao Tome and Principe,2017,AFR,Lower-middle,18.08,Financial_Hardship_Total_Pct
+SUR,Suriname,2022,AMR,Upper-middle,10.67,Financial_Hardship_Total_Pct
+SVK,Slovakia,2022,EUR,High,9.99,Financial_Hardship_Total_Pct
+SVN,Slovenia,2022,EUR,High,6.05,Financial_Hardship_Total_Pct
+SWE,Sweden,1996,EUR,High,8.59,Financial_Hardship_Total_Pct
+SWZ,Eswatini,2016,AFR,Lower-middle,25.47,Financial_Hardship_Total_Pct
+SYC,Seychelles,2013,AFR,High,11.39,Financial_Hardship_Total_Pct
+SYR,Syrian Arab Republic,2007,EMR,Low,16.02,Financial_Hardship_Total_Pct
+TCD,Chad,2018,AFR,Low,33.64,Financial_Hardship_Total_Pct
+TGO,Togo,2021,AFR,Low,31.27,Financial_Hardship_Total_Pct
+THA,Thailand,2017,SEAR,Upper-middle,11.92,Financial_Hardship_Total_Pct
+TJK,Tajikistan,2019,EUR,Lower-middle,30.84,Financial_Hardship_Total_Pct
+TLS,Timor-Leste,2014,SEAR,Lower-middle,11.63,Financial_Hardship_Total_Pct
+TON,Tonga,2021,WPR,Upper-middle,6.74,Financial_Hardship_Total_Pct
+TTO,Trinidad and Tobago,2014,AMR,High,4.51,Financial_Hardship_Total_Pct
+TUN,Tunisia,2021,EMR,Lower-middle,31.18,Financial_Hardship_Total_Pct
+TUR,Türkiye,2016,EUR,Upper-middle,12.74,Financial_Hardship_Total_Pct
+TUV,Tuvalu,2015,WPR,Upper-middle,0.46,Financial_Hardship_Total_Pct
+TZA,"Tanzania, United Republic of",2020,AFR,Lower-middle,37.52,Financial_Hardship_Total_Pct
+UGA,Uganda,2019,AFR,Low,36.15,Financial_Hardship_Total_Pct
+UKR,Ukraine,2019,EUR,Upper-middle,14.64,Financial_Hardship_Total_Pct
+URY,Uruguay,2016,AMR,High,13.41,Financial_Hardship_Total_Pct
+USA,United States,2023,AMR,High,6.81,Financial_Hardship_Total_Pct
+UZB,Uzbekistan,2003,EUR,Lower-middle,22.68,Financial_Hardship_Total_Pct
+VNM,Viet Nam,2020,WPR,Lower-middle,23.61,Financial_Hardship_Total_Pct
+VUT,Vanuatu,2019,WPR,Lower-middle,13.29,Financial_Hardship_Total_Pct
+WSM,Samoa,2018,WPR,Lower-middle,11.74,Financial_Hardship_Total_Pct
+YEM,Yemen,2014,EMR,Low,30.15,Financial_Hardship_Total_Pct
+ZAF,South Africa,2014,AFR,Upper-middle,21.14,Financial_Hardship_Total_Pct
+ZMB,Zambia,2015,AFR,Lower-middle,14.06,Financial_Hardship_Total_Pct
+ZWE,Zimbabwe,2017,AFR,Lower-middle,13.37,Financial_Hardship_Total_Pct
+AFG,Afghanistan,2020,EMR,Low,63.86,Equity_Gap_Pct_Points
+AGO,Angola,2018,AFR,Lower-middle,58.01,Equity_Gap_Pct_Points
+ALB,Albania,2017,EUR,Upper-middle,43.01,Equity_Gap_Pct_Points
+AND,Andorra,2023,EUR,High,21.02,Equity_Gap_Pct_Points
+ARG,Argentina,2017,AMR,Upper-middle,18.36,Equity_Gap_Pct_Points
+ARM,Armenia,2020,EUR,Upper-middle,34.65,Equity_Gap_Pct_Points
+AUT,Austria,1999,EUR,High,35.77,Equity_Gap_Pct_Points
+AZE,Azerbaijan,2005,EUR,Upper-middle,26.64,Equity_Gap_Pct_Points
+BDI,Burundi,2013,AFR,Low,79.26,Equity_Gap_Pct_Points
+BEL,Belgium,2009,EUR,High,48.75,Equity_Gap_Pct_Points
+BEN,Benin,2021,AFR,Lower-middle,74.24,Equity_Gap_Pct_Points
+BFA,Burkina Faso,2021,AFR,Low,82.08,Equity_Gap_Pct_Points
+BGD,Bangladesh,2022,SEAR,Lower-middle,77.16,Equity_Gap_Pct_Points
+BGR,Bulgaria,2023,EUR,High,56.87,Equity_Gap_Pct_Points
+BIH,Bosnia and Herzegovina,2022,EUR,Upper-middle,37.1,Equity_Gap_Pct_Points
+BLR,Belarus,2020,EUR,Upper-middle,51.23,Equity_Gap_Pct_Points
+BLZ,Belize,2018,AMR,Upper-middle,63.59,Equity_Gap_Pct_Points
+BOL,"Bolivia, Plurinational State of",2021,AMR,Lower-middle,47.53,Equity_Gap_Pct_Points
+BRA,Brazil,2017,AMR,Upper-middle,75.0,Equity_Gap_Pct_Points
+BRB,Barbados,2016,AMR,High,40.7,Equity_Gap_Pct_Points
+BTN,Bhutan,2022,SEAR,Lower-middle,43.59,Equity_Gap_Pct_Points
+BWA,Botswana,2015,AFR,Upper-middle,23.42,Equity_Gap_Pct_Points
+CAF,Central African Republic,2021,AFR,Low,66.76,Equity_Gap_Pct_Points
+CHE,Switzerland,2017,EUR,High,43.42,Equity_Gap_Pct_Points
+CHL,Chile,2021,AMR,High,56.41,Equity_Gap_Pct_Points
+CHN,China,2018,WPR,Upper-middle,86.45,Equity_Gap_Pct_Points
+CIV,Côte d'Ivoire,2021,AFR,Lower-middle,70.83,Equity_Gap_Pct_Points
+CMR,Cameroon,2022,AFR,Lower-middle,86.51,Equity_Gap_Pct_Points
+COD,"Congo, The Democratic Republic of the",2012,AFR,Low,81.34,Equity_Gap_Pct_Points
+COG,Congo,2011,AFR,Lower-middle,83.43,Equity_Gap_Pct_Points
+COK,Cook Islands,2015,WPR,High,26.18,Equity_Gap_Pct_Points
+COL,Colombia,2021,AMR,Upper-middle,1.4,Equity_Gap_Pct_Points
+COM,Comoros,2014,AFR,Lower-middle,72.57,Equity_Gap_Pct_Points
+CPV,Cabo Verde,2015,AFR,Lower-middle,70.53,Equity_Gap_Pct_Points
+CRI,Costa Rica,2018,AMR,Upper-middle,41.9,Equity_Gap_Pct_Points
+CYP,Cyprus,2023,EUR,High,53.17,Equity_Gap_Pct_Points
+CZE,Czechia,2023,EUR,High,42.55,Equity_Gap_Pct_Points
+DEU,Germany,2010,EUR,High,21.44,Equity_Gap_Pct_Points
+DJI,Djibouti,2017,EMR,Lower-middle,10.47,Equity_Gap_Pct_Points
+DNK,Denmark,2010,EUR,High,31.93,Equity_Gap_Pct_Points
+DOM,Dominican Republic,2018,AMR,Upper-middle,56.51,Equity_Gap_Pct_Points
+ECU,Ecuador,2013,AMR,Upper-middle,67.69,Equity_Gap_Pct_Points
+EGY,Egypt,2019,EMR,Lower-middle,84.87,Equity_Gap_Pct_Points
+ESP,Spain,2023,EUR,High,48.98,Equity_Gap_Pct_Points
+EST,Estonia,2011,EUR,High,22.65,Equity_Gap_Pct_Points
+ETH,Ethiopia,2021,AFR,Low,47.33,Equity_Gap_Pct_Points
+FIN,Finland,2016,EUR,High,44.23,Equity_Gap_Pct_Points
+FSM,"Micronesia, Federated States of",2013,WPR,Lower-middle,9.44,Equity_Gap_Pct_Points
+GAB,Gabon,2017,AFR,Upper-middle,71.86,Equity_Gap_Pct_Points
+GBR,United Kingdom,2021,EUR,High,32.23,Equity_Gap_Pct_Points
+GEO,Georgia,2024,EUR,Upper-middle,65.66,Equity_Gap_Pct_Points
+GHA,Ghana,2016,AFR,Lower-middle,56.15,Equity_Gap_Pct_Points
+GIN,Guinea,2018,AFR,Lower-middle,94.89,Equity_Gap_Pct_Points
+GMB,Gambia,2015,AFR,Low,74.39,Equity_Gap_Pct_Points
+GNB,Guinea-Bissau,2021,AFR,Low,83.67,Equity_Gap_Pct_Points
+GRC,Greece,2023,EUR,High,68.09,Equity_Gap_Pct_Points
+GRD,Grenada,2008,AMR,Upper-middle,8.0,Equity_Gap_Pct_Points
+GTM,Guatemala,2023,AMR,Upper-middle,51.66,Equity_Gap_Pct_Points
+HND,Honduras,2004,AMR,Lower-middle,73.22,Equity_Gap_Pct_Points
+HRV,Croatia,2010,EUR,High,39.33,Equity_Gap_Pct_Points
+HTI,Haiti,2013,AMR,Lower-middle,40.53,Equity_Gap_Pct_Points
+HUN,Hungary,2007,EUR,High,69.57,Equity_Gap_Pct_Points
+IDN,Indonesia,2023,WPR,Upper-middle,88.36,Equity_Gap_Pct_Points
+IND,India,2022,SEAR,Lower-middle,84.19,Equity_Gap_Pct_Points
+IRL,Ireland,2009,EUR,High,33.24,Equity_Gap_Pct_Points
+IRN,"Iran, Islamic Republic of",2022,EMR,Upper-middle,47.44,Equity_Gap_Pct_Points
+IRQ,Iraq,2017,EMR,Upper-middle,86.87,Equity_Gap_Pct_Points
+ISL,Iceland,1995,EUR,High,37.79,Equity_Gap_Pct_Points
+ITA,Italy,2010,EUR,High,36.18,Equity_Gap_Pct_Points
+JAM,Jamaica,2021,AMR,Upper-middle,74.26,Equity_Gap_Pct_Points
+JOR,Jordan,2010,EMR,Lower-middle,69.84,Equity_Gap_Pct_Points
+KAZ,Kazakhstan,2018,EUR,Upper-middle,40.24,Equity_Gap_Pct_Points
+KEN,Kenya,2015,AFR,Lower-middle,51.91,Equity_Gap_Pct_Points
+KGZ,Kyrgyzstan,2022,EUR,Lower-middle,32.58,Equity_Gap_Pct_Points
+KHM,Cambodia,2023,WPR,Lower-middle,58.66,Equity_Gap_Pct_Points
+KIR,Kiribati,2019,WPR,Lower-middle,8.2,Equity_Gap_Pct_Points
+KNA,Saint Kitts and Nevis,2007,AMR,High,38.63,Equity_Gap_Pct_Points
+KOR,"Korea, Republic of",2021,WPR,High,42.3,Equity_Gap_Pct_Points
+LAO,Lao People's Democratic Republic,2018,WPR,Lower-middle,12.03,Equity_Gap_Pct_Points
+LBN,Lebanon,1999,EMR,Lower-middle,85.73,Equity_Gap_Pct_Points
+LBR,Liberia,2016,AFR,Low,79.34,Equity_Gap_Pct_Points
+LCA,Saint Lucia,2016,AMR,Upper-middle,49.51,Equity_Gap_Pct_Points
+LKA,Sri Lanka,2019,SEAR,Lower-middle,35.64,Equity_Gap_Pct_Points
+LSO,Lesotho,2017,AFR,Lower-middle,57.46,Equity_Gap_Pct_Points
+LTU,Lithuania,2021,EUR,High,14.73,Equity_Gap_Pct_Points
+LUX,Luxembourg,2023,EUR,High,65.9,Equity_Gap_Pct_Points
+LVA,Latvia,2019,EUR,High,51.49,Equity_Gap_Pct_Points
+MAR,Morocco,2013,EMR,Lower-middle,74.87,Equity_Gap_Pct_Points
+MDA,"Moldova, Republic of",2023,EUR,Upper-middle,27.59,Equity_Gap_Pct_Points
+MDG,Madagascar,2021,AFR,Low,13.74,Equity_Gap_Pct_Points
+MDV,Maldives,2019,SEAR,Upper-middle,50.72,Equity_Gap_Pct_Points
+MEX,Mexico,2022,AMR,Upper-middle,59.61,Equity_Gap_Pct_Points
+MHL,Marshall Islands,2019,WPR,Upper-middle,64.54,Equity_Gap_Pct_Points
+MKD,North Macedonia,2024,EUR,Upper-middle,24.24,Equity_Gap_Pct_Points
+MLI,Mali,2022,AFR,Low,96.36,Equity_Gap_Pct_Points
+MLT,Malta,2015,EUR,High,59.42,Equity_Gap_Pct_Points
+MMR,Myanmar,2017,SEAR,Lower-middle,74.51,Equity_Gap_Pct_Points
+MNE,Montenegro,2015,EUR,Upper-middle,47.1,Equity_Gap_Pct_Points
+MNG,Mongolia,2023,WPR,Upper-middle,83.22,Equity_Gap_Pct_Points
+MOZ,Mozambique,2019,AFR,Low,45.07,Equity_Gap_Pct_Points
+MUS,Mauritius,2023,AFR,Upper-middle,33.82,Equity_Gap_Pct_Points
+MWI,Malawi,2019,AFR,Low,57.12,Equity_Gap_Pct_Points
+MYS,Malaysia,2022,WPR,Upper-middle,84.42,Equity_Gap_Pct_Points
+NAM,Namibia,2015,AFR,Upper-middle,73.21,Equity_Gap_Pct_Points
+NER,Niger,2021,AFR,Low,63.46,Equity_Gap_Pct_Points
+NGA,Nigeria,2022,AFR,Lower-middle,83.94,Equity_Gap_Pct_Points
+NIC,Nicaragua,2014,AMR,Lower-middle,70.87,Equity_Gap_Pct_Points
+NIU,Niue,2015,WPR,High,0.0,Equity_Gap_Pct_Points
+NLD,Netherlands,2015,EUR,High,12.8,Equity_Gap_Pct_Points
+NOR,Norway,1998,EUR,High,38.01,Equity_Gap_Pct_Points
+NPL,Nepal,2022,SEAR,Lower-middle,88.07,Equity_Gap_Pct_Points
+NRU,Nauru,2012,WPR,High,4.9,Equity_Gap_Pct_Points
+OMN,Oman,1999,EMR,High,37.58,Equity_Gap_Pct_Points
+PAK,Pakistan,2018,EMR,Lower-middle,97.22,Equity_Gap_Pct_Points
+PAN,Panama,2017,AMR,High,74.73,Equity_Gap_Pct_Points
+PER,Peru,2022,AMR,Upper-middle,87.13,Equity_Gap_Pct_Points
+PHL,Philippines,2023,WPR,Lower-middle,95.38,Equity_Gap_Pct_Points
+POL,Poland,2019,EUR,High,50.56,Equity_Gap_Pct_Points
+PRT,Portugal,2022,EUR,High,64.48,Equity_Gap_Pct_Points
+PSE,"Palestine, State of",2023,EMR,Lower-middle,65.02,Equity_Gap_Pct_Points
+ROU,Romania,2016,EUR,High,45.93,Equity_Gap_Pct_Points
+RUS,Russian Federation,2014,EUR,High,70.67,Equity_Gap_Pct_Points
+RWA,Rwanda,2016,AFR,Low,57.66,Equity_Gap_Pct_Points
+SDN,Sudan,2014,EMR,Low,91.62,Equity_Gap_Pct_Points
+SEN,Senegal,2021,AFR,Lower-middle,82.75,Equity_Gap_Pct_Points
+SLB,Solomon Islands,2012,WPR,Lower-middle,17.05,Equity_Gap_Pct_Points
+SLE,Sierra Leone,2018,AFR,Low,87.77,Equity_Gap_Pct_Points
+SLV,El Salvador,2019,AMR,Upper-middle,30.27,Equity_Gap_Pct_Points
+SOM,Somalia,2017,EMR,Low,-28.91,Equity_Gap_Pct_Points
+SRB,Serbia,2022,EUR,Upper-middle,50.88,Equity_Gap_Pct_Points
+SSD,South Sudan,2016,AFR,Low,38.94,Equity_Gap_Pct_Points
+STP,Sao Tome and Principe,2017,AFR,Lower-middle,35.34,Equity_Gap_Pct_Points
+SUR,Suriname,2022,AMR,Upper-middle,43.31,Equity_Gap_Pct_Points
+SVK,Slovakia,2022,EUR,High,47.47,Equity_Gap_Pct_Points
+SVN,Slovenia,2022,EUR,High,27.33,Equity_Gap_Pct_Points
+SWE,Sweden,1996,EUR,High,34.65,Equity_Gap_Pct_Points
+SWZ,Eswatini,2016,AFR,Lower-middle,48.23,Equity_Gap_Pct_Points
+SYC,Seychelles,2013,AFR,High,48.4,Equity_Gap_Pct_Points
+SYR,Syrian Arab Republic,2007,EMR,Low,63.44,Equity_Gap_Pct_Points
+TCD,Chad,2018,AFR,Low,59.28,Equity_Gap_Pct_Points
+TGO,Togo,2021,AFR,Low,58.48,Equity_Gap_Pct_Points
+THA,Thailand,2017,SEAR,Upper-middle,51.9,Equity_Gap_Pct_Points
+TJK,Tajikistan,2019,EUR,Lower-middle,70.94,Equity_Gap_Pct_Points
+TLS,Timor-Leste,2014,SEAR,Lower-middle,19.12,Equity_Gap_Pct_Points
+TON,Tonga,2021,WPR,Upper-middle,33.45,Equity_Gap_Pct_Points
+TTO,Trinidad and Tobago,2014,AMR,High,7.53,Equity_Gap_Pct_Points
+TUN,Tunisia,2021,EMR,Lower-middle,54.43,Equity_Gap_Pct_Points
+TUR,Türkiye,2016,EUR,Upper-middle,51.21,Equity_Gap_Pct_Points
+TUV,Tuvalu,2015,WPR,Upper-middle,0.0,Equity_Gap_Pct_Points
+TZA,"Tanzania, United Republic of",2020,AFR,Lower-middle,56.79,Equity_Gap_Pct_Points
+UGA,Uganda,2019,AFR,Low,59.52,Equity_Gap_Pct_Points
+UKR,Ukraine,2019,EUR,Upper-middle,58.18,Equity_Gap_Pct_Points
+URY,Uruguay,2016,AMR,High,57.9,Equity_Gap_Pct_Points
+USA,United States,2023,AMR,High,26.53,Equity_Gap_Pct_Points
+UZB,Uzbekistan,2003,EUR,Lower-middle,-0.14,Equity_Gap_Pct_Points
+VNM,Viet Nam,2020,WPR,Lower-middle,91.29,Equity_Gap_Pct_Points
+VUT,Vanuatu,2019,WPR,Lower-middle,34.67,Equity_Gap_Pct_Points
+WSM,Samoa,2018,WPR,Lower-middle,36.31,Equity_Gap_Pct_Points
+YEM,Yemen,2014,EMR,Low,50.31,Equity_Gap_Pct_Points
+ZAF,South Africa,2014,AFR,Upper-middle,51.64,Equity_Gap_Pct_Points
+ZMB,Zambia,2015,AFR,Lower-middle,13.63,Equity_Gap_Pct_Points
+ZWE,Zimbabwe,2017,AFR,Lower-middle,-9.56,Equity_Gap_Pct_Points
+AFG,Afghanistan,2025,EMR,Low,25.9401644699898,Urban_Population_Pct
+AGO,Angola,2025,AFR,Lower-middle,71.4615915176085,Urban_Population_Pct
+ALB,Albania,2025,EUR,Upper-middle,58.871474331067,Urban_Population_Pct
+AND,Andorra,2025,EUR,High,88.9492672283129,Urban_Population_Pct
+ARE,United Arab Emirates,2025,EMR,High,85.9617641324017,Urban_Population_Pct
+ARG,Argentina,2025,AMR,Upper-middle,92.3519221615173,Urban_Population_Pct
+ARM,Armenia,2025,EUR,Upper-middle,65.9287015589872,Urban_Population_Pct
+ATG,Antigua and Barbuda,2025,AMR,High,24.3334834700661,Urban_Population_Pct
+AUS,Australia,2025,WPR,High,87.7192672666333,Urban_Population_Pct
+AUT,Austria,2025,EUR,High,69.7152152366353,Urban_Population_Pct
+AZE,Azerbaijan,2025,EUR,Upper-middle,58.6371024281175,Urban_Population_Pct
+BDI,Burundi,2025,AFR,Low,25.6870184681663,Urban_Population_Pct
+BEL,Belgium,2025,EUR,High,87.6726083114649,Urban_Population_Pct
+BEN,Benin,2025,AFR,Lower-middle,53.3620073968188,Urban_Population_Pct
+BFA,Burkina Faso,2025,AFR,Low,28.9226360719085,Urban_Population_Pct
+BGD,Bangladesh,2025,SEAR,Lower-middle,33.2395847043975,Urban_Population_Pct
+BGR,Bulgaria,2025,EUR,High,74.1727501848475,Urban_Population_Pct
+BHR,Bahrain,2025,EMR,High,100.0,Urban_Population_Pct
+BHS,Bahamas,2025,AMR,High,81.3309172016028,Urban_Population_Pct
+BIH,Bosnia and Herzegovina,2025,EUR,Upper-middle,52.6915440779561,Urban_Population_Pct
+BLR,Belarus,2025,EUR,Upper-middle,79.4945820380127,Urban_Population_Pct
+BLZ,Belize,2025,AMR,Upper-middle,41.5621435428272,Urban_Population_Pct
+BOL,"Bolivia, Plurinational State of",2025,AMR,Lower-middle,71.5631037265869,Urban_Population_Pct
+BRA,Brazil,2025,AMR,Upper-middle,88.1772996487898,Urban_Population_Pct
+BRB,Barbados,2025,AMR,High,59.6996239887007,Urban_Population_Pct
+BRN,Brunei Darussalam,2025,WPR,High,75.0109886586819,Urban_Population_Pct
+BTN,Bhutan,2025,SEAR,Lower-middle,43.4301832473753,Urban_Population_Pct
+BWA,Botswana,2025,AFR,Upper-middle,67.9559561532102,Urban_Population_Pct
+CAF,Central African Republic,2025,AFR,Low,44.5532156681816,Urban_Population_Pct
+CAN,Canada,2025,AMR,High,82.8757020253886,Urban_Population_Pct
+CHE,Switzerland,2025,EUR,High,85.7272157802756,Urban_Population_Pct
+CHL,Chile,2025,AMR,High,89.1772830019223,Urban_Population_Pct
+CHN,China,2025,WPR,Upper-middle,66.3429910348272,Urban_Population_Pct
+CIV,Côte d'Ivoire,2025,AFR,Lower-middle,54.5489501450761,Urban_Population_Pct
+CMR,Cameroon,2025,AFR,Lower-middle,55.6692041661323,Urban_Population_Pct
+COD,"Congo, The Democratic Republic of the",2025,AFR,Low,45.1135633042151,Urban_Population_Pct
+COG,Congo,2025,AFR,Lower-middle,64.1236534817412,Urban_Population_Pct
+COL,Colombia,2025,AMR,Upper-middle,78.7827914751151,Urban_Population_Pct
+COM,Comoros,2025,AFR,Lower-middle,33.941547481361,Urban_Population_Pct
+CPV,Cabo Verde,2025,AFR,Lower-middle,77.6300668010068,Urban_Population_Pct
+CRI,Costa Rica,2025,AMR,Upper-middle,79.7268137993004,Urban_Population_Pct
+CUB,Cuba,2025,AMR,Upper-middle,77.2270774821152,Urban_Population_Pct
+CYP,Cyprus,2025,EUR,High,66.6950270703775,Urban_Population_Pct
+CZE,Czechia,2025,EUR,High,72.8754367116112,Urban_Population_Pct
+DEU,Germany,2025,EUR,High,82.13822205362,Urban_Population_Pct
+DJI,Djibouti,2025,EMR,Lower-middle,72.9758660686475,Urban_Population_Pct
+DMA,Dominica,2025,AMR,Upper-middle,73.9861616678942,Urban_Population_Pct
+DNK,Denmark,2025,EUR,High,88.8458435892689,Urban_Population_Pct
+DOM,Dominican Republic,2025,AMR,Upper-middle,72.517694062591,Urban_Population_Pct
+DZA,Algeria,2025,AFR,Upper-middle,75.8187358069877,Urban_Population_Pct
+ECU,Ecuador,2025,AMR,Upper-middle,63.3918189058262,Urban_Population_Pct
+EGY,Egypt,2025,EMR,Lower-middle,42.9043204925248,Urban_Population_Pct
+ERI,Eritrea,2025,AFR,Low,34.5404504255216,Urban_Population_Pct
+ESP,Spain,2025,EUR,High,80.5149251039138,Urban_Population_Pct
+EST,Estonia,2025,EUR,High,70.7208526598129,Urban_Population_Pct
+ETH,Ethiopia,2025,AFR,Low,24.1096952088946,Urban_Population_Pct
+FIN,Finland,2025,EUR,High,74.5247844319848,Urban_Population_Pct
+FJI,Fiji,2025,WPR,Upper-middle,59.5444551836369,Urban_Population_Pct
+FRA,France,2025,EUR,High,78.8449650563584,Urban_Population_Pct
+FSM,"Micronesia, Federated States of",2025,WPR,Lower-middle,22.4809290622703,Urban_Population_Pct
+GAB,Gabon,2025,AFR,Upper-middle,92.0876666682068,Urban_Population_Pct
+GBR,United Kingdom,2025,EUR,High,83.323608078271,Urban_Population_Pct
+GEO,Georgia,2025,EUR,Upper-middle,61.1781364090406,Urban_Population_Pct
+GHA,Ghana,2025,AFR,Lower-middle,58.9246861473125,Urban_Population_Pct
+GIN,Guinea,2025,AFR,Lower-middle,38.5165334466562,Urban_Population_Pct
+GMB,Gambia,2025,AFR,Low,64.9884861325581,Urban_Population_Pct
+GNB,Guinea-Bissau,2025,AFR,Low,46.6510315281292,Urban_Population_Pct
+GNQ,Equatorial Guinea,2025,AFR,Upper-middle,71.5761028458697,Urban_Population_Pct
+GRC,Greece,2025,EUR,High,79.2246082848537,Urban_Population_Pct
+GRD,Grenada,2025,AMR,Upper-middle,36.6708064336827,Urban_Population_Pct
+GTM,Guatemala,2025,AMR,Upper-middle,56.2972033013999,Urban_Population_Pct
+GUY,Guyana,2025,AMR,High,26.4913876548981,Urban_Population_Pct
+HND,Honduras,2025,AMR,Lower-middle,59.2517075900659,Urban_Population_Pct
+HRV,Croatia,2025,EUR,High,57.8144543604143,Urban_Population_Pct
+HTI,Haiti,2025,AMR,Lower-middle,55.6148855859942,Urban_Population_Pct
+HUN,Hungary,2025,EUR,High,70.6936831786278,Urban_Population_Pct
+IDN,Indonesia,2025,WPR,Upper-middle,59.3929063969984,Urban_Population_Pct
+IND,India,2025,SEAR,Lower-middle,35.689155772396,Urban_Population_Pct
+IRL,Ireland,2025,EUR,High,64.5875793756168,Urban_Population_Pct
+IRN,"Iran, Islamic Republic of",2025,EMR,Upper-middle,77.3761530941751,Urban_Population_Pct
+IRQ,Iraq,2025,EMR,Upper-middle,69.9396739468105,Urban_Population_Pct
+ISL,Iceland,2025,EUR,High,94.2179320191117,Urban_Population_Pct
+ISR,Israel,2025,EUR,High,91.5783060866328,Urban_Population_Pct
+ITA,Italy,2025,EUR,High,69.680861801678,Urban_Population_Pct
+JAM,Jamaica,2025,AMR,Upper-middle,59.4254051751628,Urban_Population_Pct
+JOR,Jordan,2025,EMR,Lower-middle,93.2085150119551,Urban_Population_Pct
+JPN,Japan,2025,WPR,High,92.3001449420786,Urban_Population_Pct
+KAZ,Kazakhstan,2025,EUR,Upper-middle,62.3855569507987,Urban_Population_Pct
+KEN,Kenya,2025,AFR,Lower-middle,32.2121192871745,Urban_Population_Pct
+KGZ,Kyrgyzstan,2025,EUR,Lower-middle,34.7463537261057,Urban_Population_Pct
+KHM,Cambodia,2025,WPR,Lower-middle,41.10561939401,Urban_Population_Pct
+KIR,Kiribati,2025,WPR,Lower-middle,63.3850857782871,Urban_Population_Pct
+KNA,Saint Kitts and Nevis,2025,AMR,High,31.8987713138283,Urban_Population_Pct
+KOR,"Korea, Republic of",2025,WPR,High,81.1740263306674,Urban_Population_Pct
+KWT,Kuwait,2025,EMR,High,100.0,Urban_Population_Pct
+LAO,Lao People's Democratic Republic,2025,WPR,Lower-middle,40.3129835040701,Urban_Population_Pct
+LBN,Lebanon,2025,EMR,Lower-middle,90.9602314263044,Urban_Population_Pct
+LBR,Liberia,2025,AFR,Low,56.0819747159338,Urban_Population_Pct
+LBY,Libya,2025,EMR,Upper-middle,87.9112413015221,Urban_Population_Pct
+LCA,Saint Lucia,2025,AMR,Upper-middle,29.096571131107,Urban_Population_Pct
+LIE,Liechtenstein,2025,EUR,High,14.6298998993293,Urban_Population_Pct
+LKA,Sri Lanka,2025,SEAR,Lower-middle,20.4501355167937,Urban_Population_Pct
+LSO,Lesotho,2025,AFR,Lower-middle,44.6695855817109,Urban_Population_Pct
+LTU,Lithuania,2025,EUR,High,69.0816381352764,Urban_Population_Pct
+LUX,Luxembourg,2025,EUR,High,94.8841729598587,Urban_Population_Pct
+LVA,Latvia,2025,EUR,High,68.6325719753517,Urban_Population_Pct
+MAR,Morocco,2025,EMR,Lower-middle,63.1278612260269,Urban_Population_Pct
+MCO,Monaco,2025,EUR,High,100.0,Urban_Population_Pct
+MDA,"Moldova, Republic of",2025,EUR,Upper-middle,43.7336240404545,Urban_Population_Pct
+MDG,Madagascar,2025,AFR,Low,32.9017070836898,Urban_Population_Pct
+MDV,Maldives,2025,SEAR,Upper-middle,42.5061567995467,Urban_Population_Pct
+MEX,Mexico,2025,AMR,Upper-middle,80.0408930629723,Urban_Population_Pct
+MHL,Marshall Islands,2025,WPR,Upper-middle,79.105503091452,Urban_Population_Pct
+MKD,North Macedonia,2025,EUR,Upper-middle,62.8909857826036,Urban_Population_Pct
+MLI,Mali,2025,AFR,Low,32.2127137183989,Urban_Population_Pct
+MLT,Malta,2025,EUR,High,95.6805856649593,Urban_Population_Pct
+MMR,Myanmar,2025,SEAR,Lower-middle,30.5836915476767,Urban_Population_Pct
+MNE,Montenegro,2025,EUR,Upper-middle,65.6085083521036,Urban_Population_Pct
+MNG,Mongolia,2025,WPR,Upper-middle,71.1450719126123,Urban_Population_Pct
+MOZ,Mozambique,2025,AFR,Low,37.2077944927189,Urban_Population_Pct
+MRT,Mauritania,2025,AFR,Lower-middle,61.4888190537696,Urban_Population_Pct
+MUS,Mauritius,2025,AFR,Upper-middle,39.0369663368524,Urban_Population_Pct
+MWI,Malawi,2025,AFR,Low,17.5949868386317,Urban_Population_Pct
+MYS,Malaysia,2025,WPR,Upper-middle,77.3948812296229,Urban_Population_Pct
+NAM,Namibia,2025,AFR,Upper-middle,50.8666984399326,Urban_Population_Pct
+NER,Niger,2025,AFR,Low,18.3740697195469,Urban_Population_Pct
+NGA,Nigeria,2025,AFR,Lower-middle,63.7754180467872,Urban_Population_Pct
+NIC,Nicaragua,2025,AMR,Lower-middle,59.4435892957332,Urban_Population_Pct
+NLD,Netherlands,2025,EUR,High,95.9385903481191,Urban_Population_Pct
+NOR,Norway,2025,EUR,High,83.5705787708326,Urban_Population_Pct
+NPL,Nepal,2025,SEAR,Lower-middle,66.999424884859,Urban_Population_Pct
+NRU,Nauru,2025,WPR,High,100.0,Urban_Population_Pct
+NZL,New Zealand,2025,WPR,High,83.9978515774731,Urban_Population_Pct
+OMN,Oman,2025,EMR,High,79.4781383307689,Urban_Population_Pct
+PAK,Pakistan,2025,EMR,Lower-middle,39.5256010979606,Urban_Population_Pct
+PAN,Panama,2025,AMR,High,66.1500999418126,Urban_Population_Pct
+PER,Peru,2025,AMR,Upper-middle,85.5963484845463,Urban_Population_Pct
+PHL,Philippines,2025,WPR,Lower-middle,55.7732907605332,Urban_Population_Pct
+PLW,Palau,2025,WPR,High,79.2835934246556,Urban_Population_Pct
+PNG,Papua New Guinea,2025,WPR,Lower-middle,15.7797448680276,Urban_Population_Pct
+POL,Poland,2025,EUR,High,60.0853330309371,Urban_Population_Pct
+PRK,"Korea, Democratic People's Republic of",2025,,,64.1897858311258,Urban_Population_Pct
+PRT,Portugal,2025,EUR,High,61.4953199318985,Urban_Population_Pct
+PRY,Paraguay,2025,AMR,Upper-middle,70.3897639855864,Urban_Population_Pct
+PSE,"Palestine, State of",2025,EMR,Lower-middle,87.3818962963393,Urban_Population_Pct
+QAT,Qatar,2025,EMR,High,99.3593427696312,Urban_Population_Pct
+ROU,Romania,2025,EUR,High,52.1728885041698,Urban_Population_Pct
+RUS,Russian Federation,2025,EUR,High,75.2506636608215,Urban_Population_Pct
+RWA,Rwanda,2025,AFR,Low,30.9133840928162,Urban_Population_Pct
+SAU,Saudi Arabia,2025,EMR,High,84.6123121062185,Urban_Population_Pct
+SDN,Sudan,2025,EMR,Low,34.9349444966605,Urban_Population_Pct
+SEN,Senegal,2025,AFR,Lower-middle,55.7672494455246,Urban_Population_Pct
+SGP,Singapore,2025,WPR,High,100.0,Urban_Population_Pct
+SLB,Solomon Islands,2025,WPR,Lower-middle,31.3093190325418,Urban_Population_Pct
+SLE,Sierra Leone,2025,AFR,Low,45.9267781356681,Urban_Population_Pct
+SLV,El Salvador,2025,AMR,Upper-middle,75.5237123209951,Urban_Population_Pct
+SMR,San Marino,2025,EUR,High,97.1870254171573,Urban_Population_Pct
+SOM,Somalia,2025,EMR,Low,55.1399062872976,Urban_Population_Pct
+SRB,Serbia,2025,EUR,Upper-middle,62.6379872799333,Urban_Population_Pct
+SSD,South Sudan,2025,AFR,Low,21.6843599017401,Urban_Population_Pct
+STP,Sao Tome and Principe,2025,AFR,Lower-middle,69.1721865415984,Urban_Population_Pct
+SUR,Suriname,2025,AMR,Upper-middle,65.7886836406706,Urban_Population_Pct
+SVK,Slovakia,2025,EUR,High,53.1940341971169,Urban_Population_Pct
+SVN,Slovenia,2025,EUR,High,55.9906997845822,Urban_Population_Pct
+SWE,Sweden,2025,EUR,High,89.0778677789555,Urban_Population_Pct
+SWZ,Eswatini,2025,AFR,Lower-middle,26.7213709706525,Urban_Population_Pct
+SYC,Seychelles,2025,AFR,High,45.4828390704609,Urban_Population_Pct
+SYR,Syrian Arab Republic,2025,EMR,Low,72.0836286208518,Urban_Population_Pct
+TCD,Chad,2025,AFR,Low,27.5658786336865,Urban_Population_Pct
+TGO,Togo,2025,AFR,Low,44.3949892074399,Urban_Population_Pct
+THA,Thailand,2025,SEAR,Upper-middle,62.7993377136296,Urban_Population_Pct
+TJK,Tajikistan,2025,EUR,Lower-middle,26.16476270853,Urban_Population_Pct
+TKM,Turkmenistan,2025,EUR,Upper-middle,47.1053608253747,Urban_Population_Pct
+TLS,Timor-Leste,2025,SEAR,Lower-middle,28.7864318960935,Urban_Population_Pct
+TON,Tonga,2025,WPR,Upper-middle,21.1561406217448,Urban_Population_Pct
+TTO,Trinidad and Tobago,2025,AMR,High,53.9696087417106,Urban_Population_Pct
+TUN,Tunisia,2025,EMR,Lower-middle,70.7029326009864,Urban_Population_Pct
+TUR,Türkiye,2025,EUR,Upper-middle,89.494060002186,Urban_Population_Pct
+TUV,Tuvalu,2025,WPR,Upper-middle,65.4480709525093,Urban_Population_Pct
+TZA,"Tanzania, United Republic of",2025,AFR,Lower-middle,36.8833115936643,Urban_Population_Pct
+UGA,Uganda,2025,AFR,Low,31.9399557536617,Urban_Population_Pct
+UKR,Ukraine,2025,EUR,Upper-middle,69.5954924645764,Urban_Population_Pct
+URY,Uruguay,2025,AMR,High,95.6537192104085,Urban_Population_Pct
+USA,United States,2025,AMR,High,80.1921733027869,Urban_Population_Pct
+UZB,Uzbekistan,2025,EUR,Lower-middle,51.0173495084299,Urban_Population_Pct
+VCT,Saint Vincent and the Grenadines,2025,AMR,Upper-middle,47.9810480381821,Urban_Population_Pct
+VEN,"Venezuela, Bolivarian Republic of",2025,AMR,Upper-middle,89.3219112298988,Urban_Population_Pct
+VNM,Viet Nam,2025,WPR,Lower-middle,38.8299160351294,Urban_Population_Pct
+VUT,Vanuatu,2025,WPR,Lower-middle,22.3219888836722,Urban_Population_Pct
+WSM,Samoa,2025,WPR,Lower-middle,17.5063874123422,Urban_Population_Pct
+YEM,Yemen,2025,EMR,Low,37.0336664607078,Urban_Population_Pct
+ZAF,South Africa,2025,AFR,Upper-middle,63.8154011002522,Urban_Population_Pct
+ZMB,Zambia,2025,AFR,Lower-middle,45.9171510161461,Urban_Population_Pct
+ZWE,Zimbabwe,2025,AFR,Lower-middle,40.4951287431452,Urban_Population_Pct
+AFG,Afghanistan,2023,EMR,Low,59.6136016845703,Secondary_Enrollment_Gross_Pct
+AGO,Angola,2023,AFR,Lower-middle,51.4839046246776,Secondary_Enrollment_Gross_Pct
+ALB,Albania,2024,EUR,Upper-middle,108.355392456055,Secondary_Enrollment_Gross_Pct
+AND,Andorra,2024,EUR,High,101.923820495605,Secondary_Enrollment_Gross_Pct
+ARE,United Arab Emirates,2024,EMR,High,102.129724902444,Secondary_Enrollment_Gross_Pct
+ARG,Argentina,2023,AMR,Upper-middle,105.574584297051,Secondary_Enrollment_Gross_Pct
+ARM,Armenia,2024,EUR,Upper-middle,90.9458714101262,Secondary_Enrollment_Gross_Pct
+ATG,Antigua and Barbuda,2023,AMR,High,108.880778588808,Secondary_Enrollment_Gross_Pct
+AUS,Australia,2024,WPR,High,131.931564331055,Secondary_Enrollment_Gross_Pct
+AUT,Austria,2024,EUR,High,100.622657775879,Secondary_Enrollment_Gross_Pct
+AZE,Azerbaijan,2024,EUR,Upper-middle,91.1228035886648,Secondary_Enrollment_Gross_Pct
+BDI,Burundi,2025,AFR,Low,23.1256008148193,Secondary_Enrollment_Gross_Pct
+BEL,Belgium,2023,EUR,High,142.960266113281,Secondary_Enrollment_Gross_Pct
+BEN,Benin,2022,AFR,Lower-middle,43.5606498718262,Secondary_Enrollment_Gross_Pct
+BFA,Burkina Faso,2024,AFR,Low,29.9905774531085,Secondary_Enrollment_Gross_Pct
+BGD,Bangladesh,2024,SEAR,Lower-middle,64.2997191043961,Secondary_Enrollment_Gross_Pct
+BGR,Bulgaria,2024,EUR,High,94.7816314697266,Secondary_Enrollment_Gross_Pct
+BHR,Bahrain,2024,EMR,High,98.8139181413527,Secondary_Enrollment_Gross_Pct
+BHS,Bahamas,2024,AMR,High,79.4858750299258,Secondary_Enrollment_Gross_Pct
+BIH,Bosnia and Herzegovina,2023,EUR,Upper-middle,87.8663787841797,Secondary_Enrollment_Gross_Pct
+BLR,Belarus,2024,EUR,Upper-middle,94.7902702871216,Secondary_Enrollment_Gross_Pct
+BLZ,Belize,2024,AMR,Upper-middle,86.4571583269413,Secondary_Enrollment_Gross_Pct
+BOL,"Bolivia, Plurinational State of",2024,AMR,Lower-middle,90.5272216796875,Secondary_Enrollment_Gross_Pct
+BRA,Brazil,2024,AMR,Upper-middle,104.144660949707,Secondary_Enrollment_Gross_Pct
+BRB,Barbados,2024,AMR,High,104.371182990274,Secondary_Enrollment_Gross_Pct
+BRN,Brunei Darussalam,2023,WPR,High,91.8381544399811,Secondary_Enrollment_Gross_Pct
+BTN,Bhutan,2024,SEAR,Lower-middle,86.1810001963554,Secondary_Enrollment_Gross_Pct
+BWA,Botswana,2021,AFR,Upper-middle,70.6292572021484,Secondary_Enrollment_Gross_Pct
+CAF,Central African Republic,2017,AFR,Low,15.8074398040772,Secondary_Enrollment_Gross_Pct
+CAN,Canada,2023,AMR,High,104.320877075195,Secondary_Enrollment_Gross_Pct
+CHE,Switzerland,2024,EUR,High,101.4287109375,Secondary_Enrollment_Gross_Pct
+CHL,Chile,2024,AMR,High,105.608551025391,Secondary_Enrollment_Gross_Pct
+CHN,China,2012,WPR,Upper-middle,92.2603063015232,Secondary_Enrollment_Gross_Pct
+CIV,Côte d'Ivoire,2024,AFR,Lower-middle,65.3065056618336,Secondary_Enrollment_Gross_Pct
+CMR,Cameroon,2023,AFR,Lower-middle,44.840795775403,Secondary_Enrollment_Gross_Pct
+COD,"Congo, The Democratic Republic of the",2023,AFR,Low,55.4860992431641,Secondary_Enrollment_Gross_Pct
+COG,Congo,2012,AFR,Lower-middle,50.520320892334,Secondary_Enrollment_Gross_Pct
+COL,Colombia,2022,AMR,Upper-middle,101.573776245117,Secondary_Enrollment_Gross_Pct
+COM,Comoros,2022,AFR,Lower-middle,54.8057289123535,Secondary_Enrollment_Gross_Pct
+CPV,Cabo Verde,2022,AFR,Lower-middle,96.4315940376876,Secondary_Enrollment_Gross_Pct
+CRI,Costa Rica,2024,AMR,Upper-middle,121.810760498047,Secondary_Enrollment_Gross_Pct
+CUB,Cuba,2024,AMR,Upper-middle,91.7456844321038,Secondary_Enrollment_Gross_Pct
+CYP,Cyprus,2024,EUR,High,106.741279602051,Secondary_Enrollment_Gross_Pct
+CZE,Czechia,2023,EUR,High,97.6154174804688,Secondary_Enrollment_Gross_Pct
+DEU,Germany,2024,EUR,High,100.243698120117,Secondary_Enrollment_Gross_Pct
+DMA,Dominica,2023,AMR,Upper-middle,102.585807800293,Secondary_Enrollment_Gross_Pct
+DNK,Denmark,2024,EUR,High,125.628089904785,Secondary_Enrollment_Gross_Pct
+DOM,Dominican Republic,2024,AMR,Upper-middle,76.3648403372637,Secondary_Enrollment_Gross_Pct
+DZA,Algeria,2024,AFR,Upper-middle,105.164131811213,Secondary_Enrollment_Gross_Pct
+ECU,Ecuador,2023,AMR,Upper-middle,92.8118025876465,Secondary_Enrollment_Gross_Pct
+EGY,Egypt,2024,EMR,Lower-middle,84.8286031306453,Secondary_Enrollment_Gross_Pct
+ERI,Eritrea,2022,AFR,Low,44.0441284179688,Secondary_Enrollment_Gross_Pct
+ESP,Spain,2024,EUR,High,118.537803649902,Secondary_Enrollment_Gross_Pct
+EST,Estonia,2024,EUR,High,108.538726806641,Secondary_Enrollment_Gross_Pct
+ETH,Ethiopia,2015,AFR,Low,33.9114221981431,Secondary_Enrollment_Gross_Pct
+FIN,Finland,2024,EUR,High,142.395156860352,Secondary_Enrollment_Gross_Pct
+FJI,Fiji,2024,WPR,Upper-middle,98.0927630329298,Secondary_Enrollment_Gross_Pct
+FRA,France,2024,EUR,High,103.78540802002,Secondary_Enrollment_Gross_Pct
+FSM,"Micronesia, Federated States of",2005,WPR,Lower-middle,87.2520217895508,Secondary_Enrollment_Gross_Pct
+GAB,Gabon,2019,AFR,Upper-middle,70.2639966402203,Secondary_Enrollment_Gross_Pct
+GBR,United Kingdom,2023,EUR,High,112.120048522949,Secondary_Enrollment_Gross_Pct
+GEO,Georgia,2024,EUR,Upper-middle,100.959315536762,Secondary_Enrollment_Gross_Pct
+GHA,Ghana,2024,AFR,Lower-middle,75.7174682617188,Secondary_Enrollment_Gross_Pct
+GIN,Guinea,2014,AFR,Lower-middle,38.5548782348633,Secondary_Enrollment_Gross_Pct
+GMB,Gambia,2021,AFR,Low,107.027125590442,Secondary_Enrollment_Gross_Pct
+GNB,Guinea-Bissau,2006,AFR,Low,34.3966407775879,Secondary_Enrollment_Gross_Pct
+GNQ,Equatorial Guinea,2005,AFR,Upper-middle,17.7594795227051,Secondary_Enrollment_Gross_Pct
+GRC,Greece,2023,EUR,High,105.191741943359,Secondary_Enrollment_Gross_Pct
+GRD,Grenada,2024,AMR,Upper-middle,100.731679432948,Secondary_Enrollment_Gross_Pct
+GTM,Guatemala,2024,AMR,Upper-middle,49.5765804970836,Secondary_Enrollment_Gross_Pct
+GUY,Guyana,2024,AMR,High,91.4304496450171,Secondary_Enrollment_Gross_Pct
+HND,Honduras,2024,AMR,Lower-middle,51.7639813154374,Secondary_Enrollment_Gross_Pct
+HRV,Croatia,2023,EUR,High,105.025161743164,Secondary_Enrollment_Gross_Pct
+HTI,Haiti,1986,AMR,Lower-middle,17.1656093597412,Secondary_Enrollment_Gross_Pct
+HUN,Hungary,2024,EUR,High,107.350929260254,Secondary_Enrollment_Gross_Pct
+IDN,Indonesia,2025,WPR,Upper-middle,97.1701841816,Secondary_Enrollment_Gross_Pct
+IND,India,2025,SEAR,Lower-middle,79.594985086469,Secondary_Enrollment_Gross_Pct
+IRL,Ireland,2022,EUR,High,130.604965209961,Secondary_Enrollment_Gross_Pct
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,85.1469802856445,Secondary_Enrollment_Gross_Pct
+IRQ,Iraq,2007,EMR,Upper-middle,50.5742416381836,Secondary_Enrollment_Gross_Pct
+ISL,Iceland,2023,EUR,High,108.911361694336,Secondary_Enrollment_Gross_Pct
+ISR,Israel,2024,EUR,High,98.5473403930664,Secondary_Enrollment_Gross_Pct
+ITA,Italy,2023,EUR,High,100.678756713867,Secondary_Enrollment_Gross_Pct
+JAM,Jamaica,2024,AMR,Upper-middle,84.4572372436523,Secondary_Enrollment_Gross_Pct
+JOR,Jordan,2024,EMR,Lower-middle,91.7518621587381,Secondary_Enrollment_Gross_Pct
+JPN,Japan,2023,WPR,High,101.537071228027,Secondary_Enrollment_Gross_Pct
+KAZ,Kazakhstan,2025,EUR,Upper-middle,97.6167311117902,Secondary_Enrollment_Gross_Pct
+KEN,Kenya,2023,AFR,Lower-middle,84.3083880306996,Secondary_Enrollment_Gross_Pct
+KGZ,Kyrgyzstan,2025,EUR,Lower-middle,91.72588489529292,Secondary_Enrollment_Gross_Pct
+KHM,Cambodia,2024,WPR,Lower-middle,58.7893230437643,Secondary_Enrollment_Gross_Pct
+KIR,Kiribati,2024,WPR,Lower-middle,90.2786712646484,Secondary_Enrollment_Gross_Pct
+KNA,Saint Kitts and Nevis,2023,AMR,High,137.513208876365,Secondary_Enrollment_Gross_Pct
+KOR,"Korea, Republic of",2024,WPR,High,96.2539901733398,Secondary_Enrollment_Gross_Pct
+KWT,Kuwait,2015,EMR,High,95.3934020996094,Secondary_Enrollment_Gross_Pct
+LAO,Lao People's Democratic Republic,2025,WPR,Lower-middle,50.5430058959811,Secondary_Enrollment_Gross_Pct
+LBN,Lebanon,2024,EMR,Lower-middle,63.7923011779785,Secondary_Enrollment_Gross_Pct
+LBR,Liberia,2020,AFR,Low,37.7416801452637,Secondary_Enrollment_Gross_Pct
+LBY,Libya,2006,EMR,Upper-middle,97.6095123291016,Secondary_Enrollment_Gross_Pct
+LCA,Saint Lucia,2024,AMR,Upper-middle,87.8672424011515,Secondary_Enrollment_Gross_Pct
+LIE,Liechtenstein,2021,EUR,High,118.726867675781,Secondary_Enrollment_Gross_Pct
+LKA,Sri Lanka,2023,SEAR,Lower-middle,87.9534065332114,Secondary_Enrollment_Gross_Pct
+LSO,Lesotho,2017,AFR,Lower-middle,59.3586515505342,Secondary_Enrollment_Gross_Pct
+LTU,Lithuania,2024,EUR,High,104.860809326172,Secondary_Enrollment_Gross_Pct
+LUX,Luxembourg,2024,EUR,High,108.577438354492,Secondary_Enrollment_Gross_Pct
+LVA,Latvia,2024,EUR,High,101.252647399902,Secondary_Enrollment_Gross_Pct
+MAR,Morocco,2024,EMR,Lower-middle,89.9834863018408,Secondary_Enrollment_Gross_Pct
+MCO,Monaco,2024,EUR,High,158.546615600586,Secondary_Enrollment_Gross_Pct
+MDA,"Moldova, Republic of",2024,EUR,Upper-middle,99.3439166347193,Secondary_Enrollment_Gross_Pct
+MDG,Madagascar,2021,AFR,Low,34.1320359801924,Secondary_Enrollment_Gross_Pct
+MDV,Maldives,2023,SEAR,Upper-middle,79.3565296847573,Secondary_Enrollment_Gross_Pct
+MEX,Mexico,2024,AMR,Upper-middle,103.093322753906,Secondary_Enrollment_Gross_Pct
+MHL,Marshall Islands,2024,WPR,Upper-middle,85.7558637219654,Secondary_Enrollment_Gross_Pct
+MKD,North Macedonia,2023,EUR,Upper-middle,90.0724868774414,Secondary_Enrollment_Gross_Pct
+MLI,Mali,2023,AFR,Low,38.9389470920545,Secondary_Enrollment_Gross_Pct
+MLT,Malta,2023,EUR,High,103.027229309082,Secondary_Enrollment_Gross_Pct
+MMR,Myanmar,2018,SEAR,Lower-middle,77.0191497802734,Secondary_Enrollment_Gross_Pct
+MNE,Montenegro,2023,EUR,Upper-middle,93.8724975585938,Secondary_Enrollment_Gross_Pct
+MNG,Mongolia,2023,WPR,Upper-middle,96.8181201904352,Secondary_Enrollment_Gross_Pct
+MOZ,Mozambique,2017,AFR,Low,37.2411918640137,Secondary_Enrollment_Gross_Pct
+MRT,Mauritania,2020,AFR,Lower-middle,36.0277030077074,Secondary_Enrollment_Gross_Pct
+MUS,Mauritius,2024,AFR,Upper-middle,90.7246586359898,Secondary_Enrollment_Gross_Pct
+MWI,Malawi,2023,AFR,Low,36.644092994481,Secondary_Enrollment_Gross_Pct
+MYS,Malaysia,2024,WPR,Upper-middle,80.2757406864183,Secondary_Enrollment_Gross_Pct
+NAM,Namibia,2024,AFR,Upper-middle,81.9566828199727,Secondary_Enrollment_Gross_Pct
+NER,Niger,2024,AFR,Low,19.8664761204349,Secondary_Enrollment_Gross_Pct
+NGA,Nigeria,2023,AFR,Lower-middle,46.8931503295898,Secondary_Enrollment_Gross_Pct
+NIC,Nicaragua,2023,AMR,Lower-middle,70.1749572753906,Secondary_Enrollment_Gross_Pct
+NLD,Netherlands,2023,EUR,High,137.514724731445,Secondary_Enrollment_Gross_Pct
+NOR,Norway,2024,EUR,High,116.254272460938,Secondary_Enrollment_Gross_Pct
+NPL,Nepal,2024,SEAR,Lower-middle,90.3878462155916,Secondary_Enrollment_Gross_Pct
+NRU,Nauru,2025,WPR,High,94.5299147867543,Secondary_Enrollment_Gross_Pct
+NZL,New Zealand,2024,WPR,High,114.231056213379,Secondary_Enrollment_Gross_Pct
+OMN,Oman,2024,EMR,High,95.1220397949219,Secondary_Enrollment_Gross_Pct
+PAK,Pakistan,2024,EMR,Lower-middle,48.2805022055997,Secondary_Enrollment_Gross_Pct
+PAN,Panama,2017,AMR,High,76.5998992919922,Secondary_Enrollment_Gross_Pct
+PER,Peru,2024,AMR,Upper-middle,108.289047241211,Secondary_Enrollment_Gross_Pct
+PHL,Philippines,2024,WPR,Lower-middle,85.2945085684493,Secondary_Enrollment_Gross_Pct
+PLW,Palau,2024,WPR,High,95.7270847691247,Secondary_Enrollment_Gross_Pct
+PNG,Papua New Guinea,2023,WPR,Lower-middle,52.0929750873194,Secondary_Enrollment_Gross_Pct
+POL,Poland,2024,EUR,High,107.881309509277,Secondary_Enrollment_Gross_Pct
+PRK,"Korea, Democratic People's Republic of",2015,,,94.2515411376953,Secondary_Enrollment_Gross_Pct
+PRT,Portugal,2023,EUR,High,120.347076416016,Secondary_Enrollment_Gross_Pct
+PRY,Paraguay,2024,AMR,Upper-middle,79.1305613911018,Secondary_Enrollment_Gross_Pct
+PSE,"Palestine, State of",2023,EMR,Lower-middle,89.1210984011759,Secondary_Enrollment_Gross_Pct
+QAT,Qatar,2024,EMR,High,99.578857421875,Secondary_Enrollment_Gross_Pct
+ROU,Romania,2023,EUR,High,81.6316070556641,Secondary_Enrollment_Gross_Pct
+RUS,Russian Federation,2023,EUR,High,92.4840470838527,Secondary_Enrollment_Gross_Pct
+RWA,Rwanda,2024,AFR,Low,48.790277194547,Secondary_Enrollment_Gross_Pct
+SAU,Saudi Arabia,2024,EMR,High,110.66346516974,Secondary_Enrollment_Gross_Pct
+SDN,Sudan,2019,EMR,Low,43.5378608703613,Secondary_Enrollment_Gross_Pct
+SEN,Senegal,2023,AFR,Lower-middle,44.0673682244069,Secondary_Enrollment_Gross_Pct
+SGP,Singapore,2023,WPR,High,103.082801906213,Secondary_Enrollment_Gross_Pct
+SLB,Solomon Islands,2012,WPR,Lower-middle,49.0498504638672,Secondary_Enrollment_Gross_Pct
+SLE,Sierra Leone,2023,AFR,Low,86.9079513549805,Secondary_Enrollment_Gross_Pct
+SLV,El Salvador,2024,AMR,Upper-middle,62.1425847697468,Secondary_Enrollment_Gross_Pct
+SMR,San Marino,2024,EUR,High,60.3746397694525,Secondary_Enrollment_Gross_Pct
+SOM,Somalia,2023,EMR,Low,3.34785008430481,Secondary_Enrollment_Gross_Pct
+SRB,Serbia,2024,EUR,Upper-middle,89.8402786254883,Secondary_Enrollment_Gross_Pct
+SSD,South Sudan,2024,AFR,Low,122.120628356934,Secondary_Enrollment_Gross_Pct
+STP,Sao Tome and Principe,2017,AFR,Lower-middle,90.4435729980469,Secondary_Enrollment_Gross_Pct
+SUR,Suriname,2023,AMR,Upper-middle,76.1109237670898,Secondary_Enrollment_Gross_Pct
+SVK,Slovakia,2024,EUR,High,93.1929931640625,Secondary_Enrollment_Gross_Pct
+SVN,Slovenia,2023,EUR,High,107.626876831055,Secondary_Enrollment_Gross_Pct
+SWE,Sweden,2024,EUR,High,131.96354675293,Secondary_Enrollment_Gross_Pct
+SWZ,Eswatini,2016,AFR,Lower-middle,82.023935767308,Secondary_Enrollment_Gross_Pct
+SYC,Seychelles,2024,AFR,High,70.824577331543,Secondary_Enrollment_Gross_Pct
+SYR,Syrian Arab Republic,2024,EMR,Low,38.736930847168,Secondary_Enrollment_Gross_Pct
+TCD,Chad,2024,AFR,Low,23.49298947746,Secondary_Enrollment_Gross_Pct
+TGO,Togo,2023,AFR,Low,63.4192515229188,Secondary_Enrollment_Gross_Pct
+THA,Thailand,2025,SEAR,Upper-middle,92.0872315506486,Secondary_Enrollment_Gross_Pct
+TJK,Tajikistan,2024,EUR,Lower-middle,86.9035257819264,Secondary_Enrollment_Gross_Pct
+TKM,Turkmenistan,2024,EUR,Upper-middle,94.6464126735365,Secondary_Enrollment_Gross_Pct
+TLS,Timor-Leste,2020,SEAR,Lower-middle,84.7410404382553,Secondary_Enrollment_Gross_Pct
+TON,Tonga,2024,WPR,Upper-middle,92.4258049730721,Secondary_Enrollment_Gross_Pct
+TTO,Trinidad and Tobago,2024,AMR,High,95.6815649255588,Secondary_Enrollment_Gross_Pct
+TUN,Tunisia,2016,EMR,Lower-middle,90.3264236450195,Secondary_Enrollment_Gross_Pct
+TUR,Türkiye,2023,EUR,Upper-middle,118.411979675293,Secondary_Enrollment_Gross_Pct
+TUV,Tuvalu,2024,WPR,Upper-middle,90.6571654790182,Secondary_Enrollment_Gross_Pct
+TZA,"Tanzania, United Republic of",2021,AFR,Lower-middle,28.231330871582,Secondary_Enrollment_Gross_Pct
+UGA,Uganda,2007,AFR,Low,24.0911102294922,Secondary_Enrollment_Gross_Pct
+UKR,Ukraine,2024,EUR,Upper-middle,86.1695022583008,Secondary_Enrollment_Gross_Pct
+URY,Uruguay,2023,AMR,High,119.105005958635,Secondary_Enrollment_Gross_Pct
+USA,United States,2022,AMR,High,97.4734878540039,Secondary_Enrollment_Gross_Pct
+UZB,Uzbekistan,2025,EUR,Lower-middle,98.1198414913864,Secondary_Enrollment_Gross_Pct
+VCT,Saint Vincent and the Grenadines,2024,AMR,Upper-middle,124.871794871795,Secondary_Enrollment_Gross_Pct
+VEN,"Venezuela, Bolivarian Republic of",2024,AMR,Upper-middle,97.7908172607422,Secondary_Enrollment_Gross_Pct
+VNM,Viet Nam,2022,WPR,Lower-middle,93.4123434096522,Secondary_Enrollment_Gross_Pct
+VUT,Vanuatu,2023,WPR,Lower-middle,134.670675170038,Secondary_Enrollment_Gross_Pct
+WSM,Samoa,2016,WPR,Lower-middle,87.3532286947715,Secondary_Enrollment_Gross_Pct
+YEM,Yemen,2016,EMR,Low,43.6906890869141,Secondary_Enrollment_Gross_Pct
+ZAF,South Africa,2023,AFR,Upper-middle,104.133480684239,Secondary_Enrollment_Gross_Pct
+ZMB,Zambia,2024,AFR,Lower-middle,56.7889289855957,Secondary_Enrollment_Gross_Pct
+ZWE,Zimbabwe,2013,AFR,Lower-middle,52.4158515930176,Secondary_Enrollment_Gross_Pct
+AFG,Afghanistan,2021,EMR,Low,37.2700004577637,Adult_Literacy_Rate
+AGO,Angola,2023,AFR,Lower-middle,68.1800003051758,Adult_Literacy_Rate
+ALB,Albania,2023,EUR,Upper-middle,97.6800003051758,Adult_Literacy_Rate
+ARE,United Arab Emirates,2024,EMR,High,98.8099975585938,Adult_Literacy_Rate
+ARG,Argentina,2020,AMR,Upper-middle,99.1399993896484,Adult_Literacy_Rate
+ARM,Armenia,2023,EUR,Upper-middle,99.8399963378906,Adult_Literacy_Rate
+ATG,Antigua and Barbuda,2001,AMR,High,98.9499969482422,Adult_Literacy_Rate
+AZE,Azerbaijan,2023,EUR,Upper-middle,99.7799987792969,Adult_Literacy_Rate
+BDI,Burundi,2020,AFR,Low,71.3374789737041,Adult_Literacy_Rate
+BEN,Benin,2022,AFR,Lower-middle,51.3800010681152,Adult_Literacy_Rate
+BFA,Burkina Faso,2023,AFR,Low,41.5670909952631,Adult_Literacy_Rate
+BGD,Bangladesh,2022,SEAR,Lower-middle,79.0,Adult_Literacy_Rate
+BGR,Bulgaria,2011,EUR,High,98.3499984741211,Adult_Literacy_Rate
+BHR,Bahrain,2024,EMR,High,97.8199996948242,Adult_Literacy_Rate
+BIH,Bosnia and Herzegovina,2013,EUR,Upper-middle,96.9899978637695,Adult_Literacy_Rate
+BLR,Belarus,2019,EUR,Upper-middle,99.870002746582,Adult_Literacy_Rate
+BLZ,Belize,2022,AMR,Upper-middle,87.879997253418,Adult_Literacy_Rate
+BOL,"Bolivia, Plurinational State of",2024,AMR,Lower-middle,96.7300033569336,Adult_Literacy_Rate
+BRA,Brazil,2024,AMR,Upper-middle,94.7399978637695,Adult_Literacy_Rate
+BRB,Barbados,1970,AMR,High,99.2699966430664,Adult_Literacy_Rate
+BRN,Brunei Darussalam,2011,WPR,High,96.0899963378906,Adult_Literacy_Rate
+BTN,Bhutan,2022,SEAR,Lower-middle,64.9100036621094,Adult_Literacy_Rate
+BWA,Botswana,2003,AFR,Upper-middle,81.1900024414062,Adult_Literacy_Rate
+CAF,Central African Republic,2019,AFR,Low,42.439998626709,Adult_Literacy_Rate
+CHL,Chile,2017,AMR,High,96.4000015258789,Adult_Literacy_Rate
+CHN,China,2020,WPR,Upper-middle,96.7399978637695,Adult_Literacy_Rate
+CIV,Côte d'Ivoire,2021,AFR,Lower-middle,50.0,Adult_Literacy_Rate
+CMR,Cameroon,2018,AFR,Lower-middle,72.5500030517578,Adult_Literacy_Rate
+COD,"Congo, The Democratic Republic of the",2023,AFR,Low,68.5,Adult_Literacy_Rate
+COG,Congo,2005,AFR,Lower-middle,76.1100006103516,Adult_Literacy_Rate
+COL,Colombia,2024,AMR,Upper-middle,95.3399963378906,Adult_Literacy_Rate
+COM,Comoros,2021,AFR,Lower-middle,75.6201980162165,Adult_Literacy_Rate
+CPV,Cabo Verde,2024,AFR,Lower-middle,88.4700012207031,Adult_Literacy_Rate
+CRI,Costa Rica,2011,AMR,Upper-middle,97.4100036621094,Adult_Literacy_Rate
+CUB,Cuba,2019,AMR,Upper-middle,97.6500015258789,Adult_Literacy_Rate
+CYP,Cyprus,2011,EUR,High,98.6800003051758,Adult_Literacy_Rate
+DOM,Dominican Republic,2024,AMR,Upper-middle,94.0299987792969,Adult_Literacy_Rate
+DZA,Algeria,2008,AFR,Upper-middle,75.1399993896484,Adult_Literacy_Rate
+ECU,Ecuador,2024,AMR,Upper-middle,93.4899978637695,Adult_Literacy_Rate
+EGY,Egypt,2022,EMR,Lower-middle,79.4531619498685,Adult_Literacy_Rate
+ERI,Eritrea,2008,AFR,Low,64.6600036621094,Adult_Literacy_Rate
+ESP,Spain,2021,EUR,High,99.6999969482422,Adult_Literacy_Rate
+EST,Estonia,2011,EUR,High,99.8899993896484,Adult_Literacy_Rate
+ETH,Ethiopia,2022,AFR,Low,60.4599990844727,Adult_Literacy_Rate
+GAB,Gabon,2021,AFR,Upper-middle,88.8600006103516,Adult_Literacy_Rate
+GEO,Georgia,2024,EUR,Upper-middle,99.6800003051758,Adult_Literacy_Rate
+GHA,Ghana,2021,AFR,Lower-middle,76.4899978637695,Adult_Literacy_Rate
+GIN,Guinea,2018,AFR,Lower-middle,39.6199989318848,Adult_Literacy_Rate
+GMB,Gambia,2021,AFR,Low,51.6399993896484,Adult_Literacy_Rate
+GNB,Guinea-Bissau,2022,AFR,Low,63.9300003051758,Adult_Literacy_Rate
+GNQ,Equatorial Guinea,2000,AFR,Upper-middle,88.3099975585938,Adult_Literacy_Rate
+GRC,Greece,2009,EUR,High,93.9100036621094,Adult_Literacy_Rate
+GRD,Grenada,1970,AMR,Upper-middle,97.7900009155273,Adult_Literacy_Rate
+GTM,Guatemala,2024,AMR,Upper-middle,82.1100006103516,Adult_Literacy_Rate
+GUY,Guyana,2020,AMR,High,85.6399993896484,Adult_Literacy_Rate
+HND,Honduras,2024,AMR,Lower-middle,88.25,Adult_Literacy_Rate
+HRV,Croatia,2001,EUR,High,98.1500015258789,Adult_Literacy_Rate
+HTI,Haiti,2017,AMR,Lower-middle,68.0100021362305,Adult_Literacy_Rate
+HUN,Hungary,1980,EUR,High,98.8600006103516,Adult_Literacy_Rate
+IDN,Indonesia,2020,WPR,Upper-middle,96.0,Adult_Literacy_Rate
+IND,India,2024,SEAR,Lower-middle,78.1625330351403,Adult_Literacy_Rate
+IRN,"Iran, Islamic Republic of",2023,EMR,Upper-middle,88.9168161136597,Adult_Literacy_Rate
+IRQ,Iraq,2021,EMR,Upper-middle,84.0648941705243,Adult_Literacy_Rate
+ISR,Israel,1983,EUR,High,91.75,Adult_Literacy_Rate
+ITA,Italy,2019,EUR,High,99.3499984741211,Adult_Literacy_Rate
+JAM,Jamaica,1999,AMR,Upper-middle,79.9199981689453,Adult_Literacy_Rate
+JOR,Jordan,2024,EMR,Lower-middle,94.4400024414062,Adult_Literacy_Rate
+KAZ,Kazakhstan,2009,EUR,Upper-middle,99.7300033569336,Adult_Literacy_Rate
+KEN,Kenya,2000,AFR,Lower-middle,82.2300033569336,Adult_Literacy_Rate
+KGZ,Kyrgyzstan,2009,EUR,Lower-middle,99.2399978637695,Adult_Literacy_Rate
+KHM,Cambodia,2021,WPR,Lower-middle,71.9300003051758,Adult_Literacy_Rate
+KIR,Kiribati,2020,WPR,Lower-middle,98.6079816424987,Adult_Literacy_Rate
+KOR,"Korea, Republic of",2008,WPR,High,97.9700012207031,Adult_Literacy_Rate
+KWT,Kuwait,2020,EMR,High,96.4599990844727,Adult_Literacy_Rate
+LAO,Lao People's Democratic Republic,2023,WPR,Lower-middle,75.6399993896484,Adult_Literacy_Rate
+LBN,Lebanon,2019,EMR,Lower-middle,92.0099744752418,Adult_Literacy_Rate
+LBR,Liberia,2010,AFR,Low,59.4030316392756,Adult_Literacy_Rate
+LBY,Libya,1984,EMR,Upper-middle,60.1599998474121,Adult_Literacy_Rate
+LKA,Sri Lanka,2024,SEAR,Lower-middle,92.7399978637695,Adult_Literacy_Rate
+LSO,Lesotho,2024,AFR,Lower-middle,90.4499969482422,Adult_Literacy_Rate
+LTU,Lithuania,2011,EUR,High,99.8199996948242,Adult_Literacy_Rate
+LVA,Latvia,2011,EUR,High,99.9000015258789,Adult_Literacy_Rate
+MAR,Morocco,2014,EMR,Lower-middle,64.2600021362305,Adult_Literacy_Rate
+MDA,"Moldova, Republic of",2014,EUR,Upper-middle,99.3600006103516,Adult_Literacy_Rate
+MDG,Madagascar,2021,AFR,Low,74.6900024414062,Adult_Literacy_Rate
+MDV,Maldives,2019,SEAR,Upper-middle,98.2099990844727,Adult_Literacy_Rate
+MEX,Mexico,2024,AMR,Upper-middle,95.5500030517578,Adult_Literacy_Rate
+MHL,Marshall Islands,2021,WPR,Upper-middle,95.7629302411191,Adult_Literacy_Rate
+MKD,North Macedonia,2002,EUR,Upper-middle,96.129997253418,Adult_Literacy_Rate
+MLI,Mali,2024,AFR,Low,35.6300010681152,Adult_Literacy_Rate
+MLT,Malta,2011,EUR,High,93.3099975585938,Adult_Literacy_Rate
+MMR,Myanmar,2020,SEAR,Lower-middle,93.527395549521,Adult_Literacy_Rate
+MNE,Montenegro,2018,EUR,Upper-middle,98.5299987792969,Adult_Literacy_Rate
+MNG,Mongolia,2024,WPR,Upper-middle,98.6399993896484,Adult_Literacy_Rate
+MOZ,Mozambique,2022,AFR,Low,61.6653441678133,Adult_Literacy_Rate
+MRT,Mauritania,2020,AFR,Lower-middle,59.5299987792969,Adult_Literacy_Rate
+MUS,Mauritius,2023,AFR,Upper-middle,94.2877776512134,Adult_Literacy_Rate
+MWI,Malawi,2020,AFR,Low,70.1500015258789,Adult_Literacy_Rate
+MYS,Malaysia,2022,WPR,Upper-middle,95.7699966430664,Adult_Literacy_Rate
+NAM,Namibia,2023,AFR,Upper-middle,87.6399993896484,Adult_Literacy_Rate
+NER,Niger,2022,AFR,Low,35.6100006103516,Adult_Literacy_Rate
+NGA,Nigeria,2024,AFR,Lower-middle,70.4100036621094,Adult_Literacy_Rate
+NIC,Nicaragua,2014,AMR,Lower-middle,87.327180649097,Adult_Literacy_Rate
+NPL,Nepal,2019,SEAR,Lower-middle,68.7099990844727,Adult_Literacy_Rate
+NRU,Nauru,2023,WPR,High,96.5899963378906,Adult_Literacy_Rate
+OMN,Oman,2022,EMR,High,97.3399963378906,Adult_Literacy_Rate
+PAK,Pakistan,2021,EMR,Lower-middle,58.8600006103516,Adult_Literacy_Rate
+PAN,Panama,2024,AMR,High,96.2276533152296,Adult_Literacy_Rate
+PER,Peru,2024,AMR,Upper-middle,93.6600036621094,Adult_Literacy_Rate
+PHL,Philippines,2020,WPR,Lower-middle,98.4700012207031,Adult_Literacy_Rate
+PLW,Palau,2020,WPR,High,99.8448081264108,Adult_Literacy_Rate
+PNG,Papua New Guinea,2022,WPR,Lower-middle,87.0046890533686,Adult_Literacy_Rate
+POL,Poland,1978,EUR,High,98.7399978637695,Adult_Literacy_Rate
+PRK,"Korea, Democratic People's Republic of",2008,,,100.0,Adult_Literacy_Rate
+PRT,Portugal,2011,EUR,High,94.4800033569336,Adult_Literacy_Rate
+PRY,Paraguay,2024,AMR,Upper-middle,94.8600006103516,Adult_Literacy_Rate
+PSE,"Palestine, State of",2024,EMR,Lower-middle,97.9389541214558,Adult_Literacy_Rate
+QAT,Qatar,2014,EMR,High,97.75,Adult_Literacy_Rate
+ROU,Romania,2021,EUR,High,99.1600036621094,Adult_Literacy_Rate
+RUS,Russian Federation,2021,EUR,High,99.9300003051758,Adult_Literacy_Rate
+RWA,Rwanda,2022,AFR,Low,78.7600021362305,Adult_Literacy_Rate
+SAU,Saudi Arabia,2024,EMR,High,97.9300003051758,Adult_Literacy_Rate
+SDN,Sudan,2008,EMR,Low,53.5200004577637,Adult_Literacy_Rate
+SEN,Senegal,2023,AFR,Lower-middle,50.3600006103516,Adult_Literacy_Rate
+SGP,Singapore,2021,WPR,High,97.6500015258789,Adult_Literacy_Rate
+SLB,Solomon Islands,1999,WPR,Lower-middle,76.5999984741211,Adult_Literacy_Rate
+SLE,Sierra Leone,2019,AFR,Low,43.5800018310547,Adult_Literacy_Rate
+SLV,El Salvador,2024,AMR,Upper-middle,89.7699966430664,Adult_Literacy_Rate
+SMR,San Marino,2022,EUR,High,99.9100036621094,Adult_Literacy_Rate
+SOM,Somalia,2022,EMR,Low,54.1199989318848,Adult_Literacy_Rate
+SRB,Serbia,2022,EUR,Upper-middle,99.3399963378906,Adult_Literacy_Rate
+SSD,South Sudan,2008,AFR,Low,26.8299999237061,Adult_Literacy_Rate
+STP,Sao Tome and Principe,2019,AFR,Lower-middle,87.4400024414062,Adult_Literacy_Rate
+SUR,Suriname,2012,AMR,Upper-middle,92.870002746582,Adult_Literacy_Rate
+SVN,Slovenia,1991,EUR,High,99.5199966430664,Adult_Literacy_Rate
+SWZ,Eswatini,2022,AFR,Lower-middle,90.75,Adult_Literacy_Rate
+SYC,Seychelles,2010,AFR,High,93.9499969482422,Adult_Literacy_Rate
+SYR,Syrian Arab Republic,2021,EMR,Low,94.4199981689453,Adult_Literacy_Rate
+TCD,Chad,2019,AFR,Low,30.6299991607666,Adult_Literacy_Rate
+TGO,Togo,2022,AFR,Low,72.5999984741211,Adult_Literacy_Rate
+THA,Thailand,2022,SEAR,Upper-middle,91.0999984741211,Adult_Literacy_Rate
+TJK,Tajikistan,2009,EUR,Lower-middle,99.7298704511844,Adult_Literacy_Rate
+TKM,Turkmenistan,2022,EUR,Upper-middle,99.9000015258789,Adult_Literacy_Rate
+TLS,Timor-Leste,2022,SEAR,Lower-middle,69.4000015258789,Adult_Literacy_Rate
+TON,Tonga,2023,WPR,Upper-middle,99.4800033569336,Adult_Literacy_Rate
+TTO,Trinidad and Tobago,1990,AMR,High,96.9400024414062,Adult_Literacy_Rate
+TUN,Tunisia,2023,EMR,Lower-middle,86.25,Adult_Literacy_Rate
+TUR,Türkiye,2021,EUR,Upper-middle,97.2600021362305,Adult_Literacy_Rate
+TUV,Tuvalu,2022,WPR,Upper-middle,100.0,Adult_Literacy_Rate
+TZA,"Tanzania, United Republic of",2022,AFR,Lower-middle,78.2099990844727,Adult_Literacy_Rate
+UGA,Uganda,2024,AFR,Low,77.0400009155273,Adult_Literacy_Rate
+UKR,Ukraine,2001,EUR,Upper-middle,99.4300003051758,Adult_Literacy_Rate
+URY,Uruguay,2024,AMR,High,98.9100036621094,Adult_Literacy_Rate
+UZB,Uzbekistan,2022,EUR,Lower-middle,100.0,Adult_Literacy_Rate
+VCT,Saint Vincent and the Grenadines,1970,AMR,Upper-middle,95.629997253418,Adult_Literacy_Rate
+VEN,"Venezuela, Bolivarian Republic of",2017,AMR,Upper-middle,97.1837183128414,Adult_Literacy_Rate
+VNM,Viet Nam,2022,WPR,Lower-middle,96.129997253418,Adult_Literacy_Rate
+VUT,Vanuatu,2023,WPR,Lower-middle,87.9599990844727,Adult_Literacy_Rate
+WSM,Samoa,2019,WPR,Lower-middle,97.9899978637695,Adult_Literacy_Rate
+YEM,Yemen,1994,EMR,Low,37.0900001525879,Adult_Literacy_Rate
+ZAF,South Africa,2024,AFR,Upper-middle,91.1500015258789,Adult_Literacy_Rate
+ZMB,Zambia,2024,AFR,Lower-middle,71.7699966430664,Adult_Literacy_Rate
+ZWE,Zimbabwe,2019,AFR,Lower-middle,93.2300033569336,Adult_Literacy_Rate

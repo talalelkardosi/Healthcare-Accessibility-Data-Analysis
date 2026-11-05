@@ -1,0 +1,11 @@
+Validation_Check,Result,Interpretation
+Integrated dataset rows,12855,Source row count
+Duplicate ISO3-Year keys,0,Must be zero
+Countries in integrated dataset,196,Unique ISO3 count
+Countries in dictionary,196,Unique ISO3 count
+ISO3 codes unmatched to dictionary,0,Must be zero
+Dictionary rows missing Region,1,Not imputed
+Dictionary rows missing Income_Group,1,Not imputed
+Rows after left join,12855,Must equal source rows
+Rows missing Region after join,66,Excluded from region-only tests
+Rows missing Income_Group after join,66,Excluded from income-only tests
